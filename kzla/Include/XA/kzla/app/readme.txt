@@ -1,0 +1,1 @@
+Extract approach maps from videomaps.zip into this directory, reload sectorfile in Aurora. Hold shift and lick GEO to isolate certain maps.
