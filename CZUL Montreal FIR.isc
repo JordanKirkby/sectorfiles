@@ -1,0 +1,66 @@
+[INFO]
+N047.12.16.000
+W073.44.45.720
+60
+40.8
+-15
+XA\CZUL
+
+[ATC]
+F;atc.atc
+
+[AIRPORT]
+F;airac\czul.ap
+
+[RUNWAY]
+F;airac\czul.rw
+
+[FIXES]
+F;airac\czul.fix
+F;airac\customFixes.fix
+
+[NDB]
+F;airac\czul.ndb
+
+[VOR]
+F;airac\czul.vor
+
+[HIGH AIRWAY]
+F;airac\czul.awh
+
+[LOW AIRWAY]
+F;airac\czul.awl
+
+[ARTCC]
+F;airspace\czul.artcc
+F;airspace\cyqb app.artcc
+F;airspace\cyul app.artcc
+F;airspace\cyow app.artcc
+F;airspace\cytr app.artcc
+F;airspace\cybg app.artcc
+
+[ARTCC HIGH]
+
+[ARTCC LOW]
+F;airspace\terminal_control_areas.artcc
+F;airspace\control_zones.artcc
+F;airspace\czul_low.artcc
+//F;artcc\class c.artcc
+
+[GEO]
+F;geo\coast.geo
+
+[FILLCOLOR]
+F;airspace\czul_border.fcl
+F;ad\cyul.fcl
+F;ad\cybg.fcl
+F;ad\cyhu.fcl
+F;ad\cyjn.fcl
+F;ad\cymx.fcl
+F;ad\cyow.fcl
+F;ad\cyqb.fcl
+F;ad\cyrc.fcl
+F;ad\cytr.fcl
+F;ad\cywk.fcl
+F;ad\cyzv.fcl
+

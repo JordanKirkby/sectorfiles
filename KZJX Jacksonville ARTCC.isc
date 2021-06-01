@@ -1,0 +1,85 @@
+
+[INFO]
+N029.59.19.500
+W082.23.38.000
+60
+52
+-6
+XA\KZJX
+
+[DEFINE]
+KMCO_TRACON;#363636;
+KPNS_TRACON;#363636;
+KCAE_TRACON;#363636;
+KCHS_TRACON;#363636;
+KDAB_TRACON;#363636;
+KFLO_TRACON;#363636;
+KJAX_TRACON;#363636;
+KMYR_TRACON;#363636;
+NBC_RAPCON;#363636;
+OZR_APP;#363636;
+PAM_APP;#363636;
+SAV_APP;#363636;
+SSC_APP;#363636;
+TLH_APP;#363636;
+VLD_APP;#363636;
+VPS_APP;#363636;
+
+[ATC]
+F;atc.atc
+[Airport]
+F;airac\airports.ap
+[Runway]
+F;airac\runways.rw
+[FIXES]
+F;airac\fixes.fix
+[NDB]
+F;airac\ndb.ndb
+[VOR]
+F;airac\vor.VOR
+[HIGH AIRWAY]
+F;airac\awhigh.awh
+[LOW AIRWAY]
+F;airac\awlow.awl
+[ARTCC]
+F;airspace\kzjx.artcc
+
+[ARTCC HIGH]
+F;airspace\f11.artcc
+F;geo\disney_tfr.geo
+
+[ARTCC LOW]
+F;airspace\class b.artcc
+F;airspace\class c.artcc
+F;airspace\class d.artcc
+
+[GEO]
+F;ad\kegi.geo
+F;ad\knbc.geo
+F;ad\kmco.geo
+F;geo\coastlines.geo
+F;geo\restrict.geo
+F;geo\warning.geo
+F;geo\moa.geo
+F;geo\prohibit.geo
+
+//APP
+F;app\kmco_tracon.geo
+F;app\kpns_tracon.geo
+F;app\kcae_tracon.geo
+F;app\kchs_tracon.geo
+F;app\kdab_tracon.geo
+F;app\kflo_tracon.geo
+F;app\kjax_tracon.geo
+F;app\kmyr_tracon.geo
+F;app\nbc_rapcon.geo
+F;app\ozr_app.geo
+F;app\pam_app.geo
+F;app\sav_app.geo
+F;app\ssc_app.geo
+F;app\tlh_app.geo
+F;app\vld_app.geo
+f:app\vps_app.geo
+
+[FILLCOLOR]
+F;prohibit.fcl
