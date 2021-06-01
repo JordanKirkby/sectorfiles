@@ -1,0 +1,126 @@
+// IVAO IVAC Sectorfile KZAU Chicago ARTCC AIRAC 2002
+
+// This software is published under the GNU GPL Licence a copy of which must always accompany this file"
+// This Sectorfile must always acompanied by the History file"
+
+[INFO]
+N041.47.22.110
+W087.45.52.190
+60
+45
+-4
+XA\KZAU
+
+[DEFINE]
+//VIDEO MAPS; COLORS (GEO)
+C90 TRACON;#363636;
+KALO APP;#363636;
+KAZO APP;#363636;
+KAZT APP;#363636;
+KCMI APP;#363636;
+KCID APP;#363636;
+KFWA APP;#363636;
+KGRR APP;#363636;
+KMKE 1L APP;#363636;
+KMKE 7R APP;#363636;
+KMKE 19R APP;#363636;
+KMKE 25L APP;#363636;
+KMLI APP;#363636;
+KMSN APP;#363636;
+KRFD APP;#363636;
+KPIA APP;#363636;
+KSBN APP;#363636;
+
+[ATC]
+F;\atc.atc
+
+[Airport]
+F;airac\airports.ap
+
+[Runway]
+F;airac\runways.rw
+
+[FIXES]
+F;airac\fixes.fix
+
+[NDB]
+F;airac\ndb.ndb
+
+[VOR]
+F;airac\vor.VOR
+
+[HIGH AIRWAY]
+F;airac\awhigh.awh
+
+[LOW AIRWAY]
+F;airac\awlow.awl
+
+[ARTCC]
+F;airspace\kzau.artcc
+
+[ARTCC HIGH]
+F;airspace\kalo.artcc
+F;airspace\kord.artcc
+F;airspace\kcid.artcc
+F;airspace\kcmi.artcc
+F;airspace\kfwa.artcc
+F;airspace\kgus.artcc
+F;airspace\kmke.artcc
+F;airspace\kmli.artcc
+F;airspace\kmsn.artcc
+F;airspace\kpia.artcc
+F;airspace\krfd.artcc
+F;airspace\ksbn.artcc
+F;airspace\kvok.artcc
+//F;airspace\kzau_app.artcc
+//F;airspace\kzau_twr.artcc
+
+[ARTCC LOW]
+F;airspace\kzau_low.artcc
+F;airspace\class b.artcc
+F;airspace\class c.artcc
+F;airspace\class d.artcc
+F;airspace\trsa.artcc
+
+[GEO]
+F;GEO\coast.geo
+F;GEO\moa.geo
+F;GEO\restrict.geo
+
+//ad
+F;ad\kord.geo
+F;ad\kcid.geo
+F;ad\kcmi.geo
+F;ad\kfwa.geo
+F;ad\kgrr.geo
+F;ad\kmdw.geo
+F;ad\kmke.geo
+F;ad\kmli.geo
+F;ad\kmsn.geo
+F;ad\kpia.geo
+F;ad\ksbn.geo
+F;ad\kalo.geo
+F;ad\kazo.geo
+F;ad\kbmi.geo
+F;ad\kbtl.geo
+F;ad\kmkg.geo
+F;ad\krfd.geo
+
+//app
+F;app\kalo_app.geo
+F;app\kazo_app.geo
+
+F;app\kord_app.geo
+F;app\kcid_app.geo
+F;app\kcmi_app.geo
+F;app\kfwa_app.geo
+F;app\kgrr_app.geo
+F;app\kmke_1l_app.geo
+F;app\kmke_7r_app.geo
+F;app\kmke_19r_app.geo
+F;app\kmke_25l_app.geo
+F;app\kmli_app.geo
+F;app\kmsn_app.geo
+F;app\kpia_app.geo
+F;app\krfd_app.geo
+F;app\ksbn_app.geo

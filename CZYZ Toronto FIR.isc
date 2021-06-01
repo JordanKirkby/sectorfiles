@@ -1,0 +1,54 @@
+[INFO]
+N043.40.36.000
+W079.37.49.800
+60
+43.4
+-10
+XA\CZYZ
+
+[DEFINE]
+//VIDEO MAPS; COLORS (GEO)
+CYYZ APP;#363636;
+
+[ATC]
+F;\atc.atc
+
+[AIRPORT]
+F;airac\airports.ap
+
+[RUNWAY]
+F;airac\runways.rw
+
+[FIXES]
+F;airac\fixes.fix
+
+[NDB]
+F;airac\ndb.ndb
+
+[VOR]
+F;airac\vor.vor
+
+[HIGH AIRWAY]
+F;airac\awh.awh
+
+[LOW AIRWAY]
+F;airac\awl.awl
+
+[ARTCC]
+F;airspace\czyz.artcc
+
+[ARTCC HIGH]
+F;airspace\app.artcc
+
+[ARTCC LOW]
+F;airspace\terminal_control_areas.artcc
+F;airspace\control_zones.artcc
+
+[GEO]
+F;geo\coast.geo
+F;cyyz_txicenterlines.geo
+//APP MAPS
+//F;app\cyyz_app.geo
+
+[FILLCOLOR]
+F;airspace\czyz_aor.tfl
