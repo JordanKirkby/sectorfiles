@@ -107,8 +107,7 @@ jobs:
         - uses: montudor/action-zip@v1
           with:
             args: zip -qq -r dist/ZAK.zip . -i Include/XA/zak/ "ZAK Oakland Oceanic.isc"
-        - run: ls
-        - run: mv *.zip dist
+        - run: ls dist
         - run: export TITLE="Automatic Release $(date -u +%F_%H:%M:%S)"
         - uses: "marvinpinto/action-automatic-releases@latest"
           with:
