@@ -233,11 +233,12 @@ jobs:
     Upload:
       runs-on: ubuntu-latest
       steps:
-        - run: |
-            rm -rf dist
-            mkdir dist
-            mv *.zip dist
-            export TITLE="Automatic Release $(date -u +%F_%H:%M:%S)"
+        - run: rm -rf dist
+        - run: mkdir dist
+        - run: ls
+		- run: sleep 30
+        - run: mv *.zip dist
+        - run: export TITLE="Automatic Release $(date -u +%F_%H:%M:%S)"
         - uses: "marvinpinto/action-automatic-releases@latest"
           with:
             repo_token: "${{ secrets.GITHUB_TOKEN }}"
