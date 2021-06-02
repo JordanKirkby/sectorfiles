@@ -1,0 +1,295 @@
+name: ZIP Sectors
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+    CZEG:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/czeg/ 'CZEG Edmonton FIR.isc'
+            dest: CZEG.zip
+
+    CZQM:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/czqm/ 'CZQM Moncton FIR.isc'
+            dest: CZQM.zip
+
+    CZQX:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/czqx/ 'CZQX Gander FIR.isc'
+            dest: CZQX.zip
+
+    CZUL:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/czul/ 'CZUL Montreal FIR.isc'
+            dest: CZUL.zip
+
+    CZVR:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/czvr/ 'CZVR Vancouver FIR.isc'
+            dest: CZVR.zip
+
+    CZWG:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/czwg/ 'CZWG Winnipeg FIR.isc'
+            dest: CZWG.zip
+
+    CZYZ:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/czyz/ 'CZYZ Toronto FIR.isc'
+            dest: CZYZ.zip
+
+    KZAB:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzab/ 'KZAB Albuquerque 2014.isc'
+            dest: KZAB.zip
+
+    KZAK:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzak/ 'KZAK _W_CTR 2103.isc' 'KZAK_CW_CTR 2103.isc' 'KZAK_E_CTR 2103.isc' 'KZAK_N_CTR 2103.isc' 'KZAK_NW_CTR 2103.isc' 'KZAK_S_CTR 2103.isc'
+            dest: KZAK.zip
+
+    KZAU:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzau/ 'KZAU Chicago 2101.isc'
+            dest: KZAU.zip
+
+    KZBW:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzbw/ 'KZBW Boston ARTCC.isc'
+            dest: KZBW.zip
+
+    KZDC:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzdc/ 'KZDC Washington ARTCC.isc'
+            dest: KZDC.zip
+
+    KZDV:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzdv/ 'KZDV Denver 2014.isc'
+            dest: KZDV.zip
+
+    KZFW:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzfw 'KZFW Fort Worth ARTCC.isc'
+            dest: KZFW.zip
+
+    KZHU:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzhu/ 'KZHU Houston ARTCC 2012.isc'
+            dest: KZHU.zip
+
+    KZID:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzid/ 'KZID Indianapolis 2014.isc'
+            dest: KZID.zip
+
+    KZJX:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzjx/ 'KZJX Jacksonville ARTCC.isc'
+            dest: KZJX.zip
+
+    KZKC:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzkc/ 'KZKC Kansas City 2102.isc'
+            dest: KZKC.zip
+
+    KZLA:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzla/ 'KZLA Los Angeles ARTCC.isc'
+            dest: KZLA.zip
+
+    KZLC:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzlc/ 'KZLC Salt Lake 2103.isc'
+            dest: KZLC.zip
+
+    KZMA:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzma/ 'KZMA Miami ARTCC.isc'
+            dest: KZMA.zip
+
+    KZME:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzme/ 'KZME Memphis 2013-1.isc'
+            dest: KZME.zip
+
+    KZMP:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzmp/ 'KZMP Minneapolis 2103.isc'
+            dest: KZMP.zip
+
+    KZNY:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzny/ 'KZNY New York ARTCC.isc'
+            dest: KZNY.zip
+
+    KZOA:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzoa/ 'KZOA Oakland 2013.isc'
+            dest: KZOA.zip
+
+    KZOB:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzob/ 'KZOB Cleveland ARTCC.isc'
+            dest: KZOB.zip
+
+    KZSE:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kzse/ 'KZSE Seattle ARTCC.isc'
+            dest: KZSE.zip
+
+    KZTL:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/kztl/ 'KZTL Atlanta ARTCC.isc'
+            dest: KZTL.zip
+
+    PAZA:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/paza/ 'PAZA Anchorage ARTCC.isc'
+            dest: PAZA.zip
+
+    PGZU:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/pgzu/ 'PGZU Guam CENRAP.isc'
+            dest: PGZU.zip
+
+    PHZH:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/phzh/ 'PHZH Honolulu ARTCC.isc'
+            dest: PHZH.zip
+
+    ZAK:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: papeloto/action-zip@v1
+          with:
+            files: Include/XA/zak/ 'ZAK Oakland Oceanic.isc'
+            dest: ZAK.zip
