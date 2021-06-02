@@ -7,9 +7,12 @@ on:
 
 jobs:
     Setup:
-      run: |
-        rm -rf dist
-        mkdir dist
+      runs-on: ubuntu-latest
+      steps:
+        - run: |
+            rm -rf dist
+            mkdir dist
+            export TITLE="Automatic Release $(date -u +%F_%H:%M:%S)"
 
     CZEG:
       runs-on: ubuntu-latest
@@ -243,6 +246,6 @@ jobs:
             repo_token: "${{ secrets.GITHUB_TOKEN }}"
             automatic_release_tag: "latest"
             prerelease: false
-            title: "Automatic Release $(date -u +%F_%H:%M:%S)"
+            title: "${{ env.TITLE }}"
             files: |
               *.zip
