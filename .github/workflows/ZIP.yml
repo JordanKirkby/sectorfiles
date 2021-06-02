@@ -12,7 +12,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/czeg/ "CZEG Edmonton FIR.isc"
+            files: Include/XA/czeg/ CZEG\ Edmonton\ FIR.isc
             dest: CZEG.zip
 
     CZQM:
@@ -21,7 +21,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/czqm/ "CZQM Moncton FIR.isc"
+            files: Include/XA/czqm/ CZQM\ Moncton\ FIR.isc
             dest: CZQM.zip
 
     CZQX:
@@ -30,7 +30,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/czqx/ "CZQX Gander FIR.isc"
+            files: Include/XA/czqx/ CZQX\ Gander\ FIR.isc
             dest: CZQX.zip
 
     CZUL:
@@ -39,7 +39,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/czul/ "CZUL Montreal FIR.isc"
+            files: Include/XA/czul/ CZUL\ Montreal\ FIR.isc
             dest: CZUL.zip
 
     CZVR:
@@ -48,7 +48,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/czvr/ "CZVR Vancouver FIR.isc"
+            files: Include/XA/czvr/ CZVR\ Vancouver\ FIR.isc
             dest: CZVR.zip
 
     CZWG:
@@ -57,7 +57,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/czwg/ "CZWG Winnipeg FIR.isc"
+            files: Include/XA/czwg/ CZWG\ Winnipeg\ FIR.isc
             dest: CZWG.zip
 
     CZYZ:
@@ -66,7 +66,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/czyz/ "CZYZ Toronto FIR.isc"
+            files: Include/XA/czyz/ CZYZ\ Toronto\ FIR.isc
             dest: CZYZ.zip
 
     KZAB:
@@ -75,7 +75,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzab/ "KZAB Albuquerque 2014.isc"
+            files: Include/XA/kzab/ KZAB\ Albuquerque\ 2014.isc
             dest: KZAB.zip
 
     KZAK:
@@ -84,7 +84,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzak/ "KZAK _W_CTR 2103.isc" "KZAK_CW_CTR 2103.isc" "KZAK_E_CTR 2103.isc" "KZAK_N_CTR 2103.isc" "KZAK_NW_CTR 2103.isc" "KZAK_S_CTR 2103.isc"
+            files: Include/XA/kzak/ KZAK_W_CTR\ 2103.isc KZAK_CW_CTR\ 2103.isc KZAK_E_CTR\ 2103.isc KZAK_N_CTR\ 2103.isc KZAK_NW_CTR\ 2103.isc KZAK_S_CTR\ 2103.isc
             dest: KZAK.zip
 
     KZAU:
@@ -93,7 +93,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzau/ "KZAU Chicago 2101.isc"
+            files: Include/XA/kzau/ KZAU\ Chicago\ 2101.isc
             dest: KZAU.zip
 
     KZBW:
@@ -102,7 +102,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzbw/ "KZBW Boston ARTCC.isc"
+            files: Include/XA/kzbw/ KZBW\ Boston\ ARTCC.isc
             dest: KZBW.zip
 
     KZDC:
@@ -111,7 +111,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzdc/ "KZDC Washington ARTCC.isc"
+            files: Include/XA/kzdc/ KZDC\ Washington\ ARTCC.isc
             dest: KZDC.zip
 
     KZDV:
@@ -120,7 +120,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzdv/ "KZDV Denver 2014.isc"
+            files: Include/XA/kzdv/ KZDV\ Denver\ 2014.isc
             dest: KZDV.zip
 
     KZFW:
@@ -129,7 +129,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzfw "KZFW Fort Worth ARTCC.isc"
+            files: Include/XA/kzfw KZFW\ Fort\ Worth\ ARTCC.isc
             dest: KZFW.zip
 
     KZHU:
@@ -138,7 +138,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzhu/ "KZHU Houston ARTCC 2012.isc"
+            files: Include/XA/kzhu/ KZHU\ Houston\ ARTCC\ 2012.isc
             dest: KZHU.zip
 
     KZID:
@@ -147,7 +147,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzid/ "KZID Indianapolis 2014.isc"
+            files: Include/XA/kzid/ KZID\ Indianapolis\ 2014.isc
             dest: KZID.zip
 
     KZJX:
@@ -156,7 +156,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzjx/ "KZJX Jacksonville ARTCC.isc"
+            files: Include/XA/kzjx/ KZJX\ Jacksonville\ ARTCC.isc
             dest: KZJX.zip
 
     KZKC:
@@ -165,7 +165,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzkc/ "KZKC Kansas City 2102.isc"
+            files: Include/XA/kzkc/ KZKC\ Kansas\ City\ 2102.isc
             dest: KZKC.zip
 
     KZLA:
@@ -174,7 +174,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzla/ "KZLA Los Angeles ARTCC.isc"
+            files: Include/XA/kzla/ KZLA\ Los\ Angeles\ ARTCC.isc
             dest: KZLA.zip
 
     KZLC:
@@ -183,7 +183,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzlc/ "KZLC Salt Lake 2103.isc"
+            files: Include/XA/kzlc/ KZLC\ Salt\ Lake\ 2103.isc
             dest: KZLC.zip
 
     KZMA:
@@ -192,7 +192,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzma/ "KZMA Miami ARTCC.isc"
+            files: Include/XA/kzma/ KZMA\ Miami\ ARTCC.isc
             dest: KZMA.zip
 
     KZME:
@@ -201,7 +201,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzme/ "KZME Memphis 2013-1.isc"
+            files: Include/XA/kzme/ KZME\ Memphis\ 2013-1.isc
             dest: KZME.zip
 
     KZMP:
@@ -210,7 +210,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzmp/ "KZMP Minneapolis 2103.isc"
+            files: Include/XA/kzmp/ KZMP\ Minneapolis\ 2103.isc
             dest: KZMP.zip
 
     KZNY:
@@ -219,7 +219,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzny/ "KZNY New York ARTCC.isc"
+            files: Include/XA/kzny/ KZNY\ New\ York\ ARTCC.isc
             dest: KZNY.zip
 
     KZOA:
@@ -228,7 +228,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzoa/ "KZOA Oakland 2013.isc"
+            files: Include/XA/kzoa/ KZOA\ Oakland\ 2013.isc
             dest: KZOA.zip
 
     KZOB:
@@ -237,7 +237,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzob/ "KZOB Cleveland ARTCC.isc"
+            files: Include/XA/kzob/ KZOB\ Cleveland\ ARTCC.isc
             dest: KZOB.zip
 
     KZSE:
@@ -246,7 +246,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kzse/ "KZSE Seattle ARTCC.isc"
+            files: Include/XA/kzse/ KZSE\ Seattle\ ARTCC.isc
             dest: KZSE.zip
 
     KZTL:
@@ -255,7 +255,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/kztl/ "KZTL Atlanta ARTCC.isc"
+            files: Include/XA/kztl/ KZTL\ Atlanta\ ARTCC.isc
             dest: KZTL.zip
 
     PAZA:
@@ -264,7 +264,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/paza/ "PAZA Anchorage ARTCC.isc"
+            files: Include/XA/paza/ PAZA\ Anchorage\ ARTCC.isc
             dest: PAZA.zip
 
     PGZU:
@@ -273,7 +273,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/pgzu/ "PGZU Guam CENRAP.isc"
+            files: Include/XA/pgzu/ PGZU\ Guam\ CENRAP.isc
             dest: PGZU.zip
 
     PHZH:
@@ -282,7 +282,7 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/phzh/ "PHZH Honolulu ARTCC.isc"
+            files: Include/XA/phzh/ PHZH\ Honolulu\ ARTCC.isc
             dest: PHZH.zip
 
     ZAK:
@@ -291,5 +291,5 @@ jobs:
         - uses: actions/checkout@v2
         - uses: papeloto/action-zip@v1
           with:
-            files: Include/XA/zak/ "ZAK Oakland Oceanic.isc"
+            files: Include/XA/zak/ ZAK\ Oakland\ Oceanic.isc
             dest: ZAK.zip
