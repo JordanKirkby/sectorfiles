@@ -106,12 +106,12 @@ jobs:
           with:
             args: zip -qq -r ZAK.zip . -i Include/XA/zak/ "ZAK Oakland Oceanic.isc"
         - run: ls
-        - run: export TITLE="Automatic Release $(date -u +%F_%H:%M:%S)"
+        - run: export title="Automatic Release $(date -u +%F_%H:%M:%S)"
         - uses: "marvinpinto/action-automatic-releases@latest"
           with:
             repo_token: "${{ secrets.GITHUB_TOKEN }}"
             automatic_release_tag: "latest"
             prerelease: false
-            title: "${{ env.TITLE }}"
+            title: "${{ env.title }}"
             files: |
               *.zip
