@@ -1,4 +1,3 @@
-//Updated: AUG1 2020
 [INFO]
 N025.47.43.300
 W080.17.24.420
@@ -8,7 +7,6 @@ W080.17.24.420
 XA/KZMA
 
 [DEFINE]
-//VIDEO MAPS; COLORS (GEO)
 //MIAMI TRACON (EAST OPS);#363636;
 //MIAMI TRACON (WEST OPS);#363636;
 //TAMPA TRACON (NORTH OPS);#363636;
@@ -50,7 +48,6 @@ F;airspace\kzma_high.artcc
 F;airspace\myna.artcc
 
 [ARTCC HIGH]
-//APP BOUNDARIES
 F;app\mynn.artcc
 F;app\mygf.artcc
 F;app\mbpv.artcc
@@ -71,13 +68,20 @@ F;airspace\Class D.artcc
 [GEO]
 F;geo\coast.geo
 F;ad\kmia_centerlines.geo
-//F;geo\restrict.geo
-//F;geo\warning.geo
-//F;geo\moa.geo
-
-//APP MAPS (not used currently due to performance)
-
-
+F;geo\restrict.geo
+F;geo\warning.geo
+F;geo\moa.geo
+//F;geo\ftmyers_tracon_east.geo
+//F;geo\ftmyers_tracon_west.geo
+//F;geo\homestead_approach.geo
+//F;geo\miami_tracon_east.geo
+//F;geo\miami_tracon_west.geo
+//F;geo\navykeywest_tracon.geo
+//F;geo\orlando_tracon.geo
+//F;geo\palmbeach_tracon_east.geo
+//F;geo\palmbeach_tracon_west.geo
+//F;geo\tampa_tracon_north.geo
+//F;geo\tampa_tracon_south.geo
 
 [FILLCOLOR]
 F;airspace\kzma_aor.fcl
