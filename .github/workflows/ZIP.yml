@@ -9,6 +9,7 @@ jobs:
     Archive:
       runs-on: ubuntu-latest
       steps:
+        - uses: actions/checkout@v1
         - uses: montudor/action-zip@v1
           with:
             args: zip -qq -r CZEG.zip . -i Include/XA/czeg/ "CZEG Edmonton FIR.isc"
@@ -106,12 +107,12 @@ jobs:
           with:
             args: zip -qq -r ZAK.zip . -i Include/XA/zak/ "ZAK Oakland Oceanic.isc"
         - run: ls
-        - run: export title="Automatic Release $(date -u +%F_%H:%M:%S)"
+        - run: export TITLE="Automatic Release $(date -u +%F_%H:%M:%S)"
         - uses: "marvinpinto/action-automatic-releases@latest"
           with:
             repo_token: "${{ secrets.GITHUB_TOKEN }}"
             automatic_release_tag: "latest"
             prerelease: false
-            title: "${{ env.title }}"
+            title: "${{ env.TITLE }}"
             files: |
               *.zip
