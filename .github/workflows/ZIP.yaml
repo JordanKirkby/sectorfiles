@@ -1,0 +1,118 @@
+name: ZIP Sectors
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+    Archive:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v1
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r CZEG.zip . -i Include/XA/czeg/* "CZEG Edmonton FIR.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r CZQM.zip . -i Include/XA/czqm/* "CZQM Moncton FIR.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r CZQX.zip . -i Include/XA/czqx/* "CZQX Gander FIR.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r CZUL.zip . -i Include/XA/czul/* "CZUL Montreal FIR.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r CZVR.zip . -i Include/XA/czvr/* "CZVR Vancouver FIR.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r CZWG.zip . -i Include/XA/czwg/* "CZWG Winnipeg FIR.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r CZYZ.zip . -i Include/XA/czyz/* "CZYZ Toronto FIR.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZAB.zip . -i Include/XA/kzab/* "KZAB Albuquerque 2014.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZAK.zip . -i Include/XA/kzak/* "KZAK _W_CTR 2103.isc" "KZAK_CW_CTR 2103.isc" "KZAK_E_CTR 2103.isc" "KZAK_N_CTR 2103.isc" "KZAK_NW_CTR 2103.isc" "KZAK_S_CTR 2103.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZAU.zip . -i Include/XA/kzau/* "KZAU Chicago 2101.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZBW.zip . -i Include/XA/kzbw/* "KZBW Boston ARTCC.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZDC.zip . -i Include/XA/kzdc/* "KZDC Washington ARTCC.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZDV.zip . -i Include/XA/kzdv/* "KZDV Denver 2014.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZFW.zip . -i Include/XA/kzfw "KZFW Fort Worth ARTCC.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZHU.zip . -i Include/XA/kzhu/* "KZHU Houston ARTCC 2012.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZID.zip . -i Include/XA/kzid/* "KZID Indianapolis 2014.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZJX.zip . -i Include/XA/kzjx/* "KZJX Jacksonville ARTCC.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZKC.zip . -i Include/XA/kzkc/* "KZKC Kansas City 2102.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZLA.zip . -i Include/XA/kzla/* "KZLA Los Angeles ARTCC.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZLC.zip . -i Include/XA/kzlc/* "KZLC Salt Lake 2103.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZMA.zip . -i Include/XA/kzma/* "KZMA Miami ARTCC.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZME.zip . -i Include/XA/kzme/* "KZME Memphis 2013-1.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZMP.zip . -i Include/XA/kzmp/* "KZMP Minneapolis 2103.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZNY.zip . -i Include/XA/kzny/* "KZNY New York ARTCC.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZOA.zip . -i Include/XA/kzoa/* "KZOA Oakland 2013.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZOB.zip . -i Include/XA/kzob/* "KZOB Cleveland ARTCC.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZSE.zip . -i Include/XA/kzse/* "KZSE Seattle ARTCC.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r KZTL.zip . -i Include/XA/kztl/* "KZTL Atlanta ARTCC.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r PAZA.zip . -i Include/XA/paza/* "PAZA Anchorage ARTCC.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r PGZU.zip . -i Include/XA/pgzu/* "PGZU Guam CENRAP.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r PHZH.zip . -i Include/XA/phzh/* "PHZH Honolulu ARTCC.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r ZAK.zip . -i Include/XA/zak/* "ZAK Oakland Oceanic.isc"
+        - run: ls -la
+        - run: export title="Automatic Release $(date -u +%F_%H:%M:%S)"
+        - uses: "marvinpinto/action-automatic-releases@latest"
+          with:
+            repo_token: "${{ secrets.GITHUB_TOKEN }}"
+            automatic_release_tag: "latest"
+            prerelease: false
+            title: "${{ env.title }}"
+            files: |
+              *.zip
