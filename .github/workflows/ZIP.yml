@@ -6,6 +6,11 @@ on:
       - main
 
 jobs:
+    Setup:
+      run: |
+        rm -rf dist
+        mkdir dist
+
     CZEG:
       runs-on: ubuntu-latest
       steps:
