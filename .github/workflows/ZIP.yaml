@@ -51,7 +51,7 @@ jobs:
             args: zip -qq -r KZDV.zip . -i Include/XA/kzdv/* "KZDV Denver 2014.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZFW.zip . -i Include/XA/kzfw "KZFW Fort Worth ARTCC.isc"
+            args: zip -qq -r KZFW.zip . -i Include/XA/kzfw/* "KZFW Fort Worth ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
             args: zip -qq -r KZHU.zip . -i Include/XA/kzhu/* "KZHU Houston ARTCC 2012.isc"
@@ -105,7 +105,7 @@ jobs:
             args: zip -qq -r PHZH.zip . -i Include/XA/phzh/* "PHZH Honolulu ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r ZAK.zip . -i Include/XA/zak/* "ZAK Oakland Oceanic.isc"
+            args: zip -qq -r ZAK.zip . -i Include/XA/kzak/* "ZAK Oakland Oceanic.isc"
         - run: ls -la
         - run: export title="Automatic Release $(date -u +%F_%H:%M:%S)"
         - uses: "marvinpinto/action-automatic-releases@latest"
