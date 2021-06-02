@@ -1,0 +1,46 @@
+[INFO]
+N018.26.21.900
+W066.00.06.600 
+60
+57
+-12
+XA\TJZS
+
+[DEFINE]
+
+[Airport]
+F;airac\airports.ap
+
+[Runway]
+F;airac\runways.rw
+
+[FIXES]
+F;airac\fixes.fix
+
+[NDB]
+F;airac\ndb.ndb
+
+[VOR]
+F;airac\vor.vor
+
+[HIGH AIRWAY]
+F;airac\awhigh.awh
+
+[LOW AIRWAY]
+F;airac\awlow.awl
+
+[ARTCC]
+F;airspace\tzjs.artcc
+
+[ARTCC HIGH]
+F;airspace\app.artcc
+
+[ARTCC LOW]
+F;airspace\class_c.artcc
+F;airspace\class_d.artcc
+F;airspace\class_e.artcc
+[GEO]
+F;GEO\coastline.geo
+
+[FILLCOLOR]
+F;airspace\tjzs_aor.fcl
