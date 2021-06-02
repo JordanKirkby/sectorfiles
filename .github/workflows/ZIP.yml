@@ -11,221 +11,221 @@ jobs:
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZEG.zip Include/XA/czeg/ "CZEG Edmonton FIR.isc"
+            args: zip -qq -r CZEG.zip . -i Include/XA/czeg/ "CZEG Edmonton FIR.isc"
 
     CZQM:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZQM.zip Include/XA/czqm/ "CZQM Moncton FIR.isc"
+            args: zip -qq -r CZQM.zip . -i Include/XA/czqm/ "CZQM Moncton FIR.isc"
 
     CZQX:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZQX.zip Include/XA/czqx/ "CZQX Gander FIR.isc"
+            args: zip -qq -r CZQX.zip . -i Include/XA/czqx/ "CZQX Gander FIR.isc"
 
     CZUL:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZUL.zip Include/XA/czul/ "CZUL Montreal FIR.isc"
+            args: zip -qq -r CZUL.zip . -i Include/XA/czul/ "CZUL Montreal FIR.isc"
 
     CZVR:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZVR.zip Include/XA/czvr/ "CZVR Vancouver FIR.isc"
+            args: zip -qq -r CZVR.zip . -i Include/XA/czvr/ "CZVR Vancouver FIR.isc"
 
     CZWG:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZWG.zip Include/XA/czwg/ "CZWG Winnipeg FIR.isc"
+            args: zip -qq -r CZWG.zip . -i Include/XA/czwg/ "CZWG Winnipeg FIR.isc"
 
     CZYZ:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZYZ.zip Include/XA/czyz/ "CZYZ Toronto FIR.isc"
+            args: zip -qq -r CZYZ.zip . -i Include/XA/czyz/ "CZYZ Toronto FIR.isc"
 
     KZAB:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZAB.zip Include/XA/kzab/ "KZAB Albuquerque 2014.isc"
+            args: zip -qq -r KZAB.zip . -i Include/XA/kzab/ "KZAB Albuquerque 2014.isc"
 
     KZAK:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZAK.zip Include/XA/kzak/ "KZAK _W_CTR 2103.isc" "KZAK_CW_CTR 2103.isc" "KZAK_E_CTR 2103.isc" "KZAK_N_CTR 2103.isc" "KZAK_NW_CTR 2103.isc" "KZAK_S_CTR 2103.isc"
+            args: zip -qq -r KZAK.zip . -i Include/XA/kzak/ "KZAK _W_CTR 2103.isc" "KZAK_CW_CTR 2103.isc" "KZAK_E_CTR 2103.isc" "KZAK_N_CTR 2103.isc" "KZAK_NW_CTR 2103.isc" "KZAK_S_CTR 2103.isc"
 
     KZAU:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZAU.zip Include/XA/kzau/ "KZAU Chicago 2101.isc"
+            args: zip -qq -r KZAU.zip . -i Include/XA/kzau/ "KZAU Chicago 2101.isc"
 
     KZBW:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZBW.zip Include/XA/kzbw/ "KZBW Boston ARTCC.isc"
+            args: zip -qq -r KZBW.zip . -i Include/XA/kzbw/ "KZBW Boston ARTCC.isc"
 
     KZDC:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZDC.zip Include/XA/kzdc/ "KZDC Washington ARTCC.isc"
+            args: zip -qq -r KZDC.zip . -i Include/XA/kzdc/ "KZDC Washington ARTCC.isc"
 
     KZDV:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZDV.zip Include/XA/kzdv/ "KZDV Denver 2014.isc"
+            args: zip -qq -r KZDV.zip . -i Include/XA/kzdv/ "KZDV Denver 2014.isc"
 
     KZFW:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZFW.zip Include/XA/kzfw "KZFW Fort Worth ARTCC.isc"
+            args: zip -qq -r KZFW.zip . -i Include/XA/kzfw "KZFW Fort Worth ARTCC.isc"
 
     KZHU:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZHU.zip Include/XA/kzhu/ "KZHU Houston ARTCC 2012.isc"
+            args: zip -qq -r KZHU.zip . -i Include/XA/kzhu/ "KZHU Houston ARTCC 2012.isc"
 
     KZID:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZID.zip Include/XA/kzid/ "KZID Indianapolis 2014.isc"
+            args: zip -qq -r KZID.zip . -i Include/XA/kzid/ "KZID Indianapolis 2014.isc"
 
     KZJX:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZJX.zip Include/XA/kzjx/ "KZJX Jacksonville ARTCC.isc"
+            args: zip -qq -r KZJX.zip . -i Include/XA/kzjx/ "KZJX Jacksonville ARTCC.isc"
 
     KZKC:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZKC.zip Include/XA/kzkc/ "KZKC Kansas City 2102.isc"
+            args: zip -qq -r KZKC.zip . -i Include/XA/kzkc/ "KZKC Kansas City 2102.isc"
 
     KZLA:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZLA.zip Include/XA/kzla/ "KZLA Los Angeles ARTCC.isc"
+            args: zip -qq -r KZLA.zip . -i Include/XA/kzla/ "KZLA Los Angeles ARTCC.isc"
 
     KZLC:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZLC.zip Include/XA/kzlc/ "KZLC Salt Lake 2103.isc"
+            args: zip -qq -r KZLC.zip . -i Include/XA/kzlc/ "KZLC Salt Lake 2103.isc"
 
     KZMA:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZMA.zip Include/XA/kzma/ "KZMA Miami ARTCC.isc"
+            args: zip -qq -r KZMA.zip . -i Include/XA/kzma/ "KZMA Miami ARTCC.isc"
 
     KZME:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZME.zip Include/XA/kzme/ "KZME Memphis 2013-1.isc"
+            args: zip -qq -r KZME.zip . -i Include/XA/kzme/ "KZME Memphis 2013-1.isc"
 
     KZMP:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZMP.zip Include/XA/kzmp/ "KZMP Minneapolis 2103.isc"
+            args: zip -qq -r KZMP.zip . -i Include/XA/kzmp/ "KZMP Minneapolis 2103.isc"
 
     KZNY:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZNY.zip Include/XA/kzny/ "KZNY New York ARTCC.isc"
+            args: zip -qq -r KZNY.zip . -i Include/XA/kzny/ "KZNY New York ARTCC.isc"
 
     KZOA:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZOA.zip Include/XA/kzoa/ "KZOA Oakland 2013.isc"
+            args: zip -qq -r KZOA.zip . -i Include/XA/kzoa/ "KZOA Oakland 2013.isc"
 
     KZOB:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZOB.zip Include/XA/kzob/ "KZOB Cleveland ARTCC.isc"
+            args: zip -qq -r KZOB.zip . -i Include/XA/kzob/ "KZOB Cleveland ARTCC.isc"
 
     KZSE:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZSE.zip Include/XA/kzse/ "KZSE Seattle ARTCC.isc"
+            args: zip -qq -r KZSE.zip . -i Include/XA/kzse/ "KZSE Seattle ARTCC.isc"
 
     KZTL:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZTL.zip Include/XA/kztl/ "KZTL Atlanta ARTCC.isc"
+            args: zip -qq -r KZTL.zip . -i Include/XA/kztl/ "KZTL Atlanta ARTCC.isc"
 
     PAZA:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r PAZA.zip Include/XA/paza/ "PAZA Anchorage ARTCC.isc"
+            args: zip -qq -r PAZA.zip . -i Include/XA/paza/ "PAZA Anchorage ARTCC.isc"
 
     PGZU:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r PGZU.zip Include/XA/pgzu/ "PGZU Guam CENRAP.isc"
+            args: zip -qq -r PGZU.zip . -i Include/XA/pgzu/ "PGZU Guam CENRAP.isc"
 
     PHZH:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r PHZH.zip Include/XA/phzh/ "PHZH Honolulu ARTCC.isc"
+            args: zip -qq -r PHZH.zip . -i Include/XA/phzh/ "PHZH Honolulu ARTCC.isc"
 
     ZAK:
       runs-on: ubuntu-latest
       steps:
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r ZAK.zip Include/XA/zak/ "ZAK Oakland Oceanic.isc"
+            args: zip -qq -r ZAK.zip . -i Include/XA/zak/ "ZAK Oakland Oceanic.isc"
