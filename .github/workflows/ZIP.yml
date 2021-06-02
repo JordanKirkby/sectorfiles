@@ -231,12 +231,12 @@ jobs:
             args: zip -qq -r dist/ZAK.zip . -i Include/XA/zak/ "ZAK Oakland Oceanic.isc"
 
     Upload:
-	  runs-on: ubuntu-latest
-	  steps:
-	    - uses: "marvinpinto/action-automatic-releases@latest"
-		  with:
-		    repo_token: "${{ secrets.GITHUB_TOKEN }}"
-			automatic_release_tag: "latest"
-			prerelease: false
-			title: "Automatic Release $(date -u +%F_%H:%M:%S)"
-			files: *.zip
+      runs-on: ubuntu-latest
+      steps:
+        - uses: "marvinpinto/action-automatic-releases@latest"
+          with:
+            repo_token: "${{ secrets.GITHUB_TOKEN }}"
+            automatic_release_tag: "latest"
+            prerelease: false
+            title: "Automatic Release $(date -u +%F_%H:%M:%S)"
+            files: *.zip
