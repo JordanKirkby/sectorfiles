@@ -1,0 +1,79 @@
+[INFO]
+N040.30.00.000
+W105.30.00.000
+60
+46
+8
+XA\KZDV
+
+[DEFINE]
+//D01 NORTH;#363636;
+//D01 SOUTH;#363636;
+//D01 WEST;#363636;
+//D01 EAST;#363636;
+//KDEN TWR;#363636;
+//KDEN VFR;#363636;
+//KCOS NORTH;#363636;
+//KCOS SOUTH;#363636;
+//KASE APP;#363636;
+//KPUB APP;#363636;
+//KCPR APP;#363636;
+
+[ATC]
+F;atc.atc
+
+[Airport]
+F;airac\airports.ap
+
+[Runway]
+F;airac\runways.rw
+
+[FIXES]
+F;airac\fixes.fix
+
+[NDB]
+F;airac\ndb.ndb
+
+[VOR]
+F;airac\vor.vor
+
+[HIGH AIRWAY]
+F;airac\awhigh.awh
+
+[LOW AIRWAY]
+F;airac\awlow.awl
+
+[ARTCC]
+F;airspace\kzdv.artcc
+
+[ARTCC HIGH]
+F;airspace\kden app.artcc
+F;airspace\kase app.artcc
+F;airspace\kcos app.artcc
+F;airspace\kcpr app.artcc
+F;airspace\kpub app.artcc
+
+[ARTCC LOW]
+F;airspace\kzdv_low.artcc
+F;airspace\class b.artcc
+F;airspace\class c.artcc
+F;airspace\class d.artcc
+
+[GEO]
+F;geo\restrict.geo
+F;geo\moa.geo
+//;app\kden north.geo
+//;app\kden south.geo
+//;app\kden west.geo
+//;app\kden east.geo
+//;app\kden vfr.geo
+//;app\kden tower.geo
+//;app\kcos north.geo
+//;app\kcos south.geo
+//;app\kase app.geo
+//;app\kpub app.geo
+//;app\kcpr app.geo
+F;ad\kden.geo
+F;ad\kcos.geo
+
+
