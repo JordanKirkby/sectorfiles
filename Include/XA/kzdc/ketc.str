@@ -1,0 +1,20 @@
+// KETC STARs
+// Auto-generated 05/06/2021 by Wes Sleeman (XA)
+
+
+
+// KETC Approaches
+
+
+//// VDM27 ////
+KETC;27;VDM27;KETC;KETC;3;
+FUTAL;FUTAL;<br>;
+FUTAL;FUTAL;@1800;
+TYI;TYI;<br>;
+FUTAL;FUTAL;^1800 ^1800 @210K ^1800 @210K ^1800 @210K;
+FUTAL;FUTAL;
+
+KETC;27;GA VDM27;KETC;KETC;5;
+TYI;TYI;<br>;
+TYI;TYI;^2000;
+//// END VDM27 ////

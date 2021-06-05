@@ -1,15 +1,4 @@
-//KFAY SIDs BASED ON AIRAC 2007
+// KFAY SIDs
+// Auto-generated 05/06/2021 by Wes Sleeman (XA)
 
-//KFAY MOUNTY
-KFAY;04:10:22:28;MOUNTY4;FAY;FAY;
-FAY;FAY;<br>;
-TYI;TYI;<br>;
-RDU;RDU;<br>;
-LIB;LIB;<br>;
-GSO;GSO;<br>;
-SDZ;SDZ;<br>;
-CLT;CLT;<br>;
-CTF;CTF;<br>;
-FLO;FLO;<br>;
-ILM;ILM;<br>;
-CRE;CRE;<br>;
+
