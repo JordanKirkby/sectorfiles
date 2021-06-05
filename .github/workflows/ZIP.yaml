@@ -63,7 +63,7 @@ jobs:
             args: zip -qq -r KZJX.zip . -i Include/XA/kzjx/* "KZJX Jacksonville ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZKC.zip . -i Include/XA/kzkc/* "KZKC Kansas City 2102.isc"
+            args: zip -qq -r KZKC.zip . -i Include/XA/kzkc/* "KZKC Kansas City ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
             args: zip -qq -r KZLA.zip . -i Include/XA/kzla/* "KZLA Los Angeles ARTCC.isc"
