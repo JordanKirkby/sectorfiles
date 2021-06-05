@@ -1,0 +1,99 @@
+[INFO]
+N038.01.38.279
+W095.17.22.379
+60
+47
+2
+XA\KZKC
+
+[DEFINE]
+//KMCI_NORTH;#363636;
+//KMCI_SOUTH;#363636;
+//KMCI_EAST;#363636;
+//KMCI_WEST;#363636;
+//KSTL_30R_29_24;#363636;
+//KSTL_30L_29_24;#363636;
+//KSTL_30L_30R_24;#363636;
+//KSTL_12L_11;#363636;
+//KSTL_12R_11;#363636;
+//KSTL_12L_12R;#363636;
+//KTUL_NORTH;#363636;
+//KTUL_SOUTH;#363636;
+//KICT_NORTH;#363636;
+//KICT_SOUTH;#363636;
+//KSGF_TRACON;#363636;
+//KCOU_TRACON;#363636;
+//KEND_RAPCON;#363636;
+//KSZL_RAPCON;#363636;
+//KSPI_TRACON;#363636;
+
+[ATC]
+F;\atc.atc
+
+[Airport]
+F;airac\airports.ap
+
+[Runway]
+F;airac\runways.rw
+
+[FIXES]
+F;airac\fixes.fix
+
+[NDB]
+F;airac\ndb.ndb
+
+[VOR]
+F;airac\vor.vor
+
+[HIGH AIRWAY]
+F;airac\awhigh.awh
+
+[LOW AIRWAY]
+F;airac\awlow.awl
+
+[ARTCC]
+F;airspace\kzkc.artcc
+
+[ARTCC HIGH]
+F;airspace\kzkc_app.artcc
+F;airspace\kzkc_twr.artcc
+
+[ARTCC LOW]
+F;airspace\kzkc_low.artcc
+F;airspace\class b.artcc
+F;airspace\class c.artcc
+F;airspace\class d.artcc
+F;airspace\trsa.artcc
+
+[GEO]
+F;GEO\moa.geo
+F;GEO\restrict.geo
+
+//ad
+F;ad\kblv.geo
+F;ad\kcou.geo
+F;ad\kict.geo
+F;ad\ksgf.geo
+F;ad\kmci.geo
+F;ad\kstl.geo
+F;ad\kszl.geo
+F;ad\ktul.geo
+//F;app\kmci_north.geo
+//F;app\kmci_south.geo
+//F;app\kmci_east.geo
+//F;app\kmci_west.geo
+//F;app\kstl_12l-11.geo
+//F;app\kstl_12r-11.geo
+//F;app\kstl_12l-12r.geo
+//F;app\kstl_30l-29-24.geo
+//F;app\kstl_30r-29-24.geo
+//F;app\kstl_30l-30r-24.geo
+//F;app\ktul_north.geo
+//F;app\ktul_south.geo
+//F;app\kict_north.geo
+//F;app\kict_south.geo
+//F;app\ksgf tracon.geo
+//F;app\kcou tracon.geo
+//F;app\kend rapcon.geo
+//F;app\kszl rapcon.geo
+//F;app\kspi tracon.geo
