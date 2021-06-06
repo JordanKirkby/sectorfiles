@@ -1,0 +1,20 @@
+// CZBA STARs
+// Auto-generated 05/06/2021 by Wes Sleeman (XA)
+
+
+
+// CZBA Approaches
+
+
+//// RNV32 ////
+CZBA;32;RNV32;CZBA;CZBA;3;
+BOXAN;BOXAN;<br>;
+BOXAN;BOXAN;^2600;
+VIKTO;VIKTO;@1590;
+MESNO;MESNO;<br>;
+BOXAN;BOXAN;
+
+CZBA;32;GA RNV32;CZBA;CZBA;5;
+MESNO;MESNO;<br>;
+MESNO;MESNO;@2600;
+//// END RNV32 ////
