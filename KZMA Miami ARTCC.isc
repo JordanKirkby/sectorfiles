@@ -68,6 +68,7 @@ F;airspace\Class D.artcc
 [GEO]
 F;geo\coast.geo
 F;ad\kmia_centerlines.geo
+F;klal_txicenterlines.geo
 F;geo\restrict.geo
 F;geo\warning.geo
 F;geo\moa.geo
