@@ -1,0 +1,34 @@
+[INFO]
+N025.02.14.000
+W077.27.57.000
+60
+54
+-7
+XA\MYNA
+
+[Airport]
+F;airac\airports.ap
+[Runway]
+F;airac\runways.rw
+[FIXES]
+F;airac\fixes.fix
+[NDB]
+F;airac\ndb.ndb
+[VOR]
+F;airac\vor.vor
+[HIGH AIRWAY]
+F;airac\awhigh.awh
+[LOW AIRWAY]
+F;airac\awlow.awl
+[ARTCC]
+F;airspace\myna.artcc
+[ARTCC HIGH]
+F;airspace\mynn_app.artcc
+F;airspace\mygf_app.artcc
+[ARTCC LOW]
+F;airspace\myna_low.artcc
+[GEO]
+F;GEO\coast.geo
+[FILLCOLOR]
+F;fill\mynn.fcl
+F;fill\mygf.fcl
