@@ -1,0 +1,69 @@
+[INFO]
+N037.56.55.496
+W122.05.58.000
+60
+47
+14
+XA\kzoa
+
+[DEFINE]
+//NORCAL TRACON EAST/NORTH;#363636;
+//NORCAL TRACON WEST/SOUTH;#363636;
+//NORCAL TRACON MVA;#363636;
+//FRESNO RWY11 TRACON;#363636;
+//FRESNO RWY29 TRACON;#363636;
+//TRAVIS RAPCON SFOE;#363636;
+//TRAVIS RAPCON SFOW;#363636;
+
+[ATC]
+F;atc.atc
+
+[Airport]
+F;airac\airports.ap
+
+[Runway]
+F;airac\runways.rw
+
+[FIXES]
+F;airac\fixes.fix
+
+[NDB]
+F;airac\ndb.ndb
+
+[VOR]
+F;airac\vor.vor
+
+[HIGH AIRWAY]
+F;airac\awhigh.awh
+
+[LOW AIRWAY]
+F;airac\awlow.awl
+
+[ARTCC]
+F;airspace\kzoa.artcc
+
+[ARTCC HIGH]
+F;airspace\app.artcc
+
+[ARTCC LOW]
+F;airspace\class b.artcc
+F;airspace\class c.artcc
+F;airspace\class d.artcc
+
+[GEO]
+F;geo\coast.geo
+F;geo\moa.geo
+F;geo\restrict.geo
+F;geo\warning.geo
+F;geo\prohibit.geo
+
+F;app\nct_northeast.geo
+F;app\nct_westsouth.geo
+F;app\kfat11.geo
+F;app\kfat29.geo
+F;app\ksuu sfoe.geo
+F;app\ksuu sfow.geo
+
+F;ad\ksfo.geo
+
+F;airspace\nct_mva.geo
