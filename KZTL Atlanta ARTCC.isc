@@ -1,8 +1,3 @@
-// IVAO Aurora Sectorfile KZTL Atlanta AIRAC 2013
-
-// This software is published under the GNU GPL Licence a copy of which must always accompany this file"
-// This Sectorfile must always acompanied by the History file"
-
 [INFO]
 N034.15.08.542
 W084.29.15.442
@@ -80,10 +75,8 @@ F;airspace\kztl_low.artcc
 F;airspace\class b.artcc
 F;airspace\class c.artcc
 F;airspace\class d.artcc
-F;airspace\trsa.artcc
 
 [GEO]
-F;geo\coast.geo
 F;geo\restrict.geo
 F;geo\moa.geo
 
@@ -106,9 +99,5 @@ F;geo\moa.geo
 //F;app\tri tracon.geo
 //F;app\tys tracon.geo
 
-
-//airport taxilines
 F;ad\katl.geo
 F;ad\kclt.geo
-
-[FILLCOLOR]
