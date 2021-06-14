@@ -54,7 +54,7 @@ F;airac\awlow.awl
 F;airspace\zdc.artcc
 
 [ARTCC HIGH]
-F;airspace\kpct_app.artcc
+F;airspace\app.artcc
 
 [ARTCC LOW]
 F;airspace\zdc_low.artcc
@@ -69,26 +69,25 @@ F;ad\korf_parking.geo
 F;ad\krdu_parking.geo
 F;ad\kric_parking.geo
 F;ad\kroa_parking.geo
-//F;geo\restrict.geo
-//F;geo\warning.geo
-//F;geo\moa.geo
-//F;geo\prohibit.geo
-
-//F;app\chp.geo
-//F;app\shd_north_ops.geo
-//F;app\shd_south_ops.geo
-//F;app\shd_19-30_ops.geo
-//F;app\mtv_north_ops.geo
-//F;app\mtv_south_ops.geo
-//F;app\jrv_north_ops.geo
-//F;app\jrv_south_ops.geo
-//F;app\kacy_app.geo
-//F;app\kdov_app.geo
-//F;app\kfay_app.geo
-//F;app\kilm_17-35_ops.geo
-//F;app\kilm_6_ops.geo
-//F;app\korf_ne_ops.geo
-//F;app\korf_sw_ops.geo
-//F;app\krdu_5s_ops.geo
-//F;app\krdu_23s_ops.geo
-//F;app\kroa_app.geo
+F;geo\restrict.geo
+F;geo\warning.geo
+F;geo\moa.geo
+F;geo\prohibit.geo
+F;app\chp.geo
+F;app\shd_north_ops.geo
+F;app\shd_south_ops.geo
+F;app\shd_19-30_ops.geo
+F;app\mtv_north_ops.geo
+F;app\mtv_south_ops.geo
+F;app\jrv_north_ops.geo
+F;app\jrv_south_ops.geo
+F;app\kacy_app.geo
+F;app\kdov_app.geo
+F;app\kfay_app.geo
+F;app\kilm_17-35_ops.geo
+F;app\kilm_6_ops.geo
+F;app\korf_ne_ops.geo
+F;app\korf_sw_ops.geo
+F;app\krdu_5s_ops.geo
+F;app\krdu_23s_ops.geo
+F;app\kroa_app.geo
