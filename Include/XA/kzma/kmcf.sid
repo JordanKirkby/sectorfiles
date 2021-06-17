@@ -1,20 +1,12 @@
-//KMCF MACDILL
-KMCF;04:22;MACDILL;ZUXON;ZUXON;
-MCF;MCF;
-PIE;PIE;
+// KMCF SIDs
+// Auto-generated 16/06/2021 by Wes Sleeman (XA)
+
+
+//// MCF1 ////
+KMCF;05:23;MCF1;KMCF;KMCF;
 MCF;MCF;<br>;
-CTY;CTY;
+MCF;MCF;@250K;
 MCF;MCF;<br>;
-SZW;SZW;
-MCF;MCF;<br>;
-OCF;OCF;
-MCF;MCF;<br>;
-GNV;GNV;
-MCF;MCF;<br>;
-ORL;ORL;
-MCF;MCF;<br>;
-PHK;PHK;
-MCF;MCF;<br>;
-RSW;RSW;
-MCF;MCF;<br>;
-SRQ;SRQ;
+MCF;MCF;@250K;
+
+//// END MCF1 ////
