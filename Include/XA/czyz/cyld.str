@@ -1,7 +1,5 @@
 // CYLD STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 18/06/2021 by Wes Sleeman (XA)
 
 // CYLD Approaches
 
@@ -9,7 +7,7 @@
 //// NDB05 ////
 CYLD;05;NDB05;CYLD;CYLD;3;
 YLD;YLD;<br>;
-YLD;YLD;@2860 ^3000 @210K ^3000 @210K ^3000 @210K;
+YLD;YLD;@2860 @210K @210K @210K;
 YLD;YLD;
 
 CYLD;05;GA NDB05;CYLD;CYLD;5;

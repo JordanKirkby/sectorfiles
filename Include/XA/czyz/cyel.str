@@ -1,7 +1,5 @@
 // CYEL STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 18/06/2021 by Wes Sleeman (XA)
 
 // CYEL Approaches
 
@@ -10,7 +8,7 @@
 CYEL;12;NDBA12;CYEL;CYEL;3;
 KEBDO;KEBDO;<br>;
 KEBDO;KEBDO;^2800;
-YEL;YEL;@2300 ^2800 @210K ^2800 @210K ^2800 @210K;
+YEL;YEL;@2300 @210K @210K @210K;
 KEBDO;KEBDO;
 
 CYEL;12;GA NDBA12;CYEL;CYEL;5;

@@ -1,7 +1,5 @@
 // CYZD STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 18/06/2021 by Wes Sleeman (XA)
 
 // CYZD Approaches
 
@@ -54,7 +52,7 @@ PEMRO;PEMRO;
 
 CYZD;33;GA RNVY33;CYZD;CYZD;5;
 LONTO;LONTO;<br>;
-LONTO;LONTO;@2000 @185K;
+LONTO;LONTO;@2500 @185K;
 TESUK;TESUK;
 //// END RNVY33 ////
 

@@ -1,7 +1,5 @@
 // CYKF STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 18/06/2021 by Wes Sleeman (XA)
 
 // CYKF Approaches
 
@@ -10,8 +8,7 @@
 CYKF;26;ILS26;CYKF;CYKF;3;
 LIBIL;LIBIL;<br>;
 LIBIL;LIBIL;^3000;
-DAXUN;DAXUN;@2210 ^3000 @210K ^3000 @210K ^3000 @210K;
-LIBIL;LIBIL;
+DAXUN;DAXUN;@2210 @210K @210K @210K 
 MAPEM;MAPEM;<br>;
 MAPEM;MAPEM;^3000 @210K;
 LIBIL;LIBIL;
