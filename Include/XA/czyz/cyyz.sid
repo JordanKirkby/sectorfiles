@@ -1,5 +1,5 @@
 // CYYZ SIDs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
+// Auto-generated 18/06/2021 by Wes Sleeman (XA)
 
 
 //// ANCOL4 ////
@@ -53,10 +53,8 @@ YTP;YTP;<br>;
 YTP;YTP;<br>;
 YTP;YTP;<br>;
 YTP;YTP;<br>;
-DE24L;DE24L;<br>;
-YYZ;YYZ;
-DE24R;DE24R;<br>;
-YYZ;YYZ;
+YYZ;YYZ;<br>;
+YYZ;YYZ;<br>;
 
 //// END ARROW3 ////
 
@@ -1935,10 +1933,8 @@ AHPAH;AHPAH;
 CYYZ;05:06L:06R:15L:15R:23:24L:24R:33L:33R;TRNTO3;CYYZ;CYYZ;
 YTP;YTP;<br>;
 YTP;YTP;<br>;
-DE24L;DE24L;<br>;
-YYZ;YYZ;
-DE24R;DE24R;<br>;
-YYZ;YYZ;
+YYZ;YYZ;<br>;
+YYZ;YYZ;<br>;
 
 //// END TRNTO3 ////
 

@@ -1,7 +1,5 @@
 // CYKZ STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 18/06/2021 by Wes Sleeman (XA)
 
 // CYKZ Approaches
 
@@ -24,7 +22,7 @@ KENGU;KENGU;<br>;
 KENGU;KENGU;^2600;
 KZ;KZ;@2100;
 OO;OO;<br>;
-KZ;KZ;^2600 ^2600 @210K ^2600 @210K ^2600 @210K;
+KZ;KZ;^2600 @210K @210K @210K;
 KENGU;KENGU;
 
 CYKZ;21;GA NDB21;CYKZ;CYKZ;5;

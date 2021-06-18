@@ -1,7 +1,5 @@
 // CYPQ STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 18/06/2021 by Wes Sleeman (XA)
 
 // CYPQ Approaches
 
@@ -11,8 +9,7 @@ CYPQ;09;NDB09;CYPQ;CYPQ;3;
 YPQ;YPQ;<br>;
 YPQ;YPQ;@1910;
 OO;OO;<br>;
-YPQ;YPQ;^3700 ^2800 @210K ^2800 @210K ^2800 @210K;
-YPQ;YPQ;^2800 @210K ^2800 @210K ^2800 @210K;
+YPQ;YPQ;^3700 @210K @210K @210K @210K @210K @210K;
 YPQ;YPQ;
 
 CYPQ;09;GA NDB09;CYPQ;CYPQ;5;
