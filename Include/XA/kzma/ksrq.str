@@ -1,5 +1,5 @@
 // KSRQ STARs
-// Auto-generated 16/06/2021 by Wes Sleeman (XA)
+// Auto-generated 18/06/2021 by Wes Sleeman (XA)
 
 // KSRQ Approaches
 
@@ -119,22 +119,6 @@ MURDO;MURDO;^3000;
 
 // KSRQ Arrivals
 
-
-//// BLOND5 ////
-KSRQ;04:14:22:32;BLOND5;KSRQ;KSRQ;
-SIMMR;SIMMR;<br>;
-RUDOF;RUDOF;
-BLOND;BLOND;
-BLOND;BLOND;<br>;
-AGASE;AGASE;
-
-KSRQ;04:14:22:32;SIMMR.BLOND5;KSRQ;KSRQ;1;
-BLOND;BLOND;<br>;
-AGASE;AGASE;
-SIMMR;SIMMR;<br>;
-RUDOF;RUDOF;
-BLOND;BLOND;
-//// END BLOND5 ////
 
 //// CLAMP7 ////
 KSRQ;04:14:22:32;CLAMP7;KSRQ;KSRQ;

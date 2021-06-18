@@ -1,5 +1,5 @@
 // KMCF STARs
-// Auto-generated 16/06/2021 by Wes Sleeman (XA)
+// Auto-generated 18/06/2021 by Wes Sleeman (XA)
 
 // KMCF Approaches
 
@@ -83,22 +83,6 @@ MILNE;MILNE;^1600;
 
 // KMCF Arrivals
 
-
-//// BLOND5 ////
-KMCF;05:23;BLOND5;KMCF;KMCF;
-SIMMR;SIMMR;<br>;
-RUDOF;RUDOF;
-BLOND;BLOND;
-BLOND;BLOND;<br>;
-AGASE;AGASE;
-
-KMCF;05:23;SIMMR.BLOND5;KMCF;KMCF;1;
-BLOND;BLOND;<br>;
-AGASE;AGASE;
-SIMMR;SIMMR;<br>;
-RUDOF;RUDOF;
-BLOND;BLOND;
-//// END BLOND5 ////
 
 //// BRDGE8 ////
 KMCF;05:23;BRDGE8;KMCF;KMCF;

@@ -1,5 +1,5 @@
 // KPIE STARs
-// Auto-generated 16/06/2021 by Wes Sleeman (XA)
+// Auto-generated 18/06/2021 by Wes Sleeman (XA)
 
 // KPIE Approaches
 
@@ -165,22 +165,6 @@ ESETE;ESETE;^2600;
 
 // KPIE Arrivals
 
-
-//// BLOND5 ////
-KPIE;04:18:22:36;BLOND5;KPIE;KPIE;
-SIMMR;SIMMR;<br>;
-RUDOF;RUDOF;
-BLOND;BLOND;
-BLOND;BLOND;<br>;
-AGASE;AGASE;
-
-KPIE;04:18:22:36;SIMMR.BLOND5;KPIE;KPIE;1;
-BLOND;BLOND;<br>;
-AGASE;AGASE;
-SIMMR;SIMMR;<br>;
-RUDOF;RUDOF;
-BLOND;BLOND;
-//// END BLOND5 ////
 
 //// BRDGE8 ////
 KPIE;04:18:22:36;BRDGE8;KPIE;KPIE;

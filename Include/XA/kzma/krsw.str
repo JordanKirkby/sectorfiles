@@ -1,5 +1,5 @@
 // KRSW STARs
-// Auto-generated 16/06/2021 by Wes Sleeman (XA)
+// Auto-generated 18/06/2021 by Wes Sleeman (XA)
 
 // KRSW Approaches
 
@@ -69,6 +69,21 @@ KRSW;24;GA RNV24;KRSW;KRSW;5;
 HASBO;HASBO;<br>;
 CORFU;CORFU;^2300;
 //// END RNV24 ////
+
+//// TAC24 ////
+KRSW;24;TAC24;KRSW;KRSW;3;
+MORGN;MORGN;<br>;
+MORGN;MORGN;@1600;
+ZEVSO;ZEVSO;^660;
+JEROX;JEROX;@82;
+RSW;RSW;<br>;
+MORGN;MORGN;^2000 @210K @210K @210K;
+MORGN;MORGN;
+
+KRSW;24;GA TAC24;KRSW;KRSW;5;
+CORFU;CORFU;<br>;
+CORFU;CORFU;^2300;
+//// END TAC24 ////
 
 // KRSW Arrivals
 

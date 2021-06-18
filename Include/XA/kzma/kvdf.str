@@ -1,5 +1,5 @@
 // KVDF STARs
-// Auto-generated 16/06/2021 by Wes Sleeman (XA)
+// Auto-generated 18/06/2021 by Wes Sleeman (XA)
 
 // KVDF Approaches
 
@@ -63,22 +63,6 @@ LAL;LAL;^2700;
 
 // KVDF Arrivals
 
-
-//// BLOND5 ////
-KVDF;05:18:23:36;BLOND5;KVDF;KVDF;
-SIMMR;SIMMR;<br>;
-RUDOF;RUDOF;
-BLOND;BLOND;
-BLOND;BLOND;<br>;
-AGASE;AGASE;
-
-KVDF;05:18:23:36;SIMMR.BLOND5;KVDF;KVDF;1;
-BLOND;BLOND;<br>;
-AGASE;AGASE;
-SIMMR;SIMMR;<br>;
-RUDOF;RUDOF;
-BLOND;BLOND;
-//// END BLOND5 ////
 
 //// BRDGE8 ////
 KVDF;05:18:23:36;BRDGE8;KVDF;KVDF;
