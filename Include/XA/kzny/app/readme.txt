@@ -1,1 +1,0 @@
-Extract files from videomaps.zip into this directory, then reload sectorfile in aurora.

@@ -1,6 +1,40 @@
 // KLGA SIDs
 // Auto-generated 14/06/2021 by Wes Sleeman (XA)
 
+//// LGA7 ////
+KLGA;04:13:22:31;LGA7;KLGA;KLGA;
+LGA;LGA;<br>;
+CMK;CMK;<br>;
+GREKI;GREKI;<br>;
+MERIT;MERIT;<br>;
+BAYYS;BAYYS;<br>;
+BDR;BDR;<br>;
+DPK;DPK;<br>;
+JFK;JFK;<br>;
+SHIPP;SHIPP;<br>;
+WAVEY;WAVEY;<br>;
+CRI;CRI;<br>;
+COL;COL;<br>;
+DIXIE;DIXIE;<br>;
+WHITE;WHITE;<br>;
+CYN;CYN;<br>;
+RBV;RBV;<br>;
+PTW;PTW;<br>;
+BIGGY;BIGGY;<br>;
+LANNA;LANNA;<br>;
+SBJ;SBJ;<br>;
+BWZ;BWZ;<br>;
+ZIMMZ;ZIMMZ;<br>;
+PARKE;PARKE;<br>;
+ELIOT;ELIOT;<br>;
+NEWEL;NEWEL;<br>;
+COATE;COATE;<br>;
+NEION;NEION;<br>;
+HAAYS;HAAYS;<br>;
+GAYEL;GAYEL;<br>;
+HUO;HUO;<br>;
+SAX;SAX;<br>;
+//// END LGA7 ////
 
 //// GLDMN7 ////
 KLGA;13;GLDMN7;KLGA;KLGA;
