@@ -1,5 +1,5 @@
 // KPMD STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 01/07/2021 by Wes Sleeman (XA)
 
 // KPMD Approaches
 
@@ -31,7 +31,7 @@ ETHER;ETHER;<br>;
 AMANE;AMANE;
 AMANE;AMANE;
 PMD;PMD;<br>;
-FORDA;FORDA;^6500 ^5000 @210K ^5000 @210K ^5000 @210K;
+FORDA;FORDA;^6500 @210K @210K @210K;
 AMANE;AMANE;
 
 KPMD;25;GA ILS25;KPMD;KPMD;5;

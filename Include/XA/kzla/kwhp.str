@@ -1,5 +1,5 @@
 // KWHP STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 01/07/2021 by Wes Sleeman (XA)
 
 // KWHP Approaches
 
@@ -23,7 +23,7 @@ CANOG;CANOG;^4000;
 //// VORA12 ////
 KWHP;12;VORA12;KWHP;KWHP;3;
 VNY;VNY;<br>;
-VNY;VNY;@3200 @1760;
+VNY;VNY;@3200;
 FIM;FIM;<br>;
 SUANA;SUANA;^4400;
 CANOG;CANOG;^3900;
@@ -55,7 +55,7 @@ CANOG;CANOG;
 //// VORA30 ////
 KWHP;30;VORA30;KWHP;KWHP;3;
 VNY;VNY;<br>;
-VNY;VNY;@3200 @1760;
+VNY;VNY;@3200;
 FIM;FIM;<br>;
 SUANA;SUANA;^4400;
 CANOG;CANOG;^3900;

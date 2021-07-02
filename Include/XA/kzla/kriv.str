@@ -1,5 +1,5 @@
 // KRIV STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 01/07/2021 by Wes Sleeman (XA)
 
 // KRIV Approaches
 
@@ -140,7 +140,7 @@ HDF;HDF;<br>;
 HDF;HDF;@3700;
 MA32;MA32;@1885;
 HDF;HDF;<br>;
-HDF;HDF;^5300 ^5300 @210K ^5300 @210K ^5300 @210K;
+HDF;HDF;^5300 @210K @210K @210K;
 HDF;HDF;
 
 KRIV;32;GA VORY32;KRIV;KRIV;5;

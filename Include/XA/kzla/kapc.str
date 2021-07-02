@@ -1,5 +1,5 @@
 // KAPC STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 01/07/2021 by Wes Sleeman (XA)
 
 // KAPC Approaches
 
@@ -117,7 +117,7 @@ BURDE;BURDE;^3500;
 JATPO;JATPO;
 SAU;SAU;<br>;
 BURDE;BURDE;^4000;
-JATPO;JATPO;^3500 @210K ^3500 @210K ^3500 @210K;
+JATPO;JATPO;@210K @210K @210K;
 JATPO;JATPO;
 
 KAPC;06;GA VOR06;KAPC;KAPC;5;

@@ -1,5 +1,5 @@
 // KVCV STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 01/07/2021 by Wes Sleeman (XA)
 
 // KVCV Approaches
 
@@ -25,7 +25,7 @@ SCCAT;SCCAT;<br>;
 SCCAT;SCCAT;^5200;
 SUZZQ;SUZZQ;@4300;
 APLES;APLES;<br>;
-BYTHE;BYTHE;^6600 ^5200;
+BYTHE;BYTHE;^6600;
 SCCAT;SCCAT;
 
 KVCV;17;GA ILS17;KVCV;KVCV;5;
