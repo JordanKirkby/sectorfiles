@@ -1,5 +1,5 @@
 // KCCB STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 01/07/2021 by Wes Sleeman (XA)
 
 // KCCB Approaches
 
@@ -21,7 +21,7 @@ ADAMM;ADAMM;^5500;
 //// VORA06 ////
 KCCB;06;VORA06;KCCB;KCCB;3;
 POM;POM;<br>;
-POM;POM;@3700 @1433;
+POM;POM;@3700;
 HOPUN;HOPUN;<br>;
 POM;POM;
 POM;POM;
@@ -34,7 +34,7 @@ PDZ;PDZ;^4000;
 //// VORA24 ////
 KCCB;24;VORA24;KCCB;KCCB;3;
 POM;POM;<br>;
-POM;POM;@3700 @1433;
+POM;POM;@3700;
 HOPUN;HOPUN;<br>;
 POM;POM;
 POM;POM;
