@@ -35,9 +35,6 @@ F;airspace\class c.artcc
 F;airspace\class d.artcc
 F;airspace\trsa.artcc
 
-[FILLCOLOR]
-F;airspace\kzla_aor.fcl
-
 [GEO]
 F;geo\coast.geo
 F;app\moa.geo
