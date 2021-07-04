@@ -19,6 +19,9 @@ XA\KZDV
 //KPUB APP;#363636;
 //KCPR APP;#363636;
 
+[ATIS]
+F;default.atis
+
 [ATC]
 F;atc.atc
 
