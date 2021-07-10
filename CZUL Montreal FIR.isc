@@ -49,10 +49,11 @@ F;airspace\czul_low.artcc
 
 [GEO]
 F;geo\coast.geo
+F;cyul_txicenterlines.geo
+F;cyul_stoplines.geo
 
 [FILLCOLOR]
 F;airspace\czul_border.fcl
-F;ad\cyul.fcl
 F;ad\cybg.fcl
 F;ad\cyhu.fcl
 F;ad\cyjn.fcl
