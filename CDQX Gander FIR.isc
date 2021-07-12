@@ -7,6 +7,9 @@ W056.55.55.000
 -19.4
 XA\CZQX
 
+[ATIS]
+F;default.atis
+
 [ATC]
 F;atc.atc
 
