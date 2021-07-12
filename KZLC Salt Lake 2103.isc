@@ -8,7 +8,8 @@ W110.30.00.000
 43.5
 11
 XA\kzlc
-
+[ATIS]
+F;default.atis
 [DEFINE]
 //VIDEO MAPS; COLORS (GEO)
 S56 NORTH;#363636;
