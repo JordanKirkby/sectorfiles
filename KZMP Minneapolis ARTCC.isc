@@ -5,7 +5,8 @@ W093.00.00.000
 43
 -0
 XA\KZMP
-
+[ATIS]
+F;default.atis
 [DEFINE]
 //M98 RWY 12;#363636;
 //M98 RWY 17;#363636;
