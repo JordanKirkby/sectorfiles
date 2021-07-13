@@ -6,7 +6,8 @@ W164.02.29.000
 // PAZA sector has a wide range of variation. This is for PANC.
 16
 XA\PAZA
-
+[ATIS]
+F;default.atis
 [ATC]
 F;\atc.atc
 

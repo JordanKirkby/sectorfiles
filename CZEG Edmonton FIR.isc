@@ -5,7 +5,8 @@ W113.52.01.000
 36
 14
 XA\CZEG
-
+[ATIS]
+F;default.atis
 [ATC]
 F;\atc.atc
 [AIRPORT]
