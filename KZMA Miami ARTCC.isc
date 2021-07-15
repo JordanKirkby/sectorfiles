@@ -65,6 +65,7 @@ F;app\dab.artcc
 F;airspace\Class B.artcc
 F;airspace\Class C.artcc
 F;airspace\Class D.artcc
+F;airspace\Mode C Veil.artcc
 
 [GEO]
 F;geo\coast.geo
@@ -73,14 +74,14 @@ F;klal_txicenterlines.geo
 F;geo\restrict.geo
 F;geo\warning.geo
 F;geo\moa.geo
-//F;geo\ftmyers_tracon_east.geo
-//F;geo\ftmyers_tracon_west.geo
-//F;geo\homestead_approach.geo
-//F;geo\miami_tracon_east.geo
-//F;geo\miami_tracon_west.geo
-//F;geo\navykeywest_tracon.geo
-//F;geo\orlando_tracon.geo
-//F;geo\palmbeach_tracon_east.geo
-//F;geo\palmbeach_tracon_west.geo
-//F;geo\tampa_tracon_north.geo
-//F;geo\tampa_tracon_south.geo
+F;geo\ftmyers_tracon_east.geo
+F;geo\ftmyers_tracon_west.geo
+F;geo\homestead_approach.geo
+F;geo\miami_tracon_east.geo
+F;geo\miami_tracon_west.geo
+F;geo\navykeywest_tracon.geo
+F;geo\orlando_tracon.geo
+F;geo\palmbeach_tracon_east.geo
+F;geo\palmbeach_tracon_west.geo
+F;geo\tampa_tracon_north.geo
+F;geo\tampa_tracon_south.geo
