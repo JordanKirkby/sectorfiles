@@ -1,4 +1,3 @@
-//Updated: JUL30 2020
 [INFO]
 N051.17.36.000
 W056.55.55.000
@@ -67,31 +66,3 @@ F;ad\cyqy.geo
 F;ad\cysj.geo
 F;ad\cyyg.geo
 F;ad\cycl.geo
-
-[FILLCOLOR]
-F;airspace\cdqx_aor.fcl
-//CDQX
-F;ad\cyqx.fcl
-F;ad\cyyr.fcl
-F;ad\cyyt.fcl
-F;ad\lfvp.fcl
-F;ad\cydf.fcl
-F;ad\cyay.fcl
-F;ad\cyjt.fcl
-
-
-//CZQM
-F;ad\cyqm.fcl
-F;ad\cyaw.fcl
-F;ad\cyfc.fcl
-F;ad\cyhz.fcl
-F;ad\cyvb.fcl
-F;ad\cyzx.fcl
-F;ad\cygr.fcl
-F;ad\cyqi.fcl
-F;ad\cyqy.fcl
-F;ad\cysj.fcl
-F;ad\cyyg.fcl
-F;ad\cycl.fcl
-F;ad\ccn2.fcl
-
