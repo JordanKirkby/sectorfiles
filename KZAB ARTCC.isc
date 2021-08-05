@@ -1,0 +1,102 @@
+[INFO]
+N033.52.30.000
+W106.49.56.000
+60
+50
+10
+XA\KZAB
+[ATIS]
+F;default.atis
+[DEFINE]
+//VIDEO MAPS; COLORS (GEO)
+P50 EAST;#363636;
+P50 WEST;#363636;
+KPHX TWR EAST;#363636;
+KPHX TWR WEST;#363636;
+U90 SOUTHEAST;#363636;
+U90 NORTHWEST;#363636;
+KABQ RWY 8/3;#363636;
+KABQ 26/30/21;#363636;
+KABQ RWY 3;#363636;
+KABQ RWY 21;#363636;
+KABQ TOWER;#363636; 
+KAMA RWY 4;#363636;
+KAMA RWY 22;#363636;
+KELP TRACON;#363636;
+KHMN RAPCON;#363636;
+KLUF RAPCON;#363636;
+KROW TRACON;#363636;
+[ATC]
+F;atc.atc
+
+[Airport]
+F;airac\airports.ap
+
+[Runway]
+F;airac\runways.rw
+
+[FIXES]
+F;airac\fixes.fix
+
+[NDB]
+F;airac\ndb.ndb
+
+[VOR]
+F;airac\vor.vor
+
+[HIGH AIRWAY]
+F;airac\awhigh.awh
+
+[LOW AIRWAY]
+F;airac\awlow.awl
+
+[ARTCC]
+F;airspace\kzab.artcc
+
+[ARTCC HIGH]
+F;airspace\kzab_app.artcc
+F;airspace\kphx_twr.artcc
+F;airspace\kelp.artcc
+F;airspace\kabq_twr.artcc
+F;airspace\kama_twr.artcc
+F;airspace\kdma_twr.artcc
+F;airspace\ktus_twr.artcc
+
+[ARTCC LOW]
+F;airspace\class b.artcc
+F;airspace\class c.artcc
+F;airspace\class d.artcc
+
+[GEO]
+F;GEO\kzab.geo
+F;GEO\moa.geo
+F;GEO\restrict.geo
+F;geo\prohibit.geo
+
+//airport taxi/park lines
+F;ad\kphx.geo
+F;ad\kabq.geo
+F;ad\kama.geo
+F;ad\kelp.geo
+F;ad\ktus.geo
+
+//approaches
+F;app\p50 east.geo
+F;app\p50 west.geo
+F;app\kphx twr east.geo
+F;app\kphx twr west.geo
+F;app\u90 northwest.geo
+F;app\u90 southeast.geo
+F;app\kabq east.geo
+F;app\kabq west.geo
+F;app\kabq northeast.geo
+F;app\kabq southwest.geo
+F;app\kabq tower.geo
+
+F;app\kama rwy 4.geo
+F;app\kama rwy 22.geo
+F;app\kelp tracon.geo
+F;app\khmn tracon.geo
+F;app\kluf rapcon.geo
+F;app\krow tracon.geo
+
