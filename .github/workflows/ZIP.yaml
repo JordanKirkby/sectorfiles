@@ -33,7 +33,7 @@ jobs:
             args: zip -qq -r CZYZ.zip . -i Include/XA/czyz/* "CZYZ Toronto FIR.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZAB.zip . -i Include/XA/kzab/* "KZAB Albuquerque 2014.isc"
+            args: zip -qq -r KZAB.zip . -i Include/XA/kzab/* "KZAB Albuquerque ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
             args: zip -qq -r KZAK.zip . -i Include/XA/kzak/* "KZAK _W_CTR 2103.isc" "KZAK_CW_CTR 2103.isc" "KZAK_E_CTR 2103.isc" "KZAK_N_CTR 2103.isc" "KZAK_NW_CTR 2103.isc" "KZAK_S_CTR 2103.isc"
@@ -54,7 +54,7 @@ jobs:
             args: zip -qq -r KZFW.zip . -i Include/XA/kzfw/* "KZFW Fort Worth ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZHU.zip . -i Include/XA/kzhu/* "KZHU Houston ARTCC 2012.isc"
+            args: zip -qq -r KZHU.zip . -i Include/XA/kzhu/* "KZHU Houston ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
             args: zip -qq -r KZID.zip . -i Include/XA/kzid/* "KZID Indianapolis 2014.isc"
