@@ -7,8 +7,13 @@ W066.00.06.600
 XA\TJZS
 
 [DEFINE]
+
+[ATC]
+F;atc.atc
+
 [ATIS]
 F;default.atis
+
 [Airport]
 F;airac\airports.ap
 
@@ -40,8 +45,6 @@ F;airspace\app.artcc
 F;airspace\class_c.artcc
 F;airspace\class_d.artcc
 F;airspace\class_e.artcc
+
 [GEO]
 F;GEO\coastline.geo
-
-[FILLCOLOR]
-F;airspace\tjzs_aor.fcl
