@@ -28,7 +28,7 @@ BPT;#363636;
 CLL;#363636;
 
 [ATC]
-F;\artcc\atc.atc
+F;atc.atc
 [Airport]
 F;airac\airports.ap
 [Runway]
