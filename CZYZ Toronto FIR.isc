@@ -53,6 +53,9 @@ F;cyhm_txicenterlines.geo
 F;cytz_txicenterlines.geo
 F;cytz_stoplines.geo
 F;cytz_pier.geo
+F;cyxu_txicenterlines.geo
+F;cyxu_stoplines.geo
+F;cyxu_pier.geo
 //APP MAPS
 //F;app\cyyz_app.geo
 
