@@ -1,0 +1,64 @@
+// MMMA SIDs
+// Auto-generated 10/8/2021 by Wes Sleeman (XA)
+
+
+//// AXIPU2 ////
+MMMA;15;AXIPU2;MMMA;MMMA;
+AXIPU;AXIPU;<br>;
+
+//// END AXIPU2 ////
+
+//// DARVO2 ////
+MMMA;15;DARVO2;MMMA;MMMA;
+DARVO;DARVO;<br>;
+
+//// END DARVO2 ////
+
+//// EBDAT2 ////
+MMMA;33;EBDAT2;MMMA;MMMA;
+MAM;MAM;<br>;
+EBDAT;EBDAT;
+
+//// END EBDAT2 ////
+
+//// GAGPI2 ////
+MMMA;15;GAGPI2;MMMA;MMMA;
+MAM;MAM;<br>;
+GAGPI;GAGPI;
+
+//// END GAGPI2 ////
+
+//// IRBID2 ////
+MMMA;33;IRBID2;MMMA;MMMA;
+MAM;MAM;<br>;
+IRBID;IRBID;
+
+//// END IRBID2 ////
+
+//// MAM4A ////
+MMMA;15;MAM4A;MMMA;MMMA;
+MAM;MAM;<br>;
+MAM;MAM;^2000;
+
+//// END MAM4A ////
+
+//// MAM4B ////
+MMMA;33;MAM4B;MMMA;MMMA;
+MAM;MAM;<br>;
+MAM;MAM;^2000;
+
+//// END MAM4B ////
+
+//// OVEGI2 ////
+MMMA;15;OVEGI2;MMMA;MMMA;
+MAM;MAM;<br>;
+OVEGI;OVEGI;
+
+//// END OVEGI2 ////
+
+//// RADAS2 ////
+MMMA;15;RADAS2;MMMA;MMMA;
+MAM;MAM;<br>;
+RADAS;RADAS;
+
+//// END RADAS2 ////

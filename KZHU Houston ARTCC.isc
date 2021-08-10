@@ -10,7 +10,6 @@ F;default.atis
 [DEFINE]
 GPT;#363636;
 DLF;#363636;
-GRK;#363636;
 LFT;#363636;
 MOB;#363636;
 SAT;#363636;
@@ -77,8 +76,5 @@ F;GEO\moa.geo
 F;GEO\restrict.geo
 F;GEO\warning.geo
 F;geo\prohibit.geo
-F;app\kcrp.geo
-[FILLCOLOR]
-F;airspace\kzhu_aor.tfl
-F;airspace\kzhu_occ_aor.tfl
+
 
