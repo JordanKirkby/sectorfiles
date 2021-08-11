@@ -1,5 +1,3 @@
-// IVAO IVAC Sectorfile KZME Memphis ARTCC AIRAC 2013
-
 [INFO]
 N035.02.58.000
 W089.58.56.000
@@ -52,7 +50,6 @@ F;airspace\kzme.artcc
 F;airspace\class b.artcc
 F;airspace\class c.artcc
 F;airspace\class d.artcc
-F;airspace\trsa.artcc
 
 [GEO]
 F;GEO\coast.geo
