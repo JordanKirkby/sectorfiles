@@ -1,14 +1,9 @@
-// IVAO IVAC Sectorfile KZAU Chicago ARTCC AIRAC 2002
-
-// This software is published under the GNU GPL Licence a copy of which must always accompany this file"
-// This Sectorfile must always acompanied by the History file"
-
 [INFO]
-N041.47.22.110
-W087.45.52.190
+41.97885713
+-87.90270109
 60
 45
--4
+-3
 XA\KZAU
 [ATIS]
 F;default.atis
@@ -17,7 +12,6 @@ F;default.atis
 C90 TRACON;#363636;
 KALO APP;#363636;
 KAZO APP;#363636;
-KAZT APP;#363636;
 KCMI APP;#363636;
 KCID APP;#363636;
 KFWA APP;#363636;
@@ -33,7 +27,7 @@ KPIA APP;#363636;
 KSBN APP;#363636;
 
 [ATC]
-F;\atc.atc
+F;atc.atc
 
 [Airport]
 F;airac\airports.ap
@@ -110,15 +104,14 @@ F;ad\krfd.geo
 //app
 F;app\kalo_app.geo
 F;app\kazo_app.geo
-
 F;app\kord_app.geo
 F;app\kcid_app.geo
 F;app\kcmi_app.geo
 F;app\kfwa_app.geo
 F;app\kgrr_app.geo
-F;app\kmke_1l_app.geo
-F;app\kmke_7r_app.geo
-F;app\kmke_19r_app.geo
+//F;app\kmke_1l_app.geo
+//F;app\kmke_7r_app.geo
+//F;app\kmke_19r_app.geo
 F;app\kmke_25l_app.geo
 F;app\kmli_app.geo
 F;app\kmsn_app.geo
