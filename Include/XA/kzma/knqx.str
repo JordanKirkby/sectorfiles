@@ -1,5 +1,5 @@
 // KNQX STARs
-// Auto-generated 18/06/2021 by Wes Sleeman (XA)
+// Auto-generated 12/8/2021 by Wes Sleeman (XA)
 
 // KNQX Approaches
 
@@ -278,10 +278,10 @@ TWNKY;TWNKY;@1600;
 JATAL;JATAL;^720;
 NOLEE;NOLEE;@245;
 EYW;EYW;<br>;
-PANDA;PANDA;^18000;
+PANDA;PANDA;^F180;
 SPAAD;SPAAD;
 THUMP;THUMP;<br>;
-THUMP;THUMP;^18000;
+THUMP;THUMP;^F180;
 PANDA;PANDA;
 SPAAD;SPAAD;
 
