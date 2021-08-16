@@ -1,0 +1,77 @@
+[INFO]
+N035.02.58.000
+W089.58.56.000
+60
+49.1
+-1
+XA\KZME
+[ATIS]
+F;default.atis
+[DEFINE]
+//VIDEO MAPS; COLORS (GEO)
+MEMPHIS TRACON;#363636;
+NASHVILLE TRACON;#363636;
+COLUMBUS TRACON;#363636;
+FORT SMITH TRACON;#363636;
+HUNTSVILLE TRACON;#363636;
+JACKSON TRACON;#363636;
+LITTLE ROCK TRACON;#363636;
+
+[ATC]
+F;atc.atc
+
+[Airport]
+F;airac\airports.ap
+
+[Runway]
+F;airac\runways.rw
+
+[FIXES]
+F;airac\fixes.fix
+
+[NDB]
+F;airac\ndb.ndb
+
+[VOR]
+F;airac\vor.vor
+
+[HIGH AIRWAY]
+F;airac\awhigh.awh
+
+[LOW AIRWAY]
+F;airac\awlow.awl
+
+[ARTCC]
+F;airspace\kzme.artcc
+
+[ARTCC HIGH]
+
+[ARTCC LOW]
+F;airspace\class b.artcc
+F;airspace\class c.artcc
+F;airspace\class d.artcc
+
+[GEO]
+F;GEO\coast.geo
+F;GEO\moa.geo
+F;GEO\restrict.geo
+
+//APP
+F;app\kmem_app.geo
+F;app\kbna_app.geo
+F;app\kfsm_app.geo
+F;app\klit_app.geo
+F;app\kjan_app.geo
+F;app\kcbm_app.geo
+F;app\khsv_app.geo
+
+//TAXILINES-PARKING
+F;ad\kjan.geo
+F;ad\klit.geo
+F;ad\kxna.geo
+F;ad\khsv.geo
+F;ad\kmem.geo
+F;ad\kbna.geo
+
+
+[FILLCOLOR]
