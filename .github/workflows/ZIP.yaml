@@ -39,7 +39,7 @@ jobs:
             args: zip -qq -r KZAK.zip . -i Include/XA/kzak/* "KZAK _W_CTR.isc" "KZAK_CW_CTR.isc" "KZAK_E_CTR.isc" "KZAK_N_CTR.isc" "KZAK_NW_CTR.isc" "KZAK_S_CTR.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZAU.zip . -i Include/XA/kzau/* "KZAU Chicago 2101.isc"
+            args: zip -qq -r KZAU.zip . -i Include/XA/kzau/* "KZAU Chicago ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
             args: zip -qq -r KZBW.zip . -i Include/XA/kzbw/* "KZBW Boston ARTCC.isc"
