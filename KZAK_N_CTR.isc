@@ -1,0 +1,36 @@
+// IVAO IVAC Sectorfile KZAK OAKLAND OCEANIC  AIRAC 2005
+
+[INFO]
+N044.32.17.058
+W150.27.53.834
+60
+42.8
+13
+XA\KZAK
+[ATIS]
+F;default.atis
+[ATC]
+F;atc.atc
+[Airport]
+F;airac n_ctr\airports.ap
+[Runway]
+F;airac n_ctr\runways.rw
+[FIXES]
+F;airac n_ctr\fixes.fix
+[NDB]
+F;airac n_ctr\ndb.ndb
+[VOR]
+F;airac n_ctr\vor.VOR
+[HIGH AIRWAY]
+F;airac n_ctr\awhigh.awh
+[LOW AIRWAY]
+F;airac n_ctr\awlow.awl
+[ARTCC]
+F;airspace\kzak_n_ctr.artcc
+[ARTCC HIGH]
+[ARTCC LOW]
+[GEO]
+F;geo\coast_n.geo
+
+F;geo\warning.geo
+[FILLCOLOR]
