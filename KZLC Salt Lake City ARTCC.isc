@@ -1,0 +1,83 @@
+[INFO]
+N043.30.00.000
+W110.30.00.000
+60
+43.5
+11
+XA\kzlc
+
+[ATIS]
+F;default.atis
+
+[DEFINE]
+//VIDEO MAPS; COLORS (GEO)
+S56 NORTH;#363636;
+S56 SOUTH;#363636;
+KBIL EAST;#363636;
+KBIL WEST;#363636;
+KBOI EAST;#363636;
+KBOI WEST;#363636;
+KBZN EAST;#363636;
+KBZN WEST;#363636;
+KGTF NORTH;#363636;
+KGTF SOUTH;#363636;
+KMSO EAST;#363636;
+KMSO WEST;#363636;
+
+[ATC]
+F;atc.atc
+
+[Airport]
+F;airac\airports.ap
+
+[Runway]
+F;airac\runways.rw
+
+[FIXES]
+F;airac\fixes.fix
+
+[NDB]
+F;airac\ndb.ndb
+
+[VOR]
+F;airac\vor.vor
+
+[HIGH AIRWAY]
+F;airac\awhigh.awh
+
+[LOW AIRWAY]
+F;airac\awlow.awl
+
+[ARTCC]
+F;airspace\kzlc.artcc
+
+[ARTCC HIGH]
+F;airspace\kzlc approach.artcc
+
+[ARTCC LOW]
+F;airspace\class b.artcc
+F;airspace\class c.artcc
+F;airspace\class d.artcc
+
+[GEO]
+F;geo\coast.geo
+F;geo\restrict.geo
+F;geo\moa.geo
+//ad
+F;ad\kslc.geo
+F;ad\kbil.geo
+F;ad\kboi.geo
+//app
+F;app\kslc north.geo
+F;app\kslc south.geo
+F;app\kbil east.geo
+F;app\kbil west.geo
+F;app\kboi east.geo
+F;app\kboi west.geo
+F;app\kbzn east.geo
+F;app\kbzn west.geo
+F;app\kgtf north.geo
+F;app\kgtf south.geo
+F;app\kmso east.geo
+F;app\kmso west.geo
+
