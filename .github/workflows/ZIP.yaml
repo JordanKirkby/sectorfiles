@@ -36,7 +36,7 @@ jobs:
             args: zip -qq -r KZAB.zip . -i Include/XA/kzab/* "KZAB Albuquerque ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZAK.zip . -i Include/XA/kzak/* "KZAK _W_CTR.isc" "KZAK_CW_CTR.isc" "KZAK_E_CTR.isc" "KZAK_N_CTR.isc" "KZAK_NW_CTR.isc" "KZAK_S_CTR.isc"
+            args: zip -qq -r KZAK.zip . -i Include/XA/kzak/* "KZAK _W_CTR 2103.isc" "KZAK_CW_CTR 2103.isc" "KZAK_E_CTR 2103.isc" "KZAK_N_CTR 2103.isc" "KZAK_NW_CTR 2103.isc" "KZAK_S_CTR 2103.isc"
         - uses: montudor/action-zip@v1
           with:
             args: zip -qq -r KZAU.zip . -i Include/XA/kzau/* "KZAU Chicago 2101.isc"
@@ -69,7 +69,7 @@ jobs:
             args: zip -qq -r KZLA.zip . -i Include/XA/kzla/* "KZLA Los Angeles ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZLC.zip . -i Include/XA/kzlc/* "KZLC Salt Lake City ARTCC.isc"
+            args: zip -qq -r KZLC.zip . -i Include/XA/kzlc/* "KZLC Salt Lake 2103.isc"
         - uses: montudor/action-zip@v1
           with:
             args: zip -qq -r KZMA.zip . -i Include/XA/kzma/* "KZMA Miami ARTCC.isc"
@@ -78,7 +78,7 @@ jobs:
             args: zip -qq -r KZME.zip . -i Include/XA/kzme/* "KZME Memphis 2013-1.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZMP.zip . -i Include/XA/kzmp/* "KZMP Minneapolis ARTCC.isc"
+            args: zip -qq -r KZMP.zip . -i Include/XA/kzmp/* "KZMP Minneapolis 2103.isc"
         - uses: montudor/action-zip@v1
           with:
             args: zip -qq -r KZNY.zip . -i Include/XA/kzny/* "KZNY New York ARTCC.isc"
@@ -102,7 +102,7 @@ jobs:
             args: zip -qq -r PAZA.zip . -i Include/XA/paza/* "PAZA Anchorage ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r PGZU.zip . -i Include/XA/pgzu/* "PGZU Guam CERAP.isc"
+            args: zip -qq -r PGZU.zip . -i Include/XA/pgzu/* "PGZU Guam CENRAP.isc"
         - uses: montudor/action-zip@v1
           with:
             args: zip -qq -r PHZH.zip . -i Include/XA/phzh/* "PHZH Honolulu ARTCC.isc"
@@ -111,7 +111,7 @@ jobs:
             args: zip -qq -r TJZS.zip . -i Include/XA/tjzs/* "San Juan ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZWY.zip . -i "KZWY New York Oceanic FIR.isc"    
+            args: zip -qq -r KZWY.zip . -i "KZWY New York Oceani FIR.isc"    
         - uses: montudor/action-zip@v1
           with:
             args: zip -qq -r ALL_SECTORS.zip . -i *.zip
