@@ -3,13 +3,14 @@ N059.56.01.000
 W164.02.29.000
 60
 30
-// PAZA sector has a wide range of variation. This is for PANC.
 16
 XA\PAZA
+
 [ATIS]
 F;default.atis
+
 [ATC]
-F;\atc.atc
+F;atc.atc
 
 [Airport]
 F;airac\airports.ap
@@ -51,18 +52,3 @@ F;ad\panc_ctrlines.geo
 F;geo\moa.geo
 F;geo\restrict.geo
 F;geo\warning.geo
-
-[FILLCOLOR]
-F;airspace\paza_aor.fcl
-
-
-
-
-
-
-
-
-
-
-
-
