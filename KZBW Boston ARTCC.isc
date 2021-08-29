@@ -24,7 +24,7 @@ KBTV TRACON;#363636;
 CYUL TRACON;#363636;
 
 [ATC]
-F;airspace\atc.atc
+F;atc.atc
 
 [Airport]
 F;airac\airports.ap
