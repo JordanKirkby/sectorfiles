@@ -1,27 +1,17 @@
-KBDL;01:06:15:24:33;BRADLEY;KIBBE;KIBBE;
-GDM;GDM;<br>;
-EEN;EEN;<br>;
-CTR;CTR;<br>;
-BAF;BAF;<br>;
-PWL;PWL;<br>;
-MAD;MAD;<br>;
-HFD;HFD;<br>;
-GON;GON;<br>;
-ORW;ORW;<br>;
-PVD;PVD;<br>;
-PUT;PUT;<br>;
-DREEM;DREEM;<br>;
-VAPER;VAPER;<br>;
-MOBBS;MOBBS;<br>;
-VEERS;VEERS;<br>;
+// KBDL SIDs
+// Auto-generated 29/8/2021 by Wes Sleeman (XA)
 
-KBDL;01:06:15:24:33;BRADLEY;RAMBO;RAMBO;
-HFD;HFD;
-THUMB;THUMB;
+
+
+
+//// CSTL9 ////
+KBDL;06:15:24:33;CSTL9;KBDL;KBDL;
+THUMB;THUMB;<br>;
 YODER;YODER;
 CCC;CCC;
-SHERL;SHERL;
-CCC;CCC;<br>;
-GEDIC;GEDIC;
-HTO;HTO;<br>;
-JFK;JFK;<br>;
+HFD;HFD;<br>;
+HFD;HFD;<br>;
+HFD;HFD;<br>;
+HFD;HFD;<br>;
+
+//// END CSTL9 ////
