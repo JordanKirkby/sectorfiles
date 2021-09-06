@@ -1,5 +1,5 @@
 // KVIS STARs
-// Auto-generated 10/06/2021 by Wes Sleeman (XA)
+// Auto-generated 6/9/2021 by Wes Sleeman (XA)
 
 // KVIS Approaches
 
@@ -14,9 +14,8 @@ VIS;VIS;^3000;
 PACOD;PACOD;^3000;
 PANES;PANES;
 PIXEY;PIXEY;<br>;
-PIXEY;PIXEY;^2900;
-PANES;PANES;
-TTE;TTE;<br>;
+PIXEY;PIXEY;
+TTE;TTE;
 BRETT;BRETT;^3200;
 PANES;PANES;
 

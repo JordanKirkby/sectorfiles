@@ -1,5 +1,5 @@
 // KMCE STARs
-// Auto-generated 10/06/2021 by Wes Sleeman (XA)
+// Auto-generated 6/9/2021 by Wes Sleeman (XA)
 
 // KMCE Approaches
 
@@ -32,7 +32,7 @@ TEENY;TEENY;^4300;
 CHOWA;CHOWA;
 TURLO;TURLO;<br>;
 HYP;HYP;^2900;
-COOPE;COOPE;^2000 ^2000 @210K ^2000 @210K ^2000 @210K;
+COOPE;COOPE;^2000 @210K @210K @210K;
 CHOWA;CHOWA;
 
 KMCE;30;GA ILS30;KMCE;KMCE;5;
