@@ -1,5 +1,5 @@
 // KFAT STARs
-// Auto-generated 10/06/2021 by Wes Sleeman (XA)
+// Auto-generated 6/9/2021 by Wes Sleeman (XA)
 
 // KFAT Approaches
 
@@ -141,8 +141,7 @@ MORLA;MORLA;^2000;
 KFAT;11L;TAC11L;KFAT;KFAT;3;
 CZQ;CZQ;<br>;
 CZQ;CZQ;@2700;
-FOVOR;FOVOR;^1420 ^2700 @210K ^2700 @210K ^2700 @210K;
-CZQ;CZQ;
+FOVOR;FOVOR;^1420 @210K @210K @210K 
 EBTUW;EBTUW;<br>;
 BEREN;BEREN;^2700;
 CZQ;CZQ;

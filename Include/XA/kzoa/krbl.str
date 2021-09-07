@@ -1,5 +1,5 @@
 // KRBL STARs
-// Auto-generated 10/06/2021 by Wes Sleeman (XA)
+// Auto-generated 6/9/2021 by Wes Sleeman (XA)
 
 // KRBL Approaches
 
@@ -68,8 +68,7 @@ JUGTU;JUGTU;<br>;
 JUGTU;JUGTU;^3000;
 RBL;RBL;@1200;
 OBGEE;OBGEE;<br>;
-JUGTU;JUGTU;^2100 @210K ^2100 @210K ^2100 @210K;
-JUGTU;JUGTU;
+JUGTU;JUGTU;@210K @210K @210K 
 SATNE;SATNE;<br>;
 JUGTU;JUGTU;
 
