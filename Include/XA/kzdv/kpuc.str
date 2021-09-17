@@ -1,5 +1,5 @@
 // KPUC STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KPUC Approaches
 
@@ -10,12 +10,9 @@ SAROE;SAROE;<br>;
 SAROE;SAROE;^8700;
 JESKI;JESKI;@7500;
 COPUK;COPUK;<br>;
-FOSOV;FOSOV;^8700 ^8700;
-SAROE;SAROE;
-FOSOV;FOSOV;<br>;
-FOSOV;FOSOV;^8700;
-SAROE;SAROE;
-PUC;PUC;<br>;
+FOSOV;FOSOV;^8700 
+FOSOV;FOSOV;
+PUC;PUC;
 SAROE;SAROE;^8700;
 SAROE;SAROE;
 

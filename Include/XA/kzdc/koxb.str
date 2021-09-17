@@ -1,27 +1,22 @@
 // KOXB STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KOXB Approaches
 
 
-//// LOC14 ////
-KOXB;14;LOC14;KOXB;KOXB;3;
-CF14;CF14;<br>;
-CF14;CF14;^1700;
-OX;OX;@1500;
+//// LOC32 ////
+KOXB;32;LOC32;KOXB;KOXB;3;
+FEMOD;FEMOD;<br>;
+FEMOD;FEMOD;^2000;
+ELUCO;ELUCO;@1500;
+BENDR;BENDR;^720;
 ATR;ATR;<br>;
-OX;OX;^2000;
-CF14;CF14;
-SBY;SBY;<br>;
-OX;OX;^2000;
-CF14;CF14;
+FEMOD;FEMOD;^2000;
+FEMOD;FEMOD;
 
-KOXB;14;GA LOC14;KOXB;KOXB;5;
-OX;OX;<br>;
-OX;OX;^1700;
-//// END LOC14 ////
+KOXB;32;GA LOC32;KOXB;KOXB;5;
+ATR;ATR;<br>;
+//// END LOC32 ////
 
 //// RNV02 ////
 KOXB;02;RNV02;KOXB;KOXB;3;

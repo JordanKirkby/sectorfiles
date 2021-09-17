@@ -1,5 +1,5 @@
 // KJFK SIDs
-// Auto-generated 14/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 
 //// BETTE6 ////
@@ -103,29 +103,7 @@ HAPIE;HAPIE;<br>;
 //// JFK5 ////
 KJFK;04L:04R:13L:13R:22L:22R:31L:31R;JFK5;KJFK;KJFK;
 CRI;CRI;<br>;
-GAYEL;GAYEL;<br>;
-HAAYS;HAAYS;<br>;
-NEION;NEION;<br>;
-COATE;COATE;<br>;
-LANNA;LANNA;<br>;
-ARD;ARD;<br>;
-RBV;RBV;<br>;
-RNGRR;RNGRR;<br>;
-DIXIE;DIXIE;<br>;
-WHITE;WHITE;<br>;
-WAVEY;WAVEY;<br>;
-SHIPP;SHIPP;<br>;
-HAPPE;HAPPE;<br>;
-BETTE;BETTE;<br>;
-BDR;BDR;<br>;
-BAYYS;BAYYS;<br>;
-MERIT;MERIT;<br>;
-GREKI;GREKI;<br>;
-DEEZZ;DEEZZ;<br>;
-HAPIE;HAPIE;<br>;
-DPK;DPK;<br>;
-SAX;SAX;<br>;
-SBJ;SBJ;<br>;
+CRI;CRI;<br>;
 
 //// END JFK5 ////
 

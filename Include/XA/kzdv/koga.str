@@ -1,5 +1,5 @@
 // KOGA STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KOGA Approaches
 
@@ -15,12 +15,12 @@ LBF;LBF;<br>;
 IZXOG;IZXOG;
 SNY;SNY;<br>;
 SAE;SAE;^6000;
-EZKUX;EZKUX;^5200 ^5200 @210K ^5200 @210K ^5200 @210K;
+EZKUX;EZKUX;^5200 @210K @210K @210K;
 IZXOG;IZXOG;
 
 KOGA;26;GA VDM26;KOGA;KOGA;5;
 SAE;SAE;<br>;
-SAE;SAE;^5200;
+SAE;SAE;^5300;
 //// END VDM26 ////
 
 //// RNV08 ////

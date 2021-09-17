@@ -1,5 +1,5 @@
 // KDGW STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KDGW Approaches
 
@@ -46,8 +46,7 @@ CULIS;CULIS;^8000;
 KDGW;29;VOR29;KDGW;KDGW;3;
 IIP;IIP;<br>;
 IIP;IIP;@8000;
-ONKEE;ONKEE;^5960 ^8000 @210K ^8000 @210K ^8000 @210K;
-IIP;IIP;
+ONKEE;ONKEE;^5960 @210K @210K @210K 
 POKSY;POKSY;<br>;
 CUSIP;CUSIP;^8000;
 IIP;IIP;

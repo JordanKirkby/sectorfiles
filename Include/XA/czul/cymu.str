@@ -1,32 +1,8 @@
 // CYMU STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // CYMU Approaches
 
-
-//// NDBA02 ////
-CYMU;02;NDBA02;CYMU;CYMU;3;
-YMU;YMU;<br>;
-YMU;YMU;@1080 ^2500 @210K ^2500 @210K ^2500 @210K;
-YMU;YMU;
-
-CYMU;02;GA NDBA02;CYMU;CYMU;5;
-YMU;YMU;<br>;
-YMU;YMU;@2600;
-//// END NDBA02 ////
-
-//// NDBA20 ////
-CYMU;20;NDBA20;CYMU;CYMU;3;
-YMU;YMU;<br>;
-YMU;YMU;@1080 ^2500 @210K ^2500 @210K ^2500 @210K;
-YMU;YMU;
-
-CYMU;20;GA NDBA20;CYMU;CYMU;5;
-YMU;YMU;<br>;
-YMU;YMU;@2600;
-//// END NDBA20 ////
 
 //// RNV02 ////
 CYMU;02;RNV02;CYMU;CYMU;3;

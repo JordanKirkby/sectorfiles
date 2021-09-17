@@ -1,7 +1,5 @@
 // CYTA STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // CYTA Approaches
 
@@ -9,7 +7,7 @@
 //// NDB35 ////
 CYTA;35;NDB35;CYTA;CYTA;3;
 YTA;YTA;<br>;
-YTA;YTA;@1600 ^2100 @210K ^2100 @210K ^2100 @210K;
+YTA;YTA;@1600 @210K @210K @210K;
 YTA;YTA;
 
 CYTA;35;GA NDB35;CYTA;CYTA;5;

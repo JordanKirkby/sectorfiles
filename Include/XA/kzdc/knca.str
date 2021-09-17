@@ -1,7 +1,5 @@
 // KNCA STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KNCA Approaches
 
@@ -132,7 +130,7 @@ NAPIE;NAPIE;@1500;
 TUDSE;TUDSE;^560;
 POSTY;POSTY;@82;
 MARVL;MARVL;<br>;
-MARVL;MARVL;^2300;
+MARVL;MARVL;^1500;
 ZUBIL;ZUBIL;
 
 KNCA;19;GA TAC19;KNCA;KNCA;5;

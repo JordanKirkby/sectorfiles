@@ -1,5 +1,5 @@
 // KVTN STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KVTN Approaches
 
@@ -9,7 +9,7 @@ KVTN;32;NDB32;KVTN;KVTN;3;
 FF32;FF32;<br>;
 FF32;FF32;@4500;
 ANW;ANW;<br>;
-VTN;VTN;^5000 ^4500 @210K ^4500 @210K ^4500 @210K;
+VTN;VTN;^5000 @210K @210K @210K;
 FF32;FF32;
 
 KVTN;32;GA NDB32;KVTN;KVTN;5;

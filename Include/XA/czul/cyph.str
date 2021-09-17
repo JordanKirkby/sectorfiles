@@ -1,34 +1,8 @@
 // CYPH STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // CYPH Approaches
 
-
-//// NDB07 ////
-CYPH;07;NDB07;CYPH;CYPH;3;
-FF07;FF07;<br>;
-FF07;FF07;@1500;
-EP07;EP07;@128;
-YPH;YPH;^490 ^1500 @210K ^1500 @210K ^1500 @210K;
-FF07;FF07;
-
-CYPH;07;GA NDB07;CYPH;CYPH;5;
-YPH;YPH;<br>;
-YPH;YPH;@1900;
-//// END NDB07 ////
-
-//// NDB25 ////
-CYPH;25;NDB25;CYPH;CYPH;3;
-FF25;FF25;<br>;
-FF25;FF25;@1500 ^1500 @210K ^1500 @210K ^1500 @210K;
-FF25;FF25;
-
-CYPH;25;GA NDB25;CYPH;CYPH;5;
-YPH;YPH;<br>;
-YPH;YPH;@1900;
-//// END NDB25 ////
 
 //// RNV07 ////
 CYPH;07;RNV07;CYPH;CYPH;3;

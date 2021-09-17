@@ -1,5 +1,5 @@
 // KVEL STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KVEL Approaches
 
@@ -43,7 +43,7 @@ VEL;VEL;<br>;
 VEL;VEL;@6400;
 BONGO;BONGO;<br>;
 ENSEN;ENSEN;^8000;
-VEL;VEL;^8000 @210K ^8000 @210K ^8000 @210K;
+VEL;VEL;@210K @210K @210K;
 VEL;VEL;
 
 KVEL;35;GA VOR35;KVEL;KVEL;5;

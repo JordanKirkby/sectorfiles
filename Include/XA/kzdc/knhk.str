@@ -1,7 +1,5 @@
 // KNHK STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KNHK Approaches
 
@@ -27,7 +25,7 @@ JOLRU;JOLRU;^900;
 ZIGUS;ZIGUS;@255;
 NHK;NHK;<br>;
 NHK;NHK;^2500;
-FIKES;FIKES;^2500 ^1600 @210K ^1600 @210K ^1600 @210K;
+FIKES;FIKES;^2500 @210K @210K @210K;
 WRUNG;WRUNG;
 
 KNHK;06;GA NDM06;KNHK;KNHK;5;

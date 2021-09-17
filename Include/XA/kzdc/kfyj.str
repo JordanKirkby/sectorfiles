@@ -1,7 +1,5 @@
 // KFYJ STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KFYJ Approaches
 
@@ -59,7 +57,7 @@ ICACO;ICACO;^2000;
 //// VORA10 ////
 KFYJ;10;VORA10;KFYJ;KFYJ;3;
 HCM;HCM;<br>;
-HCM;HCM;@1400 @620;
+HCM;HCM;@1400;
 HCM;HCM;
 
 KFYJ;10;GA VORA10;KFYJ;KFYJ;5;
@@ -70,7 +68,7 @@ HCM;HCM;^1700;
 //// VORA28 ////
 KFYJ;28;VORA28;KFYJ;KFYJ;3;
 HCM;HCM;<br>;
-HCM;HCM;@1400 @620;
+HCM;HCM;@1400;
 HCM;HCM;
 
 KFYJ;28;GA VORA28;KFYJ;KFYJ;5;

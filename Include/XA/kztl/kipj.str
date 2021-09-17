@@ -1,5 +1,5 @@
 // KIPJ STARs
-// Auto-generated 12/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KIPJ Approaches
 
@@ -177,11 +177,11 @@ DSTEE;DSTEE;
 RODEZ;RODEZ;
 RASLN;RASLN;
 RASLN;RASLN;<br>;
-CLT;CLT;
+CLT;CLT;^3000;
 
 KIPJ;05:23;FLO.RASLN3;KIPJ;KIPJ;1;
 RASLN;RASLN;<br>;
-CLT;CLT;
+CLT;CLT;^3000;
 FLO;FLO;<br>;
 DSTEE;DSTEE;
 RODEZ;RODEZ;

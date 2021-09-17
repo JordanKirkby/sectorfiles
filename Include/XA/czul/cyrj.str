@@ -1,7 +1,5 @@
 // CYRJ STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // CYRJ Approaches
 
@@ -9,7 +7,7 @@
 //// NDBA16 ////
 CYRJ;16;NDBA16;CYRJ;CYRJ;3;
 RJ;RJ;<br>;
-RJ;RJ;@1400 ^2400 @210K ^2400 @210K ^2400 @210K;
+RJ;RJ;@1400 @210K @210K @210K;
 RJ;RJ;
 
 CYRJ;16;GA NDBA16;CYRJ;CYRJ;5;

@@ -1,5 +1,5 @@
 // KCEZ STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KCEZ Approaches
 
@@ -79,7 +79,7 @@ TAHIB;TAHIB;^9000;
 //// VOR21 ////
 KCEZ;21;VOR21;KCEZ;KCEZ;3;
 CEZ;CEZ;<br>;
-CEZ;CEZ;@8000 ^9800 @210K ^9800 @210K ^9800 @210K;
+CEZ;CEZ;@8000 @210K @210K @210K;
 CEZ;CEZ;
 
 KCEZ;21;GA VOR21;KCEZ;KCEZ;5;

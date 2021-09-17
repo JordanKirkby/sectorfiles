@@ -1,23 +1,8 @@
 // CYHH STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // CYHH Approaches
 
-
-//// NDB09 ////
-CYHH;09;NDB09;CYHH;CYHH;3;
-FF09;FF09;<br>;
-FF09;FF09;@2400;
-K8;K8;<br>;
-K8;K8;^2900 ^2400 @210K ^2400 @210K ^2400 @210K;
-FF09;FF09;
-
-CYHH;09;GA NDB09;CYHH;CYHH;5;
-K8;K8;<br>;
-K8;K8;@2900;
-//// END NDB09 ////
 
 //// RNVY09 ////
 CYHH;09;RNVY09;CYHH;CYHH;3;

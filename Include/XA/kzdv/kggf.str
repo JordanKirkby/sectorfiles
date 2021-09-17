@@ -1,5 +1,5 @@
 // KGGF STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KGGF Approaches
 
@@ -23,7 +23,7 @@ KGGF;33;NDB33;KGGF;KGGF;3;
 FF33;FF33;<br>;
 FF33;FF33;@5200;
 LBF;LBF;<br>;
-GGF;GGF;^5300 ^5200 @210K ^5200 @210K ^5200 @210K;
+GGF;GGF;^5300 @210K @210K @210K;
 FF33;FF33;
 
 KGGF;33;GA NDB33;KGGF;KGGF;5;

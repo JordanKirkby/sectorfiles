@@ -1,5 +1,5 @@
 // KBYG STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KBYG Approaches
 
@@ -13,7 +13,7 @@ CZI;CZI;<br>;
 MIZNR;MIZNR;^7600;
 INJUX;INJUX;
 SHERZ;SHERZ;<br>;
-INJUX;INJUX;^8400 ^7600 @210K ^7600 @210K ^7600 @210K;
+INJUX;INJUX;^8400 @210K @210K @210K;
 INJUX;INJUX;
 
 KBYG;31;GA VDM31;KBYG;KBYG;5;

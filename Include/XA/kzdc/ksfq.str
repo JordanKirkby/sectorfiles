@@ -1,18 +1,5 @@
 // KSFQ STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
-//// TERKS2 ////
-KSFQ;04:07:22:25;TERKS2;KSFQ;KSFQ;
-MOL;MOL;<br>;
-
-FAK;FAK;
-RUSSL;RUSSL;
-HCM;HCM;
-TERKS;TERKS;
-
-//// END TERKS2 ////
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KSFQ Approaches
 
@@ -92,3 +79,16 @@ KSFQ;25;GA RNV25;KSFQ;KSFQ;5;
 LALSE;LALSE;<br>;
 LALSE;LALSE;^2000;
 //// END RNV25 ////
+
+// KSFQ Arrivals
+
+
+//// TERKS2 ////
+KSFQ;04:07:22:25;TERKS2;KSFQ;KSFQ;
+MOL;MOL;<br>;
+FAK;FAK;
+RUSSL;RUSSL;
+HCM;HCM;
+TERKS;TERKS;
+
+//// END TERKS2 ////

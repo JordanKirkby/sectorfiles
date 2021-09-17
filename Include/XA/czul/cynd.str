@@ -1,7 +1,5 @@
 // CYND STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // CYND Approaches
 
@@ -13,7 +11,7 @@ ALSIP;ALSIP;^3000;
 ETKER;ETKER;^2610;
 BIPRA;BIPRA;@1330;
 YOW;YOW;<br>;
-BIPRA;BIPRA;^3000 ^3000 @210K ^3000 @210K ^3000 @210K;
+BIPRA;BIPRA;^3000 @210K @210K @210K;
 ALSIP;ALSIP;
 
 CYND;09;GA VDM09;CYND;CYND;5;

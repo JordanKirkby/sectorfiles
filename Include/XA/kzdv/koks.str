@@ -1,5 +1,5 @@
 // KOKS STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KOKS Approaches
 
@@ -9,7 +9,7 @@ KOKS;12;NDB12;KOKS;KOKS;3;
 FF12;FF12;<br>;
 FF12;FF12;@5600;
 SNY;SNY;<br>;
-OKS;OKS;^6000 ^5600 @210K ^5600 @210K ^5600 @210K;
+OKS;OKS;^6000 @210K @210K @210K;
 FF12;FF12;
 
 KOKS;12;GA NDB12;KOKS;KOKS;5;

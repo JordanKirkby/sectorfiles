@@ -1,5 +1,5 @@
 // KLKR STARs
-// Auto-generated 12/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KLKR Approaches
 
@@ -163,11 +163,11 @@ DSTEE;DSTEE;
 RODEZ;RODEZ;
 RASLN;RASLN;
 RASLN;RASLN;<br>;
-CLT;CLT;
+CLT;CLT;^3000;
 
 KLKR;06:24;FLO.RASLN3;KLKR;KLKR;1;
 RASLN;RASLN;<br>;
-CLT;CLT;
+CLT;CLT;^3000;
 FLO;FLO;<br>;
 DSTEE;DSTEE;
 RODEZ;RODEZ;

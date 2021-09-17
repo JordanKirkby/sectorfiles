@@ -1,77 +1,20 @@
 // KEWR SIDs
-// Auto-generated 14/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 
 //// EWR4 ////
 KEWR;04L:04R:11:22L:22R:29;EWR4;KEWR;KEWR;
-TEB;TEB;<br>;
-BREZY;BREZY;<br>;
-IGN;IGN;<br>;
-CMK;CMK;<br>;
-BDR;BDR;<br>;
-GREKI;GREKI;<br>;
-MERIT;MERIT;<br>;
-BDR;BDR;<br>;
-BAYYS;BAYYS;<br>;
-DPK;DPK;<br>;
-JFK;JFK;<br>;
-SHIPP;SHIPP;<br>;
-WAVEY;WAVEY;<br>;
-LGA;LGA;<br>;
-COL;COL;<br>;
-DIXIE;DIXIE;<br>;
-WHITE;WHITE;<br>;
-SBJ;SBJ;<br>;
-ELVAE;ELVAE;<br>;
-BIGGY;BIGGY;<br>;
-PTW;PTW;<br>;
-LANNA;LANNA;<br>;
-PARKE;PARKE;<br>;
-ZIMMZ;ZIMMZ;<br>;
-BWZ;BWZ;<br>;
-ELIOT;ELIOT;<br>;
-ETX;ETX;<br>;
-NEWEL;NEWEL;<br>;
-COATE;COATE;<br>;
-SAX;SAX;<br>;
-NEION;NEION;<br>;
-HUO;HUO;<br>;
-HAAYS;HAAYS;<br>;
-GAYEL;GAYEL;<br>;
-//// END EWR4 ////
+IEZA;IEZA;<br>;
+TEB;TEB;
+IEZA;IEZA;<br>;
+TEB;TEB;
+IEZA;IEZA;<br>;
+TEB;TEB;
+ILSQ;ILSQ;<br>;
+ILSQ;ILSQ;<br>;
+IGPR;IGPR;<br>;
 
-//// LIB5 ////
-KEWR;22L:22R;LIB5;KEWR;KEWR;
-BREZY;BREZY;<br>;
-IGN;IGN;<br>;
-CMK;CMK;<br>;
-BDR;BDR;<br>;
-BDR;BDR;<br>;
-BAYYS;BAYYS;<br>;
-DPK;DPK;<br>;
-JFK;JFK;<br>;
-WAVEY;WAVEY;<br>;
-LGA;LGA;<br>;
-COL;COL;<br>;
-DIXIE;DIXIE;<br>;
-WHITE;WHITE;<br>;
-SBJ;SBJ;<br>;
-ELVAE;ELVAE;<br>;
-BIGGY;BIGGY;<br>;
-PTW;PTW;<br>;
-LANNA;LANNA;<br>;
-PARKE;PARKE;<br>;
-ZIMMZ;ZIMMZ;<br>;
-BWZ;BWZ;<br>;
-ELIOT;ELIOT;<br>;
-ETX;ETX;<br>;
-COATE;COATE;<br>;
-SAX;SAX;<br>;
-NEION;NEION;<br>;
-HUO;HUO;<br>;
-HAAYS;HAAYS;<br>;
-GAYEL;GAYEL;<br>;
-//// END LIB5 ////
+//// END EWR4 ////
 
 //// PORTT4 ////
 KEWR;22L:22R;PORTT4;KEWR;KEWR;

@@ -1,5 +1,5 @@
 // KMNI STARs
-// Auto-generated 29/8/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KMNI Approaches
 
@@ -9,7 +9,7 @@ KMNI;02;VDMA02;KMNI;KMNI;3;
 VAN;VAN;<br>;
 VAN;VAN;^2000;
 GODDY;GODDY;@1500;
-MACIR;MACIR;@660;
+MACIR;MACIR;@800;
 GRECI;GRECI;<br>;
 VAN;VAN;
 VAN;VAN;
@@ -24,7 +24,7 @@ KMNI;20;VDMA20;KMNI;KMNI;3;
 VAN;VAN;<br>;
 VAN;VAN;^2000;
 GODDY;GODDY;@1500;
-MACIR;MACIR;@660;
+MACIR;MACIR;@800;
 GRECI;GRECI;<br>;
 VAN;VAN;
 VAN;VAN;

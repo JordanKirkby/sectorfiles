@@ -1,7 +1,5 @@
 // KJNX STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KJNX Approaches
 
@@ -24,7 +22,7 @@ CFPHR;CFPHR;<br>;
 CFPHR;CFPHR;^1800;
 JIHDI;JIHDI;@1500;
 WENDI;WENDI;<br>;
-JN;JN;^2900 ^1800 @210K ^1800 @210K ^1800 @210K;
+JN;JN;^2900 @210K @210K @210K;
 CFPHR;CFPHR;
 
 KJNX;03;GA ILSZ03;KJNX;KJNX;5;

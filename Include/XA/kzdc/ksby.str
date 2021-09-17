@@ -1,7 +1,5 @@
 // KSBY STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KSBY Approaches
 
@@ -103,7 +101,7 @@ FF05;FF05;<br>;
 FF05;FF05;@1700;
 OMSIE;OMSIE;^580;
 CBEAV;CBEAV;<br>;
-SBY;SBY;^2000 ^1700 @210K ^1700 @210K ^1700 @210K;
+SBY;SBY;^2000 @210K @210K @210K;
 FF05;FF05;
 
 KSBY;05;GA VOR05;KSBY;KSBY;5;

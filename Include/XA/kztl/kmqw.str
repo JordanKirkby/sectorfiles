@@ -1,22 +1,8 @@
 // KMQW STARs
-// Auto-generated 12/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KMQW Approaches
 
-
-//// NDB21 ////
-KMQW;21;NDB21;KMQW;KMQW;3;
-FN21;FN21;<br>;
-FN21;FN21;@2500;
-DBN;DBN;<br>;
-MQW;MQW;^2500 @210K @210K @210K 
-VNA;VNA;
-MQW;MQW;^2500 @210K @210K @210K;
-FN21;FN21;
-
-KMQW;21;GA NDB21;KMQW;KMQW;5;
-MQW;MQW;<br>;
-//// END NDB21 ////
 
 //// RNV03 ////
 KMQW;03;RNV03;KMQW;KMQW;3;
