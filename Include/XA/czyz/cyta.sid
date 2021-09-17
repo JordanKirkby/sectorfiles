@@ -1,16 +1,11 @@
 // CYTA SIDs
-// Auto-generated 18/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 
-//// AGNEX1 ////
-CYTA;17;AGNEX1;CYTA;CYTA;
+//// AGNEX2 ////
+CYTA;17:35;AGNEX2;CYTA;CYTA;
 AGNEX;AGNEX;<br>;
+AGNEX;AGNEX;<br>;
+AGNEX;AGNEX;@210K;
 
-//// END AGNEX1 ////
-
-//// BONDE1 ////
-CYTA;35;BONDE1;CYTA;CYTA;
-BONDE;BONDE;<br>;
-BONDE;BONDE;@210K;
-
-//// END BONDE1 ////
+//// END AGNEX2 ////
