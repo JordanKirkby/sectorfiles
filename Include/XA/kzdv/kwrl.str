@@ -1,5 +1,5 @@
 // KWRL STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KWRL Approaches
 
@@ -42,7 +42,7 @@ CRANY;CRANY;^8500;
 //// VOR16 ////
 KWRL;16;VOR16;KWRL;KWRL;3;
 IKETY;IKETY;<br>;
-IKETY;IKETY;@5040 ^6000 @210K ^6000 @210K ^6000 @210K;
+IKETY;IKETY;@5040 @210K @210K @210K;
 IKETY;IKETY;
 
 KWRL;16;GA VOR16;KWRL;KWRL;5;

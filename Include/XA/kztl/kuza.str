@@ -1,5 +1,5 @@
 // KUZA STARs
-// Auto-generated 12/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KUZA Approaches
 
@@ -174,11 +174,11 @@ DSTEE;DSTEE;
 RODEZ;RODEZ;
 RASLN;RASLN;
 RASLN;RASLN;<br>;
-CLT;CLT;
+CLT;CLT;^3000;
 
 KUZA;02:20;FLO.RASLN3;KUZA;KUZA;1;
 RASLN;RASLN;<br>;
-CLT;CLT;
+CLT;CLT;^3000;
 FLO;FLO;<br>;
 DSTEE;DSTEE;
 RODEZ;RODEZ;

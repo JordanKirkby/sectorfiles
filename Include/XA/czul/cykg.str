@@ -1,21 +1,8 @@
 // CYKG STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // CYKG Approaches
 
-
-//// NDB33 ////
-CYKG;33;NDB33;CYKG;CYKG;3;
-FF33;FF33;<br>;
-FF33;FF33;@2700 ^2700 @210K ^2700 @210K ^2700 @210K;
-FF33;FF33;
-
-CYKG;33;GA NDB33;CYKG;CYKG;5;
-YKG;YKG;<br>;
-YKG;YKG;@3300;
-//// END NDB33 ////
 
 //// RNV15 ////
 CYKG;15;RNV15;CYKG;CYKG;3;

@@ -1,7 +1,5 @@
 // CYPX STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // CYPX Approaches
 
@@ -11,7 +9,7 @@ CYPX;19;NDB19;CYPX;CYPX;3;
 FF19;FF19;<br>;
 FF19;FF19;@1300;
 EP19;EP19;@133;
-YPX;YPX;^490 ^1300 @210K ^1300 @210K ^1300 @210K;
+YPX;YPX;^490 @210K @210K @210K;
 FF19;FF19;
 
 CYPX;19;GA NDB19;CYPX;CYPX;5;

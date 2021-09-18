@@ -1,5 +1,5 @@
 // KCAG STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KCAG Approaches
 
@@ -47,8 +47,7 @@ STRIM;STRIM;^10000;
 KCAG;25;VOR25;KCAG;KCAG;3;
 CHE;CHE;<br>;
 CHE;CHE;@9300;
-ZUPGI;ZUPGI;^7880 ^11300 @210K ^11300 @210K ^11300 @210K;
-CHE;CHE;
+ZUPGI;ZUPGI;^7880 @210K @210K @210K 
 LORIN;LORIN;<br>;
 JABIX;JABIX;^12000;
 CHE;CHE;

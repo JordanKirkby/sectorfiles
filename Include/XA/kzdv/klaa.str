@@ -1,5 +1,5 @@
 // KLAA STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KLAA Approaches
 
@@ -95,8 +95,7 @@ CELEG;CELEG;^6000;
 LAA;LAA;@6000;
 WAVAR;WAVAR;^4540;
 CLPPR;CLPPR;<br>;
-CELEG;CELEG;^6000 @210K ^6000 @210K ^6000 @210K;
-CELEG;CELEG;
+CELEG;CELEG;@210K @210K @210K 
 YATPE;YATPE;<br>;
 CELEG;CELEG;
 

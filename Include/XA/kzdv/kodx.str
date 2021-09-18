@@ -1,5 +1,5 @@
 // KODX STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KODX Approaches
 
@@ -9,7 +9,7 @@ KODX;13;NDB13;KODX;KODX;3;
 FF13;FF13;<br>;
 FF13;FF13;@4200;
 BONIL;BONIL;<br>;
-ODX;ODX;^4200 ^4200 @210K ^4200 @210K ^4200 @210K;
+ODX;ODX;^4200 @210K @210K @210K;
 FF13;FF13;
 
 KODX;13;GA NDB13;KODX;KODX;5;

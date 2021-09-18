@@ -1,7 +1,5 @@
 // CYUY STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // CYUY Approaches
 
@@ -35,9 +33,8 @@ OVUNI;OVUNI;^2800;
 AGNEB;AGNEB;@2100;
 ULUBO;ULUBO;@1157;
 YUY;YUY;<br>;
-AGNEB;AGNEB;^2600 ^2600 @210K ^2600 @210K ^2600 @210K;
-OVUNI;OVUNI;
-YVO;YVO;<br>;
+AGNEB;AGNEB;^2600 @210K @210K @210K 
+YVO;YVO;
 OVUNI;OVUNI;
 
 CYUY;26;GA NDM26;CYUY;CYUY;5;

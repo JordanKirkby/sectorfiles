@@ -1,5 +1,5 @@
 // KSBS STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KSBS Approaches
 
@@ -7,9 +7,7 @@
 //// VDMC14 ////
 KSBS;14;VDMC14;KSBS;KSBS;3;
 BQZ;BQZ;<br>;
-BQZ;BQZ;@9200 @8140 ^11800 ^10600;
-BQZ;BQZ;^10600;
-BQZ;BQZ;
+BQZ;BQZ;@9200 
 RLG;RLG;<br>;
 SBURG;SBURG;^13000;
 BQZ;BQZ;
@@ -23,9 +21,7 @@ SBURG;SBURG;
 //// VDMC32 ////
 KSBS;32;VDMC32;KSBS;KSBS;3;
 BQZ;BQZ;<br>;
-BQZ;BQZ;@9200 @8140 ^11800 ^10600;
-BQZ;BQZ;^10600;
-BQZ;BQZ;
+BQZ;BQZ;@9200 
 RLG;RLG;<br>;
 SBURG;SBURG;^13000;
 BQZ;BQZ;

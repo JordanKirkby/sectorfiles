@@ -1,7 +1,5 @@
 // KTDF STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KTDF Approaches
 
@@ -12,10 +10,9 @@ CF06;CF06;<br>;
 CF06;CF06;^2500;
 HUR;HUR;@2101;
 DAN;DAN;<br>;
-HUR;HUR;^2700 ^2500 @210K ^2500 @210K ^2500 @210K;
-CF06;CF06;
-RDU;RDU;<br>;
-HUR;HUR;^3000 ^2500 @210K ^2500 @210K ^2500 @210K;
+HUR;HUR;^2700 @210K @210K @210K 
+RDU;RDU;
+HUR;HUR;^3000 @210K @210K @210K;
 CF06;CF06;
 
 KTDF;06;GA ILS06;KTDF;KTDF;5;

@@ -1,5 +1,5 @@
 // KCNP STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KCNP Approaches
 
@@ -10,7 +10,7 @@ ENIWU;ENIWU;<br>;
 ENIWU;ENIWU;@4960;
 CNP;CNP;@3722;
 SNY;SNY;<br>;
-CNP;CNP;^5900 ^5500 @210K ^5500 @210K ^5500 @210K;
+CNP;CNP;^5900 @210K @210K @210K;
 ENIWU;ENIWU;
 
 KCNP;30;GA NDB30;KCNP;KCNP;5;

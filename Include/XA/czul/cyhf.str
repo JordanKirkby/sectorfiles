@@ -1,7 +1,5 @@
 // CYHF STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // CYHF Approaches
 
@@ -37,5 +35,5 @@ BOXOP;BOXOP;
 
 CYHF;22;GA RNV22;CYHF;CYHF;5;
 EBMIG;EBMIG;<br>;
-EBMIG;EBMIG;@2400;
+EBMIG;EBMIG;@2500;
 //// END RNV22 ////

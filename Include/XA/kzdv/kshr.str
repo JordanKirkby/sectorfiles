@@ -1,5 +1,5 @@
 // KSHR STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KSHR Approaches
 
@@ -64,7 +64,7 @@ PARBE;PARBE;<br>;
 COBSI;COBSI;^7500;
 SHR;SHR;
 SHR;SHR;<br>;
-SHR;SHR;^7000 @210K ^7000 @210K ^7000 @210K;
+SHR;SHR;@210K @210K @210K;
 SHR;SHR;
 
 KSHR;15;GA VOR15;KSHR;KSHR;5;

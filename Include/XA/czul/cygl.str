@@ -1,7 +1,5 @@
 // CYGL STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // CYGL Approaches
 
@@ -41,7 +39,7 @@ CYGL;13;VOR13;CYGL;CYGL;3;
 FS13;FS13;<br>;
 FS13;FS13;@2000;
 ES13;ES13;@645;
-YGL;YGL;^1040 ^2000 @210K ^2000 @210K ^2000 @210K;
+YGL;YGL;^1040 @210K @210K @210K;
 FS13;FS13;
 
 CYGL;13;GA VOR13;CYGL;CYGL;5;

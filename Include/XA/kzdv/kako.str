@@ -1,5 +1,5 @@
 // KAKO STARs
-// Auto-generated 08/06/2021 by Wes Sleeman (XA)
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KAKO Approaches
 
@@ -39,8 +39,7 @@ KUKMY;KUKMY;^7500;
 //// VOR29 ////
 KAKO;29;VOR29;KAKO;KAKO;3;
 AKO;AKO;<br>;
-AKO;AKO;@5300 ^6000 @210K ^6000 @210K ^6000 @210K;
-AKO;AKO;
+AKO;AKO;@5300 @210K @210K @210K 
 GERON;GERON;<br>;
 GERON;GERON;^6000;
 AKO;AKO;

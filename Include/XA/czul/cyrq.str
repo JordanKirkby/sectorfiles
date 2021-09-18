@@ -1,7 +1,5 @@
 // CYRQ STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // CYRQ Approaches
 
@@ -10,7 +8,7 @@
 CYRQ;23;NDB23;CYRQ;CYRQ;3;
 FF23;FF23;<br>;
 FF23;FF23;@1900;
-YRQ;YRQ;@400 ^1900 @210K ^1900 @210K ^1900 @210K;
+YRQ;YRQ;@400 @210K @210K @210K;
 FF23;FF23;
 
 CYRQ;23;GA NDB23;CYRQ;CYRQ;5;

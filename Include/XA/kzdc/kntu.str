@@ -1,18 +1,5 @@
 // KNTU STARs
-// Auto-generated 05/06/2021 by Wes Sleeman (XA)
-
-
-//// TERKS2 ////
-KNTU;05L:05R:14L:14R:23L:23R:32L:32R;TERKS2;KNTU;KNTU;
-MOL;MOL;<br>;
-
-FAK;FAK;
-RUSSL;RUSSL;
-HCM;HCM;
-TERKS;TERKS;
-
-//// END TERKS2 ////
-
+// Auto-generated 17/9/2021 by Wes Sleeman (XA)
 
 // KNTU Approaches
 
@@ -300,3 +287,16 @@ KNTU;32R;GA TAC32R;KNTU;KNTU;5;
 GRAIT;GRAIT;<br>;
 GRAIT;GRAIT;^3000;
 //// END TAC32R ////
+
+// KNTU Arrivals
+
+
+//// TERKS2 ////
+KNTU;05L:05R:14L:14R:23L:23R:32L:32R;TERKS2;KNTU;KNTU;
+MOL;MOL;<br>;
+FAK;FAK;
+RUSSL;RUSSL;
+HCM;HCM;
+TERKS;TERKS;
+
+//// END TERKS2 ////
