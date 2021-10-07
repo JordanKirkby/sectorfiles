@@ -1,5 +1,5 @@
 // CYXX STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // CYXX Approaches
 
@@ -37,8 +37,8 @@ HONUV;HONUV;
 // CYXX Arrivals
 
 
-//// HE3 ////
-CYXX;07;HE3;CYXX;CYXX;
+//// HE4 ////
+CYXX;07;HE4;CYXX;CYXX;
 HE;HE;<br>;
 KEKPO;KEKPO;@9000 @230K;
 TASDI;TASDI;v8000 ^7000;
@@ -49,7 +49,7 @@ OMINO;OMINO;^3000 @210K;
 MISAR;MISAR;<br>;
 MISAR;MISAR;^2000;
 
-//// END HE3 ////
+//// END HE4 ////
 
 //// MADEE4 ////
 CYXX;01:07:19:25;MADEE4;CYXX;CYXX;

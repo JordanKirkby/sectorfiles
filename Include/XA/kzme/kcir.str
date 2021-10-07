@@ -1,23 +1,8 @@
 // KCIR STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // KCIR Approaches
 
-
-//// NDB14 ////
-KCIR;14;NDB14;KCIR;KCIR;3;
-FF14;FF14;<br>;
-FF14;FF14;@2300;
-CNG;CNG;<br>;
-CIR;CIR;^2300 @210K @210K @210K 
-MAW;MAW;
-CIR;CIR;^2300 @210K @210K @210K;
-FF14;FF14;
-
-KCIR;14;GA NDB14;KCIR;KCIR;5;
-CIR;CIR;<br>;
-CIR;CIR;
-//// END NDB14 ////
 
 //// RNV14 ////
 KCIR;14;RNV14;KCIR;KCIR;3;
@@ -45,8 +30,6 @@ AHOYE;AHOYE;<br>;
 WIGNI;WIGNI;
 CNG;CNG;<br>;
 WIGNI;WIGNI;
-SNOWD;SNOWD;<br>;
-WIGNI;WIGNI;^3000;
 WIGNI;WIGNI;
 
 KCIR;32;GA RNV32;KCIR;KCIR;5;

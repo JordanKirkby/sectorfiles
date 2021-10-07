@@ -1,21 +1,8 @@
 // KDXE STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // KDXE Approaches
 
-
-//// VDM36 ////
-KDXE;36;VDM36;KDXE;KDXE;3;
-MAW;MAW;<br>;
-MAW;MAW;^2200;
-OLDIE;OLDIE;@2200;
-NEBAE;NEBAE;@455;
-MAW;MAW;
-
-KDXE;36;GA VDM36;KDXE;KDXE;5;
-MAW;MAW;<br>;
-MAW;MAW;^2200;
-//// END VDM36 ////
 
 //// RNV18 ////
 KDXE;18;RNV18;KDXE;KDXE;3;

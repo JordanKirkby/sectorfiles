@@ -1,5 +1,5 @@
 // CYBL SIDs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 
 //// KELSY1 ////
@@ -9,11 +9,11 @@ KELSY;KELSY;<br>;
 
 //// END KELSY1 ////
 
-//// UQQ1 ////
-CYBL;12:30;UQQ1;CYBL;CYBL;
+//// OYSTR1 ////
+CYBL;12:30;OYSTR1;CYBL;CYBL;
 UQQ;UQQ;<br>;
 UQQ;UQQ;^4000;
 UQQ;UQQ;<br>;
 UQQ;UQQ;^4000;
 
-//// END UQQ1 ////
+//// END OYSTR1 ////

@@ -1,23 +1,8 @@
 // KGKY STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // KGKY Approaches
 
-
-//// VDM34 ////
-KGKY;34;VDM34;KGKY;KGKY;3;
-BROUZ;BROUZ;<br>;
-BROUZ;BROUZ;@2000;
-ZIMOP;ZIMOP;^1140;
-JEGAK;JEGAK;@693;
-TTT;TTT;<br>;
-BROUZ;BROUZ;^2900 @210K @210K @210K;
-BROUZ;BROUZ;
-
-KGKY;34;GA VDM34;KGKY;KGKY;5;
-BROUZ;BROUZ;<br>;
-BROUZ;BROUZ;^2600;
-//// END VDM34 ////
 
 //// ILS34 ////
 KGKY;34;ILS34;KGKY;KGKY;3;

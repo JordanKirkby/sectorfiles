@@ -1,19 +1,8 @@
 // TNCM STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // TNCM Approaches
 
-
-//// NDB10 ////
-TNCM;10;NDB10;TNCM;TNCM;3;
-FN10;FN10;<br>;
-FN10;FN10;@1600;
-PJD;PJD;@49;
-
-TNCM;10;GA NDB10;TNCM;TNCM;5;
-PJM;PJM;<br>;
-PJD;PJD;^4000;
-//// END NDB10 ////
 
 //// RNV10 ////
 TNCM;10;RNV10;TNCM;TNCM;3;

@@ -1,5 +1,5 @@
 // KDKB STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // KDKB Approaches
 
@@ -12,7 +12,7 @@ JINYO;JINYO;@2700;
 
 KDKB;02;GA ILS02;KDKB;KDKB;5;
 YEARN;YEARN;<br>;
-YEARN;YEARN;
+YEARN;YEARN;^3000;
 //// END ILS02 ////
 
 //// RNV02 ////

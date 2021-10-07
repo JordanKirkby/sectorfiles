@@ -1,34 +1,8 @@
 // KEIW STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // KEIW Approaches
 
-
-//// VDMA18 ////
-KEIW;18;VDMA18;KEIW;KEIW;3;
-MAW;MAW;<br>;
-MAW;MAW;^2100;
-RISCO;RISCO;@1900;
-MACUX;MACUX;@1200;
-MAW;MAW;
-
-KEIW;18;GA VDMA18;KEIW;KEIW;5;
-MAW;MAW;<br>;
-MAW;MAW;^2300;
-//// END VDMA18 ////
-
-//// VDMA36 ////
-KEIW;36;VDMA36;KEIW;KEIW;3;
-MAW;MAW;<br>;
-MAW;MAW;^2100;
-RISCO;RISCO;@1900;
-MACUX;MACUX;@1200;
-MAW;MAW;
-
-KEIW;36;GA VDMA36;KEIW;KEIW;5;
-MAW;MAW;<br>;
-MAW;MAW;^2300;
-//// END VDMA36 ////
 
 //// RNV18 ////
 KEIW;18;RNV18;KEIW;KEIW;3;

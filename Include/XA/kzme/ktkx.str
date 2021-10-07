@@ -1,22 +1,8 @@
 // KTKX STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // KTKX Approaches
 
-
-//// VDM20 ////
-KTKX;20;VDM20;KTKX;KTKX;3;
-MAW;MAW;<br>;
-MAW;MAW;^3000;
-CURPO;CURPO;@2200;
-DYR;DYR;<br>;
-MAW;MAW;^3000;
-MAW;MAW;
-
-KTKX;20;GA VDM20;KTKX;KTKX;5;
-MAW;MAW;<br>;
-MAW;MAW;^3000;
-//// END VDM20 ////
 
 //// RNV02 ////
 KTKX;02;RNV02;KTKX;KTKX;3;

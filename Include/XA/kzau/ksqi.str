@@ -1,5 +1,5 @@
 // KSQI STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // KSQI Approaches
 
@@ -27,12 +27,13 @@ KSQI;25;ILS25;KSQI;KSQI;3;
 REVCO;REVCO;<br>;
 REVCO;REVCO;^2700;
 FOVON;FOVON;@2500;
-DAYVL;DAYVL;<br>;
+ZADAK;ZADAK;<br>;
+ZADAK;ZADAK;^2700;
 REVCO;REVCO;
 
 KSQI;25;GA ILS25;KSQI;KSQI;5;
-PLL;PLL;<br>;
-PLL;PLL;^2700;
+VOSUY;VOSUY;<br>;
+VOSUY;VOSUY;^3000;
 //// END ILS25 ////
 
 //// RNV07 ////

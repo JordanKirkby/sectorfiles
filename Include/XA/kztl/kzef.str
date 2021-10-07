@@ -1,25 +1,8 @@
 // KZEF STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // KZEF Approaches
 
-
-//// NDBA25 ////
-KZEF;25;NDBA25;KZEF;KZEF;3;
-ZEF;ZEF;<br>;
-ZEF;ZEF;@2500;
-BURCH;BURCH;<br>;
-ZEF;ZEF;^5000 @210K @210K @210K 
-FREON;FREON;
-ZEF;ZEF;^5000 @210K @210K @210K 
-GSO;GSO;
-ZEF;ZEF;^5000 @210K @210K @210K;
-ZEF;ZEF;
-
-KZEF;25;GA NDBA25;KZEF;KZEF;5;
-ZEF;ZEF;<br>;
-ZEF;ZEF;^4000;
-//// END NDBA25 ////
 
 //// RNV07 ////
 KZEF;07;RNV07;KZEF;KZEF;3;

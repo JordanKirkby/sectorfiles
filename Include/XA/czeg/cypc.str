@@ -1,5 +1,5 @@
 // CYPC STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // CYPC Approaches
 
@@ -35,8 +35,8 @@ LEROT;LEROT;@2400;
 //// RNV20 ////
 CYPC;20;RNV20;CYPC;CYPC;3;
 SEGOX;SEGOX;<br>;
-SEGOX;SEGOX;^1200;
-ULORA;ULORA;@900;
+SEGOX;SEGOX;^1400;
+ULORA;ULORA;@1400;
 ODKUX;ODKUX;<br>;
 SEGOX;SEGOX;
 RUDPI;RUDPI;<br>;

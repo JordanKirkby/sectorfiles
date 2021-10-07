@@ -1,5 +1,5 @@
 // KBYH STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // KBYH Approaches
 
@@ -7,17 +7,13 @@
 //// ILS18 ////
 KBYH;18;ILS18;KBYH;KBYH;3;
 OLVEE;OLVEE;<br>;
-OLVEE;OLVEE;^2000;
+OLVEE;OLVEE;^2500;
 GURLY;GURLY;@2000;
-DYR;DYR;<br>;
-GURLY;GURLY;^2000;
-OLVEE;OLVEE;
-MAW;MAW;<br>;
 OLVEE;OLVEE;
 
 KBYH;18;GA ILS18;KBYH;KBYH;5;
 GURLY;GURLY;<br>;
-GURLY;GURLY;
+GURLY;GURLY;^2500;
 //// END ILS18 ////
 
 //// RNV18 ////
