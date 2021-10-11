@@ -1,5 +1,5 @@
 // CYRQ SIDs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 
 //// NOVID1 ////
@@ -12,12 +12,12 @@ NOVID;NOVID;^4000;
 
 //// END NOVID1 ////
 
-//// PESAC1 ////
-CYRQ;05:23;PESAC1;CYRQ;CYRQ;
+//// PESAC2 ////
+CYRQ;05:23;PESAC2;CYRQ;CYRQ;
 PESAC;PESAC;<br>;
-PESAC;PESAC;^3000;
+PESAC;PESAC;^4000;
 MUVGU;MUVGU;<br>;
 MUVGU;MUVGU;@210K;
-PESAC;PESAC;^3000;
+PESAC;PESAC;^4000;
 
-//// END PESAC1 ////
+//// END PESAC2 ////

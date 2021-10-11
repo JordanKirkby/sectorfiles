@@ -1,5 +1,5 @@
 // KPIA STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // KPIA Approaches
 
@@ -157,23 +157,27 @@ FAPSA;FAPSA;^2500;
 //// VOR13 ////
 KPIA;13;VOR13;KPIA;KPIA;3;
 PIA;PIA;<br>;
-PIA;PIA;@1800 @210K @210K @210K;
+PIA;PIA;@1900;
+PIA;PIA;<br>;
+PIA;PIA;v6000 @210K @210K @210K;
 PIA;PIA;
 
 KPIA;13;GA VOR13;KPIA;KPIA;5;
-TUNGG;TUNGG;<br>;
-TUNGG;TUNGG;^2400;
+PI;PI;<br>;
+PI;PI;^2400;
 //// END VOR13 ////
 
 //// TAC13 ////
 KPIA;13;TAC13;KPIA;KPIA;3;
 PIA;PIA;<br>;
-PIA;PIA;@1800 @210K @210K @210K;
+PIA;PIA;@1900;
+PIA;PIA;<br>;
+PIA;PIA;v6000 @210K @210K @210K;
 PIA;PIA;
 
 KPIA;13;GA TAC13;KPIA;KPIA;5;
-TUNGG;TUNGG;<br>;
-TUNGG;TUNGG;^2400;
+PI;PI;<br>;
+PI;PI;^2400;
 //// END TAC13 ////
 
 //// TAC31 ////

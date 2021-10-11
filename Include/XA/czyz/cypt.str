@@ -1,5 +1,5 @@
 // CYPT STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // CYPT Approaches
 
@@ -23,6 +23,7 @@ CYPT;28;RNV28;CYPT;CYPT;3;
 PIXUV;PIXUV;<br>;
 PIXUV;PIXUV;^1900;
 DUSAB;DUSAB;@1900;
+MUPTA;MUPTA;^1200;
 IRKEN;IRKEN;<br>;
 IRKEN;IRKEN;@210K;
 PIXUV;PIXUV;

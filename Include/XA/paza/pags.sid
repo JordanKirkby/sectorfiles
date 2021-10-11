@@ -1,17 +1,17 @@
 // PAGS SIDs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 
-//// GSTVS1 ////
-PAGS;02:11:20:29;GSTVS1;PAGS;PAGS;
+//// GSTVS2 ////
+PAGS;02:11:20:29;GSTVS2;PAGS;PAGS;
 PAGS;PAGS;<br>;
 PAGS;PAGS;^1500;
-SSR;SSR;^3000;
+SSR;SSR;^4000;
 SSR;SSR;<br>;
-SSR;SSR;^3000;
+SSR;SSR;^4000;
 SSR;SSR;<br>;
-SSR;SSR;^3000;
+SSR;SSR;^4000;
 SSR;SSR;<br>;
-SSR;SSR;^3000;
+SSR;SSR;^4000;
 
-//// END GSTVS1 ////
+//// END GSTVS2 ////

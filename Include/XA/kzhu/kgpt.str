@@ -1,5 +1,5 @@
 // KGPT STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // KGPT Approaches
 
@@ -95,7 +95,7 @@ KGPT;18;RNV18;KGPT;KGPT;3;
 BOSWU;BOSWU;<br>;
 BOSWU;BOSWU;^2800;
 AHELU;AHELU;@2000;
-HUBDA;HUBDA;^840;
+HUBDA;HUBDA;^780;
 BOSWU;BOSWU;
 
 KGPT;18;GA RNV18;KGPT;KGPT;5;

@@ -1,5 +1,5 @@
 // KHLG STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // KHLG Approaches
 
@@ -17,7 +17,7 @@ BOGGS;BOGGS;
 
 KHLG;03;GA ILS03;KHLG;KHLG;5;
 HLG;HLG;<br>;
-HLG;HLG;^3000;
+HLG;HLG;^3100;
 //// END ILS03 ////
 
 //// RNV03 ////

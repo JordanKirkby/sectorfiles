@@ -1,20 +1,8 @@
 // KMBL STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // KMBL Approaches
 
-
-//// VDM10 ////
-KMBL;10;VDM10;KMBL;KMBL;3;
-FF10;FF10;<br>;
-FF10;FF10;@2300;
-SEXOE;SEXOE;^1220 @210K @210K @210K;
-FF10;FF10;
-
-KMBL;10;GA VDM10;KMBL;KMBL;5;
-MBL;MBL;<br>;
-MBL;MBL;
-//// END VDM10 ////
 
 //// ILS28 ////
 KMBL;28;ILS28;KMBL;KMBL;3;

@@ -1,5 +1,5 @@
 // KOWA STARs
-// Auto-generated 17/9/2021 by Wes Sleeman (XA)
+// Auto-generated 7/10/2021 by Wes Sleeman (XA)
 
 // KOWA Approaches
 
@@ -16,8 +16,6 @@ FOW;FOW;<br>;
 ALAGE;ALAGE;^3000;
 ALAGE;ALAGE;
 RST;RST;<br>;
-RST;RST;^3000;
-RST;RST;
 ALAGE;ALAGE;
 
 KOWA;30;GA ILS30;KOWA;KOWA;5;
