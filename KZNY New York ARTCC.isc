@@ -24,6 +24,11 @@ F;default.atis
 //RDG;#363636;
 //WRI;#363636;
 
+TAXIWAY;#050505;
+APRON;#090909;
+BUILDING;#050505;
+RUNWAY;#090909;
+
 [ATC]
 F;atc.atc
 
