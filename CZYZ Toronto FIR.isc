@@ -10,6 +10,10 @@ F;default.atis
 [DEFINE]
 //VIDEO MAPS; COLORS (GEO)
 CYYZ APP;#363636;
+CYYZ_23_24;#363636;
+CYYZ_05_06;#363636;
+CYYZ_33;#363636;
+CYYZ_15;#363636;
 
 [ATC]
 F;\atc.atc
@@ -57,7 +61,11 @@ F;cyxu_txicenterlines.geo
 F;cyxu_stoplines.geo
 F;cyxu_pier.geo
 //APP MAPS
-//F;app\cyyz_app.geo
+F;app\cyyz_app.geo
+F;app\CYYZ_23_24.geo
+F;app\CYYZ_05_06.geo
+F;app\CYYZ_33.geo
+F;app\CYYZ_15.geo
 
 [FILLCOLOR]
 F;airspace\czyz_aor.tfl
