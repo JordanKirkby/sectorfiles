@@ -60,6 +60,8 @@ F;cytz_pier.geo
 F;cyxu_txicenterlines.geo
 F;cyxu_stoplines.geo
 F;cyxu_pier.geo
+F;geo\restrict.geo
+F;geo\warning.geo
 //APP MAPS
 F;app\cyyz_app.geo
 F;app\CYYZ_23_24.geo
