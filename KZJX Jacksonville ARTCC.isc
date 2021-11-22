@@ -54,8 +54,6 @@ F;airspace\class c.artcc
 F;airspace\class d.artcc
 
 [GEO]
-F;ad\kegi.geo
-F;ad\knbc.geo
 F;ad\kmco.geo
 F;geo\coastlines.geo
 F;geo\restrict.geo
@@ -82,4 +80,3 @@ F;app\vld_app.geo
 f:app\vps_app.geo
 
 [FILLCOLOR]
-F;prohibit.fcl
