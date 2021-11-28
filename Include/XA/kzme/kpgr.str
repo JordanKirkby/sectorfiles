@@ -1,5 +1,5 @@
 // KPGR STARs
-// Auto-generated 7/10/2021 by Wes Sleeman (XA)
+// Auto-generated 28/11/2021 by Wes Sleeman (XA)
 
 // KPGR Approaches
 
@@ -27,6 +27,7 @@ KPGR;22;RNV22;KPGR;KPGR;3;
 CUBIN;CUBIN;<br>;
 CUBIN;CUBIN;^3000;
 EVELY;EVELY;@2000;
+CUBIN;CUBIN;
 DOREY;DOREY;<br>;
 CUBIN;CUBIN;
 HEMOR;HEMOR;<br>;

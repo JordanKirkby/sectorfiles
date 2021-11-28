@@ -1,5 +1,5 @@
 // KPNA STARs
-// Auto-generated 7/10/2021 by Wes Sleeman (XA)
+// Auto-generated 28/11/2021 by Wes Sleeman (XA)
 
 // KPNA Approaches
 
@@ -7,7 +7,7 @@
 //// NDBA11 ////
 KPNA;11;NDBA11;KPNA;KPNA;3;
 PNA;PNA;<br>;
-PNA;PNA;@7900;
+PNA;PNA;@8260;
 BPI;BPI;<br>;
 PNA;PNA;^10000 @210K @210K @210K;
 PNA;PNA;
@@ -20,7 +20,7 @@ BPI;BPI;^10000;
 //// NDBA29 ////
 KPNA;29;NDBA29;KPNA;KPNA;3;
 PNA;PNA;<br>;
-PNA;PNA;@7900;
+PNA;PNA;@8260;
 BPI;BPI;<br>;
 PNA;PNA;^10000 @210K @210K @210K;
 PNA;PNA;

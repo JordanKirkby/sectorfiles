@@ -1,5 +1,5 @@
 // KLAS SIDs
-// Auto-generated 7/10/2021 by Wes Sleeman (XA)
+// Auto-generated 28/11/2021 by Wes Sleeman (XA)
 
 
 //// GIDGT1 ////
@@ -164,6 +164,13 @@ GEEOO;GEEOO;
 BETHL;BETHL;
 VERKN;VERKN;
 //// END GIDGT1 ////
+
+//// HOOVR7 ////
+KLAS;01L:01R:08L:08R:19L:19R:26L:26R;HOOVR7;KLAS;KLAS;
+LAS;LAS;<br>;
+LAS;LAS;<br>;
+
+//// END HOOVR7 ////
 
 //// JOHKR2 ////
 KLAS;01L:01R:08L:08R:19L:19R:26L:26R;JOHKR2;KLAS;KLAS;
