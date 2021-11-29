@@ -1,5 +1,5 @@
 // KLXY STARs
-// Auto-generated 7/10/2021 by Wes Sleeman (XA)
+// Auto-generated 28/11/2021 by Wes Sleeman (XA)
 
 // KLXY Approaches
 
@@ -7,7 +7,7 @@
 //// NDBA18 ////
 KLXY;18;NDBA18;KLXY;KLXY;3;
 LXY;LXY;<br>;
-LXY;LXY;@1180;
+LXY;LXY;@1220;
 ACT;ACT;<br>;
 LXY;LXY;^2300 @210K @210K @210K 
 KISER;KISER;
@@ -24,7 +24,7 @@ LXY;LXY;^2300;
 //// NDBA36 ////
 KLXY;36;NDBA36;KLXY;KLXY;3;
 LXY;LXY;<br>;
-LXY;LXY;@1180;
+LXY;LXY;@1220;
 ACT;ACT;<br>;
 LXY;LXY;^2300 @210K @210K @210K 
 KISER;KISER;
