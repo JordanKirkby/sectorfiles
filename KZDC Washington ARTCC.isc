@@ -5,8 +5,10 @@ W077.19.10.000
 48
 -10
 XA\KZDC
+
 [ATIS]
 F;default.atis
+
 [DEFINE]
 //CHP;#363636;
 //SHD_NORTH_OPS;#363636;
@@ -26,6 +28,11 @@ F;default.atis
 //ORF_SW_OPS;#363636;
 //RDU_5L-5R_OPS;#363636;
 //RDU_23L-23R_OPS;#363636;
+
+TAXIWAY;#050505;
+APRON;#090909;
+BUILDING;#050505;
+RUNWAY;#090909;
 
 [ATC]
 F;atc.atc
@@ -66,14 +73,14 @@ F;airspace\trsa.artcc
 
 [GEO]
 F;geo\us-coast.geo
-F;ad\korf_parking.geo
-F;ad\krdu_parking.geo
-F;ad\kric_parking.geo
-F;ad\kroa_parking.geo
-F;geo\restrict.geo
-F;geo\warning.geo
-F;geo\moa.geo
-F;geo\prohibit.geo
+F;pier\korf_parking.geo
+F;pier\krdu_parking.geo
+F;pier\kric_parking.geo
+F;pier\kroa_parking.geo
+F;airspace\restrict.geo
+F;airspace\warning.geo
+F;airspace\moa.geo
+F;airspace\prohibit.geo
 F;app\chp.geo
 F;app\shd_north_ops.geo
 F;app\shd_south_ops.geo
