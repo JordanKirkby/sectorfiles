@@ -1,5 +1,5 @@
 // CYHZ STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 7/1/2022 by Wes Sleeman (XA)
 
 // CYHZ Approaches
 
@@ -7,7 +7,7 @@
 //// ILS14 ////
 CYHZ;14;ILS14;CYHZ;CYHZ;3;
 TETAR;TETAR;<br>;
-TETAR;TETAR;^3000;
+TETAR;TETAR;^3000 @200K;
 IMANO;IMANO;@1810;
 IGVOP;IGVOP;<br>;
 IGVOP;IGVOP;^4000 @210K;
@@ -59,7 +59,8 @@ LOPMA;LOPMA;^3000 @210K @210K @210K;
 ODKAS;ODKAS;
 
 CYHZ;05;GA LOC05;CYHZ;CYHZ;5;
-YHZ;YHZ;<br>;
+IHZ;IHZ;<br>;
+YHZ;YHZ;
 //// END LOC05 ////
 
 //// RNVY05 ////

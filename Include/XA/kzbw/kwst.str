@@ -1,5 +1,5 @@
 // KWST STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 7/1/2022 by Wes Sleeman (XA)
 
 // KWST Approaches
 
@@ -8,12 +8,12 @@
 KWST;07;LOC07;KWST;KWST;3;
 CF07;CF07;<br>;
 CF07;CF07;^2000;
-KLUTZ;KLUTZ;@1700;
+KLUTZ;KLUTZ;@1800;
 GON;GON;<br>;
 KLUTZ;KLUTZ;^2000;
 CF07;CF07;
 ORW;ORW;<br>;
-KLUTZ;KLUTZ;^2000;
+KLUTZ;KLUTZ;^2100;
 CF07;CF07;
 SEY;SEY;<br>;
 KLUTZ;KLUTZ;^2000;

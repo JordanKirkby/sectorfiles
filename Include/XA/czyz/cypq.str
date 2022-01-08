@@ -1,5 +1,5 @@
 // CYPQ STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 7/1/2022 by Wes Sleeman (XA)
 
 // CYPQ Approaches
 
@@ -31,8 +31,8 @@ SATIK;SATIK;@210K;
 NALTU;NALTU;
 
 CYPQ;09;GA RNV09;CYPQ;CYPQ;5;
-EBLOK;EBLOK;<br>;
-EBLOK;EBLOK;^2900;
+AVSAM;AVSAM;<br>;
+AVSAM;AVSAM;@250K;
 //// END RNV09 ////
 
 //// RNV27 ////

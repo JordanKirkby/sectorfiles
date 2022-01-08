@@ -1,5 +1,5 @@
 // KROC STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 7/1/2022 by Wes Sleeman (XA)
 
 // KROC Approaches
 
@@ -63,8 +63,7 @@ KROC;07;RNV07;KROC;KROC;3;
 HITOX;HITOX;<br>;
 HITOX;HITOX;^2600;
 CEPAG;CEPAG;@1800;
-BUF;BUF;<br>;
-FIXUS;FIXUS;^3500;
+FIXUS;FIXUS;<br>;
 HITOX;HITOX;
 WELTI;WELTI;<br>;
 HITOX;HITOX;

@@ -1,20 +1,8 @@
 // KPNE STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 7/1/2022 by Wes Sleeman (XA)
 
 // KPNE Approaches
 
-
-//// LBC06 ////
-KPNE;06;LBC06;KPNE;KPNE;3;
-WAMCA;WAMCA;<br>;
-WAMCA;WAMCA;^2000;
-JUNIA;JUNIA;@2000;
-CFDSB;CFDSB;@382;
-
-KPNE;06;GA LBC06;KPNE;KPNE;5;
-ARD;ARD;<br>;
-ARD;ARD;^3000;
-//// END LBC06 ////
 
 //// ILS24 ////
 KPNE;24;ILS24;KPNE;KPNE;3;
@@ -40,7 +28,7 @@ JUNIA;JUNIA;@2000;
 
 KPNE;06;GA RNV06;KPNE;KPNE;5;
 FLITS;FLITS;<br>;
-FLITS;FLITS;^3000;
+FLITS;FLITS;^2900;
 //// END RNV06 ////
 
 //// RNV15 ////

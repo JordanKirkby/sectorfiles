@@ -1,5 +1,5 @@
 // KMDW STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 7/1/2022 by Wes Sleeman (XA)
 
 // KMDW Approaches
 
@@ -138,8 +138,8 @@ EON;EON;^2600;
 //// RNV13CZ ////
 KMDW;13C;RNV13CZ;KMDW;KMDW;3;
 AAMEE;AAMEE;<br>;
-AAMEE;AAMEE;^2300 @180K;
-RUDDY;RUDDY;^2000;
+AAMEE;AAMEE;@2300 @180K;
+RUDDY;RUDDY;@2000;
 NAANN;NAANN;@1600;
 HHALL;HHALL;^1280;
 GIKLE;GIKLE;<br>;
