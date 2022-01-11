@@ -1,11 +1,12 @@
 // KOMK SIDs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 7/1/2022 by Wes Sleeman (XA)
 
 
-//// GETNG1 ////
-KOMK;17;GETNG1;KOMK;KOMK;
+//// EPH1 ////
+KOMK;17;EPH1;KOMK;KOMK;
 GETNG;GETNG;<br>;
+GETNG;GETNG;^1900 @210K;
 HVARD;HVARD;
 EPH;EPH;^4200;
 
-//// END GETNG1 ////
+//// END EPH1 ////

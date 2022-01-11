@@ -1,5 +1,5 @@
 // CYSM STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 7/1/2022 by Wes Sleeman (XA)
 
 // CYSM Approaches
 
@@ -42,5 +42,5 @@ FF12;FF12;
 
 CYSM;12;GA VOR12;CYSM;CYSM;5;
 YSM;YSM;<br>;
-YSM;YSM;@2000;
+YSM;YSM;@2200;
 //// END VOR12 ////

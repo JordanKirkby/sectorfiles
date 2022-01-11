@@ -1,5 +1,5 @@
 // KLNK STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 7/1/2022 by Wes Sleeman (XA)
 
 // KLNK Approaches
 
@@ -52,7 +52,7 @@ LNK;LNK;^3000;
 KLNK;18;ILSZ18;KLNK;KLNK;3;
 FABRO;FABRO;<br>;
 FABRO;FABRO;^3100;
-CLONE;CLONE;@2900;
+CLONE;CLONE;@2837;
 JOUST;JOUST;<br>;
 JOUST;JOUST;^F180;
 FABRO;FABRO;

@@ -1,5 +1,5 @@
 // CYYT STARs
-// Auto-generated 14/7/2021 by Wes Sleeman (XA)
+// Auto-generated 7/1/2022 by Wes Sleeman (XA)
 
 // CYYT Approaches
 
@@ -54,22 +54,6 @@ CYYT;29;GA ILS29;CYYT;CYYT;5;
 ISO;ISO;<br>;
 YYT;YYT;@3000;
 //// END ILS29 ////
-
-//// NDB34 ////
-CYYT;34;NDB34;CYYT;CYYT;3;
-UMALA;UMALA;<br>;
-UMALA;UMALA;^2200;
-NL;NL;@1500;
-NOSUX;NOSUX;<br>;
-NL;NL;^2300 @210K @210K @210K 
-YYT;YYT;
-NL;NL;^2300 @210K @210K @210K;
-UMALA;UMALA;
-
-CYYT;34;GA NDB34;CYYT;CYYT;5;
-YYT;YYT;<br>;
-YYT;YYT;@3000;
-//// END NDB34 ////
 
 //// RNV02 ////
 CYYT;02;RNV02;CYYT;CYYT;3;

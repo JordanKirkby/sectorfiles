@@ -1,5 +1,5 @@
 // KCHD STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 7/1/2022 by Wes Sleeman (XA)
 
 // KCHD Approaches
 
@@ -18,7 +18,7 @@ DECTU;DECTU;
 
 KCHD;04R;GA RNV04R;KCHD;KCHD;5;
 DECTU;DECTU;<br>;
-DECTU;DECTU;^4000;
+DECTU;DECTU;^4000 @210K;
 //// END RNV04R ////
 
 //// VOR04R ////

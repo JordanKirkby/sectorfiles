@@ -1,5 +1,5 @@
 // KTNU STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 7/1/2022 by Wes Sleeman (XA)
 
 // KTNU Approaches
 
@@ -45,7 +45,8 @@ KOWDO;KOWDO;^3100;
 //// VOR14 ////
 KTNU;14;VOR14;KTNU;KTNU;3;
 TNU;TNU;<br>;
-TNU;TNU;@2700 @210K @210K @210K;
+TNU;TNU;@2700;
+NEJXU;NEJXU;^1460 @210K @210K @210K;
 TNU;TNU;
 
 KTNU;14;GA VOR14;KTNU;KTNU;5;
