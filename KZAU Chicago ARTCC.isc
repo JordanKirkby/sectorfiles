@@ -14,21 +14,18 @@ BUILDING;#050505;
 RUNWAY;#090909;
 //VIDEO MAPS; COLORS (GEO)
 C90 TRACON;#363636;
-KALO APP;#363636;
-KAZO APP;#363636;
-KCMI APP;#363636;
-KCID APP;#363636;
-KFWA APP;#363636;
-KGRR APP;#363636;
-KMKE 1L APP;#363636;
-KMKE 7R APP;#363636;
-KMKE 19R APP;#363636;
-KMKE 25L APP;#363636;
-KMLI APP;#363636;
-KMSN APP;#363636;
-KRFD APP;#363636;
-KPIA APP;#363636;
-KSBN APP;#363636;
+//KALO APP;#363636;
+//KAZO APP;#363636;
+//KCMI APP;#363636;
+//KCID APP;#363636;
+//KFWA APP;#363636;
+//KGRR APP;#363636;
+KMKE APP;#363636;
+//KMLI APP;#363636;
+//KMSN APP;#363636;
+//KRFD APP;#363636;
+//KPIA APP;#363636;
+//KSBN APP;#363636;
 
 [ATC]
 F;atc.atc
@@ -79,7 +76,6 @@ F;airspace\kzau_low.artcc
 F;airspace\class b.artcc
 F;airspace\class c.artcc
 F;airspace\class d.artcc
-F;airspace\trsa.artcc
 
 [GEO]
 F;GEO\coast.geo
@@ -113,9 +109,9 @@ F;app\kcid_app.geo
 F;app\kcmi_app.geo
 F;app\kfwa_app.geo
 F;app\kgrr_app.geo
-//F;app\kmke_1l_app.geo
-//F;app\kmke_7r_app.geo
-//F;app\kmke_19r_app.geo
+F;app\kmke_1l_app.geo
+F;app\kmke_7r_app.geo
+F;app\kmke_19r_app.geo
 F;app\kmke_25l_app.geo
 F;app\kmli_app.geo
 F;app\kmsn_app.geo
