@@ -45,6 +45,7 @@ F;airspace\czyz.artcc
 
 [ARTCC HIGH]
 F;airspace\app.artcc
+F;airspace\kzob approaches.artcc
 
 [ARTCC LOW]
 F;airspace\terminal_control_areas.artcc
