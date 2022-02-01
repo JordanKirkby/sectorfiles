@@ -1,6 +1,13 @@
 // KTNX SIDs
-// Auto-generated 7/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/2/2022 by Wes Sleeman (XA)
 
+
+//// ESSAA1 ////
+KTNX;14:32;ESSAA1;KTNX;KTNX;
+ESSAA;ESSAA;<br>;
+ESSAA;ESSAA;<br>;
+
+//// END ESSAA1 ////
 
 //// RANGE2 ////
 KTNX;14:32;RANGE2;KTNX;KTNX;

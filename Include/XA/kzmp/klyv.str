@@ -1,5 +1,5 @@
 // KLYV STARs
-// Auto-generated 7/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/2/2022 by Wes Sleeman (XA)
 
 // KLYV Approaches
 
@@ -7,16 +7,12 @@
 //// RNV18 ////
 KLYV;18;RNV18;KLYV;KLYV;3;
 TYIBR;TYIBR;<br>;
-TYIBR;TYIBR;^3300;
+TYIBR;TYIBR;^3600;
 HEPIL;HEPIL;@3300;
 COMDA;COMDA;^2240;
-OTG;OTG;<br>;
-KOVRE;KOVRE;^3400;
+KOVRE;KOVRE;<br>;
 TYIBR;TYIBR;
-POEMS;POEMS;<br>;
-TYIBR;TYIBR;
-SECTO;SECTO;<br>;
-RURGY;RURGY;^3300;
+RURGY;RURGY;<br>;
 TYIBR;TYIBR;
 TYIBR;TYIBR;
 

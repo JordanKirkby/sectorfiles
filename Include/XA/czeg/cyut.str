@@ -1,19 +1,8 @@
 // CYUT STARs
-// Auto-generated 7/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/2/2022 by Wes Sleeman (XA)
 
 // CYUT Approaches
 
-
-//// NDB34 ////
-CYUT;34;NDB34;CYUT;CYUT;3;
-FF34;FF34;<br>;
-FF34;FF34;@1600 @210K @210K @210K;
-FF34;FF34;
-
-CYUT;34;GA NDB34;CYUT;CYUT;5;
-YUT;YUT;<br>;
-YUT;YUT;@2400;
-//// END NDB34 ////
 
 //// RNV16 ////
 CYUT;16;RNV16;CYUT;CYUT;3;

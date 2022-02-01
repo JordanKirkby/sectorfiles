@@ -1,5 +1,5 @@
 // KTKC STARs
-// Auto-generated 7/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/2/2022 by Wes Sleeman (XA)
 
 // KTKC Approaches
 
@@ -29,9 +29,10 @@ KTKC;29;RNV29;KTKC;KTKC;3;
 DUPPA;DUPPA;<br>;
 DUPPA;DUPPA;^3000;
 CIGOD;CIGOD;@3000;
+MANCN;MANCN;^2000;
 DUPPA;DUPPA;
-OTG;OTG;<br>;
-AYUBO;AYUBO;^3400;
+ISLER;ISLER;<br>;
+AYUBO;AYUBO;^3100;
 DUPPA;DUPPA;
 RWF;RWF;<br>;
 BUKAC;BUKAC;^3000;

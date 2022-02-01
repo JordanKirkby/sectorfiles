@@ -1,5 +1,5 @@
 // CYRA STARs
-// Auto-generated 7/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/2/2022 by Wes Sleeman (XA)
 
 // CYRA Approaches
 
@@ -7,8 +7,8 @@
 //// RNV14 ////
 CYRA;14;RNV14;CYRA;CYRA;3;
 PURAR;PURAR;<br>;
-PURAR;PURAR;^2700;
-BOVIG;BOVIG;@2470;
+PURAR;PURAR;^2500;
+BOVIG;BOVIG;@2480;
 NAPDU;NAPDU;^1620;
 AXUNI;AXUNI;<br>;
 PURAR;PURAR;

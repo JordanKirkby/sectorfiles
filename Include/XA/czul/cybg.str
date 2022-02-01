@@ -1,5 +1,5 @@
 // CYBG STARs
-// Auto-generated 7/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/2/2022 by Wes Sleeman (XA)
 
 // CYBG Approaches
 
@@ -196,6 +196,7 @@ CYBG;11;RNVZ11;CYBG;CYBG;3;
 BIBOD;BIBOD;<br>;
 BIBOD;BIBOD;^2900;
 URNIV;URNIV;@2000;
+URTEB;URTEB;^1080;
 KARAX;KARAX;<br>;
 BIBOD;BIBOD;
 MEGEG;MEGEG;<br>;

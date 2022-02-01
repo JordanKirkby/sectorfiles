@@ -1,19 +1,8 @@
 // CYXN STARs
-// Auto-generated 7/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/2/2022 by Wes Sleeman (XA)
 
 // CYXN Approaches
 
-
-//// NDB15 ////
-CYXN;15;NDB15;CYXN;CYXN;3;
-FF15;FF15;<br>;
-FF15;FF15;@1300 @210K @210K @210K;
-FF15;FF15;
-
-CYXN;15;GA NDB15;CYXN;CYXN;5;
-YXN;YXN;<br>;
-YXN;YXN;@1400;
-//// END NDB15 ////
 
 //// RNV15 ////
 CYXN;15;RNV15;CYXN;CYXN;3;
