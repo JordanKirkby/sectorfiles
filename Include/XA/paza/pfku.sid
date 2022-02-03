@@ -1,12 +1,14 @@
 // PFKU SIDs
-// Auto-generated 7/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/2/2022 by Wes Sleeman (XA)
 
 
-//// DIBVY2 ////
-PFKU;06:24;DIBVY2;PFKU;PFKU;
+//// DIBVY3 ////
+PFKU;07:25;DIBVY3;PFKU;PFKU;
 DIBVY;DIBVY;<br>;
+DIBVY;DIBVY;^6000;
 GAL;GAL;
 DIBVY;DIBVY;<br>;
+DIBVY;DIBVY;^6000;
 GAL;GAL;
 
-//// END DIBVY2 ////
+//// END DIBVY3 ////

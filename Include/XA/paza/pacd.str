@@ -1,5 +1,5 @@
 // PACD STARs
-// Auto-generated 7/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/2/2022 by Wes Sleeman (XA)
 
 // PACD Approaches
 
@@ -150,3 +150,18 @@ PACD;33;GA RNV33;PACD;PACD;5;
 DEADS;DEADS;<br>;
 DEADS;DEADS;^3000;
 //// END RNV33 ////
+
+//// TAC15 ////
+PACD;15;TAC15;PACD;PACD;3;
+CDB;CDB;<br>;
+CDB;CDB;@1100;
+LANEY;LANEY;<br>;
+LANEY;LANEY;^F200;
+DEADS;DEADS;^3000;
+CDB;CDB;
+
+PACD;15;GA TAC15;PACD;PACD;5;
+CDB;CDB;<br>;
+CDB;CDB;^3000;
+DEADS;DEADS;^3000;
+//// END TAC15 ////

@@ -1,5 +1,5 @@
 // KWRI SIDs
-// Auto-generated 7/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/2/2022 by Wes Sleeman (XA)
 
 
 //// MXE4 ////
@@ -169,3 +169,22 @@ PTW;PTW;
 FLOAT;FLOAT;
 RAV;RAV;
 //// END PTW3 ////
+
+//// THMAS1 ////
+KWRI;06:18:24:36;THMAS1;KWRI;KWRI;
+ACY;ACY;<br>;
+LEEAH;LEEAH;
+PEETZ;PEETZ;<br>;
+FEBAR;FEBAR;v6000;
+CYN;CYN;
+THMAS;THMAS;@8000;
+THMAS;THMAS;<br>;
+THMAS;THMAS;@8000;
+THMAS;THMAS;<br>;
+THMAS;THMAS;@8000;
+PEETZ;PEETZ;<br>;
+FEBAR;FEBAR;v6000;
+CYN;CYN;
+THMAS;THMAS;@8000;
+
+//// END THMAS1 ////

@@ -1,30 +1,8 @@
 // CZKE STARs
-// Auto-generated 7/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/2/2022 by Wes Sleeman (XA)
 
 // CZKE Approaches
 
-
-//// NDBA06 ////
-CZKE;06;NDBA06;CZKE;CZKE;3;
-YFA;YFA;<br>;
-YFA;YFA;@1500 @210K @210K @210K;
-YFA;YFA;
-
-CZKE;06;GA NDBA06;CZKE;CZKE;5;
-YFA;YFA;<br>;
-YFA;YFA;@1600;
-//// END NDBA06 ////
-
-//// NDBA24 ////
-CZKE;24;NDBA24;CZKE;CZKE;3;
-YFA;YFA;<br>;
-YFA;YFA;@1500 @210K @210K @210K;
-YFA;YFA;
-
-CZKE;24;GA NDBA24;CZKE;CZKE;5;
-YFA;YFA;<br>;
-YFA;YFA;@1600;
-//// END NDBA24 ////
 
 //// RNV06 ////
 CZKE;06;RNV06;CZKE;CZKE;3;

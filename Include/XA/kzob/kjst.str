@@ -1,5 +1,5 @@
 // KJST STARs
-// Auto-generated 7/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/2/2022 by Wes Sleeman (XA)
 
 // KJST Approaches
 
@@ -132,7 +132,15 @@ JST;JST;<br>;
 JST;JST;
 //// END VOR05 ////
 
+//// VORY15 ////
+KJST;15;VORY15;KJST;KJST;3;
+JST;JST;<br>;
+JST;JST;^4300 @210K @210K @210K;
 
+KJST;15;GA VORY15;KJST;KJST;5;
+JST;JST;<br>;
+JST;JST;
+//// END VORY15 ////
 
 //// VORY23 ////
 KJST;23;VORY23;KJST;KJST;3;

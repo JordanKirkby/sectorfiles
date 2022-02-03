@@ -1,5 +1,5 @@
 // KPQN STARs
-// Auto-generated 7/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/2/2022 by Wes Sleeman (XA)
 
 // KPQN Approaches
 
@@ -30,14 +30,10 @@ HEVBA;HEVBA;<br>;
 HEVBA;HEVBA;^3400;
 CEPKA;CEPKA;@3300;
 WATKU;WATKU;^2340;
-ASTOE;ASTOE;<br>;
-HEVBA;HEVBA;^3500;
 HEVBA;HEVBA;
-CATID;CATID;<br>;
+NIKKE;NIKKE;<br>;
 HEVBA;HEVBA;
-FSD;FSD;<br>;
-HEVBA;HEVBA;
-OTG;OTG;<br>;
+WAKON;WAKON;<br>;
 HEVBA;HEVBA;
 
 KPQN;36;GA RNV36;KPQN;KPQN;5;

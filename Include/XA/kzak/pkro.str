@@ -1,5 +1,5 @@
 // PKRO STARs
-// Auto-generated 7/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/2/2022 by Wes Sleeman (XA)
 
 // PKRO Approaches
 
@@ -26,9 +26,10 @@ PKRO;22;RNV22;PKRO;PKRO;3;
 AGOLY;AGOLY;<br>;
 AGOLY;AGOLY;^1300;
 GOLPE;GOLPE;@1000;
-MOFHU;MOFHU;@215;
+MOFHU;MOFHU;@214;
 AGOLY;AGOLY;
 NDJ;NDJ;<br>;
+NDJ;NDJ;^1500;
 ZAPUM;ZAPUM;^1500;
 BOQHU;BOQHU;^1500;
 AGOLY;AGOLY;
