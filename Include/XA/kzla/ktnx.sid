@@ -1,5 +1,5 @@
 // KTNX SIDs
-// Auto-generated 1/2/2022 by Wes Sleeman (XA)
+// Auto-generated 6/3/2022 by Wes Sleeman (XA)
 
 
 //// ESSAA1 ////
@@ -8,6 +8,20 @@ ESSAA;ESSAA;<br>;
 ESSAA;ESSAA;<br>;
 
 //// END ESSAA1 ////
+
+//// JAYSN1 ////
+KTNX;14:32;JAYSN1;KTNX;KTNX;
+JAYSN;JAYSN;<br>;
+JAYSN;JAYSN;<br>;
+
+//// END JAYSN1 ////
+
+//// LEAHI1 ////
+KTNX;14:32;LEAHI1;KTNX;KTNX;
+LEAHI;LEAHI;<br>;
+LEAHI;LEAHI;<br>;
+
+//// END LEAHI1 ////
 
 //// RANGE2 ////
 KTNX;14:32;RANGE2;KTNX;KTNX;
@@ -36,6 +50,12 @@ TPH;TPH;<br>;
 TPH;TPH;^10000;
 
 //// END TPH2 ////
+
+//// TPH3 ////
+KTNX;14;TPH3;KTNX;KTNX;
+TPH;TPH;<br>;
+
+//// END TPH3 ////
 
 //// TUMBE1 ////
 KTNX;14:32;TUMBE1;KTNX;KTNX;
