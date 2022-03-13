@@ -1,34 +1,8 @@
 // KGMJ STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 6/3/2022 by Wes Sleeman (XA)
 
 // KGMJ Approaches
 
-
-//// VDMA18 ////
-KGMJ;18;VDMA18;KGMJ;KGMJ;3;
-EOS;EOS;<br>;
-EOS;EOS;^3000;
-OJAYE;OJAYE;@2800;
-ZURUN;ZURUN;@1500;
-EOS;EOS;
-
-KGMJ;18;GA VDMA18;KGMJ;KGMJ;5;
-EOS;EOS;<br>;
-EOS;EOS;^3000;
-//// END VDMA18 ////
-
-//// VDMA36 ////
-KGMJ;36;VDMA36;KGMJ;KGMJ;3;
-EOS;EOS;<br>;
-EOS;EOS;^3000;
-OJAYE;OJAYE;@2800;
-ZURUN;ZURUN;@1500;
-EOS;EOS;
-
-KGMJ;36;GA VDMA36;KGMJ;KGMJ;5;
-EOS;EOS;<br>;
-EOS;EOS;^3000;
-//// END VDMA36 ////
 
 //// RNV18 ////
 KGMJ;18;RNV18;KGMJ;KGMJ;3;

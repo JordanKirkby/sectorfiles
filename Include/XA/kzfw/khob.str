@@ -1,26 +1,8 @@
 // KHOB STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 6/3/2022 by Wes Sleeman (XA)
 
 // KHOB Approaches
 
-
-//// LBC21 ////
-KHOB;21;LBC21;KHOB;KHOB;3;
-FLUZE;FLUZE;<br>;
-FLUZE;FLUZE;^6000;
-JAIMS;JAIMS;@5500;
-ZAVTI;ZAVTI;@3883;
-GECKE;GECKE;<br>;
-GECKE;GECKE;
-HEBIX;HEBIX;
-KUCEY;KUCEY;
-FLUZE;FLUZE;
-
-KHOB;21;GA LBC21;KHOB;KHOB;5;
-HOB;HOB;<br>;
-HOB;HOB;^6000;
-DYETT;DYETT;
-//// END LBC21 ////
 
 //// VDM21 ////
 KHOB;21;VDM21;KHOB;KHOB;3;

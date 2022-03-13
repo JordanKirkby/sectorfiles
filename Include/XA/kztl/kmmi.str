@@ -1,25 +1,8 @@
 // KMMI STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 6/3/2022 by Wes Sleeman (XA)
 
 // KMMI Approaches
 
-
-//// NDB02 ////
-KMMI;02;NDB02;KMMI;KMMI;3;
-FF02;FF02;<br>;
-FF02;FF02;@3000;
-GROSS;GROSS;<br>;
-MMI;MMI;v6000 ^3800 @210K @210K @210K 
-KIRCH;KIRCH;
-MMI;MMI;v6000 ^3500 @210K @210K @210K 
-PEEKS;PEEKS;
-MMI;MMI;v6000 ^3600 @210K @210K @210K;
-FF02;FF02;
-
-KMMI;02;GA NDB02;KMMI;KMMI;5;
-MMI;MMI;<br>;
-MMI;MMI;
-//// END NDB02 ////
 
 //// RNV02 ////
 KMMI;02;RNV02;KMMI;KMMI;3;

@@ -1,5 +1,5 @@
 // KGRI STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 6/3/2022 by Wes Sleeman (XA)
 
 // KGRI Approaches
 
@@ -48,15 +48,16 @@ GRI;GRI;^3600;
 
 //// ILS35 ////
 KGRI;35;ILS35;KGRI;KGRI;3;
-CF35;CF35;<br>;
-CF35;CF35;^3700;
-SANCY;SANCY;@3333;
+AXOVY;AXOVY;<br>;
+AXOVY;AXOVY;^3800;
+SANCY;SANCY;@3500;
 GRI;GRI;<br>;
-SANCY;SANCY;^3700 @210K @210K @210K;
-CF35;CF35;
+AXOVY;AXOVY;^3800;
+AXOVY;AXOVY;
 
 KGRI;35;GA ILS35;KGRI;KGRI;5;
 GRI;GRI;<br>;
+GRI;GRI;^3800;
 //// END ILS35 ////
 
 //// RNV13 ////

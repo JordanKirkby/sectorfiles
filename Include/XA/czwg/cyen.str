@@ -1,5 +1,5 @@
 // CYEN STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 6/3/2022 by Wes Sleeman (XA)
 
 // CYEN Approaches
 
@@ -18,7 +18,7 @@ DUXEK;DUXEK;
 
 CYEN;08;GA RNV08;CYEN;CYEN;5;
 KASEX;KASEX;<br>;
-KASEX;KASEX;@3900;
+KASEX;KASEX;@4000;
 //// END RNV08 ////
 
 //// RNV15 ////
@@ -35,7 +35,7 @@ LOLMA;LOLMA;
 
 CYEN;15;GA RNV15;CYEN;CYEN;5;
 GABIR;GABIR;<br>;
-GABIR;GABIR;@3900;
+GABIR;GABIR;@4000;
 //// END RNV15 ////
 
 //// RNV26 ////
@@ -52,7 +52,7 @@ EBGOG;EBGOG;
 
 CYEN;26;GA RNV26;CYEN;CYEN;5;
 OBTET;OBTET;<br>;
-OBTET;OBTET;@3900;
+OBTET;OBTET;@4000;
 //// END RNV26 ////
 
 //// RNV33 ////
@@ -69,5 +69,5 @@ KARAV;KARAV;
 
 CYEN;33;GA RNV33;CYEN;CYEN;5;
 VESBO;VESBO;<br>;
-VESBO;VESBO;@3900;
+VESBO;VESBO;@4000;
 //// END RNV33 ////

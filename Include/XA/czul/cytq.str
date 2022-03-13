@@ -1,20 +1,8 @@
 // CYTQ STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 6/3/2022 by Wes Sleeman (XA)
 
 // CYTQ Approaches
 
-
-//// NDB23 ////
-CYTQ;23;NDB23;CYTQ;CYTQ;3;
-FF23;FF23;<br>;
-FF23;FF23;@2000;
-YTQ;YTQ;@153 @210K @210K @210K;
-FF23;FF23;
-
-CYTQ;23;GA NDB23;CYTQ;CYTQ;5;
-YTQ;YTQ;<br>;
-YTQ;YTQ;@2300;
-//// END NDB23 ////
 
 //// RNV05 ////
 CYTQ;05;RNV05;CYTQ;CYTQ;3;

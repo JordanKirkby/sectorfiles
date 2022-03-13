@@ -1,5 +1,5 @@
 // KCNH STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 6/3/2022 by Wes Sleeman (XA)
 
 // KCNH Approaches
 
@@ -8,7 +8,7 @@
 KCNH;11;NDBA11;KCNH;KCNH;3;
 EVBAC;EVBAC;<br>;
 EVBAC;EVBAC;@2040;
-CNH;CNH;@1600;
+CNH;CNH;@2040;
 CON;CON;<br>;
 CNH;CNH;^5000 @210K @210K @210K;
 EVBAC;EVBAC;
@@ -21,7 +21,7 @@ CNH;CNH;<br>;
 KCNH;29;NDBA29;KCNH;KCNH;3;
 EVBAC;EVBAC;<br>;
 EVBAC;EVBAC;@2040;
-CNH;CNH;@1600;
+CNH;CNH;@2040;
 CON;CON;<br>;
 CNH;CNH;^5000 @210K @210K @210K;
 EVBAC;EVBAC;

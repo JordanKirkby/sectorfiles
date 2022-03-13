@@ -1,5 +1,5 @@
 // KMBL STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 6/3/2022 by Wes Sleeman (XA)
 
 // KMBL Approaches
 
@@ -8,19 +8,11 @@
 KMBL;28;ILS28;KMBL;KMBL;3;
 JANUP;JANUP;<br>;
 JANUP;JANUP;^2800;
-MB;MB;@1934;
-CEMOB;CEMOB;<br>;
-CEMOB;CEMOB;
-FARUB;FARUB;
-FOXEX;FOXEX;
-FARUB;FARUB;^2800 
-MBL;MBL;
-MB;MB;^2500;
-JANUP;JANUP;
+JEPOT;JEPOT;@1921;
 
 KMBL;28;GA ILS28;KMBL;KMBL;5;
-MBL;MBL;<br>;
-MBL;MBL;^2500;
+JEPOT;JEPOT;<br>;
+JEPOT;JEPOT;^2500;
 //// END ILS28 ////
 
 //// RNV10 ////

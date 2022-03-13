@@ -1,5 +1,5 @@
 // KSAT STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 6/3/2022 by Wes Sleeman (XA)
 
 // KSAT Approaches
 
@@ -42,14 +42,14 @@ EMBOW;EMBOW;^3100;
 KSAT;31L;ILS31L;KSAT;KSAT;3;
 ROTTS;ROTTS;<br>;
 ROTTS;ROTTS;^3100;
-WAKKS;WAKKS;@2566;
+ROWAK;ROWAK;@2600;
 SAT;SAT;<br>;
 ROTTS;ROTTS;^3100;
 ROTTS;ROTTS;
 
 KSAT;31L;GA ILS31L;KSAT;KSAT;5;
 AN;AN;<br>;
-AN;AN;^3000;
+AN;AN;^3200;
 //// END ILS31L ////
 
 //// RNVY04 ////

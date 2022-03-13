@@ -1,25 +1,8 @@
 // KUVA STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 6/3/2022 by Wes Sleeman (XA)
 
 // KUVA Approaches
 
-
-//// NDB33 ////
-KUVA;33;NDB33;KUVA;KUVA;3;
-UVA;UVA;<br>;
-UVA;UVA;@1600;
-COT;COT;<br>;
-UVA;UVA;^4500 @210K @210K @210K 
-RSG;RSG;
-UVA;UVA;^4500 @210K @210K @210K 
-SAT;SAT;
-UVA;UVA;^4500 @210K @210K @210K;
-UVA;UVA;
-
-KUVA;33;GA NDB33;KUVA;KUVA;5;
-UVA;UVA;<br>;
-UVA;UVA;^2900;
-//// END NDB33 ////
 
 //// RNV33 ////
 KUVA;33;RNV33;KUVA;KUVA;3;

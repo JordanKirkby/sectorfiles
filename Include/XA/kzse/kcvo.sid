@@ -1,22 +1,9 @@
 // KCVO SIDs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 6/3/2022 by Wes Sleeman (XA)
 
 
-//// CVO2 ////
-KCVO;10:17:28:35;CVO2;KCVO;KCVO;
-CVO;CVO;<br>;
-CVO;CVO;^4000;
-CVO;CVO;<br>;
-CVO;CVO;^4000;
-CVO;CVO;<br>;
-CVO;CVO;^4000;
-CVO;CVO;<br>;
-CVO;CVO;^4000;
-
-//// END CVO2 ////
-
-//// SHEDD3 ////
-KCVO;10:17:28:35;SHEDD3;KCVO;KCVO;
+//// SHEDD4 ////
+KCVO;10:17:28:35;SHEDD4;KCVO;KCVO;
 SHEDD;SHEDD;<br>;
 SHEDD;SHEDD;^3000;
 SHEDD;SHEDD;<br>;
@@ -26,4 +13,4 @@ SHEDD;SHEDD;^3000;
 SHEDD;SHEDD;<br>;
 SHEDD;SHEDD;^3000;
 
-//// END SHEDD3 ////
+//// END SHEDD4 ////

@@ -1,5 +1,5 @@
 // KTIP STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 6/3/2022 by Wes Sleeman (XA)
 
 // KTIP Approaches
 
@@ -55,10 +55,13 @@ ALADE;ALADE;^3000;
 
 //// VOR27 ////
 KTIP;27;VOR27;KTIP;KTIP;3;
-DNV;DNV;<br>;
-DNV;DNV;^2500;
+TOONS;TOONS;<br>;
+TOONS;TOONS;^2500;
 CHANU;CHANU;@2500;
-DNV;DNV;
+JOPMU;JOPMU;^1340;
+TOONS;TOONS;
+DNV;DNV;<br>;
+TOONS;TOONS;
 
 KTIP;27;GA VOR27;KTIP;KTIP;5;
 CHANU;CHANU;<br>;

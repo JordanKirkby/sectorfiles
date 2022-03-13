@@ -1,5 +1,5 @@
 // KMSN STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 6/3/2022 by Wes Sleeman (XA)
 
 // KMSN Approaches
 
@@ -27,8 +27,6 @@ DIVCE;DIVCE;<br>;
 DIVCE;DIVCE;^3400;
 HOBIG;HOBIG;@2600;
 DLL;DLL;<br>;
-DLL;DLL;^3400;
-DLL;DLL;
 DIVCE;DIVCE;
 MSN;MSN;<br>;
 HOBIG;HOBIG;^2800 @210K @210K @210K;

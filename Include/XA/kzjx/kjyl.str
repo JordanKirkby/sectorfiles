@@ -1,26 +1,8 @@
 // KJYL STARs
-// Auto-generated 28/11/2021 by Wes Sleeman (XA)
+// Auto-generated 6/3/2022 by Wes Sleeman (XA)
 
 // KJYL Approaches
 
-
-//// NDB23 ////
-KJYL;23;NDB23;KJYL;KJYL;3;
-FF23;FF23;<br>;
-FF23;FF23;@2000;
-LOTTS;LOTTS;<br>;
-JYL;JYL;^2500 @210K @210K @210K 
-MILEN;MILEN;
-JYL;JYL;^2500 @210K @210K @210K 
-SAV;SAV;
-JYL;JYL;^2000 @210K @210K @210K;
-FF23;FF23;
-
-KJYL;23;GA NDB23;KJYL;KJYL;5;
-JYL;JYL;<br>;
-JYL;JYL;^590;
-JYL;JYL;^2000;
-//// END NDB23 ////
 
 //// RNV05 ////
 KJYL;05;RNV05;KJYL;KJYL;3;
