@@ -32,6 +32,8 @@ F;airspace\app.artcc
 F;airspace\class c.artcc
 [GEO]
 F;geo\coast.geo
+F;cyvr_stoplines.geo
+F;cyvr_taxilines.geo
 
 //airports
 F;ad\cyvr.geo
