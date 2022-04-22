@@ -1,5 +1,5 @@
 // KSUX STARs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 // KSUX Approaches
 
@@ -20,8 +20,7 @@ TOMMI;TOMMI;^3100;
 KSUX;31;ILS31;KSUX;KSUX;3;
 EKUCE;EKUCE;<br>;
 EKUCE;EKUCE;^2900;
-SALIX;SALIX;@2877 @210K @210K @210K;
-EKUCE;EKUCE;
+SALIX;SALIX;@2900;
 
 KSUX;31;GA ILS31;KSUX;KSUX;5;
 TOMMI;TOMMI;<br>;

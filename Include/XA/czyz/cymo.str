@@ -1,5 +1,5 @@
 // CYMO STARs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 // CYMO Approaches
 
@@ -74,7 +74,7 @@ YMO;YMO;@1300;
 CYMO;32;VOR32;CYMO;CYMO;3;
 FF32;FF32;<br>;
 FF32;FF32;@1300;
-YMO;YMO;@54 @210K @210K @210K;
+YMO;YMO;@51 @210K @210K @210K;
 FF32;FF32;
 
 CYMO;32;GA VOR32;CYMO;CYMO;5;

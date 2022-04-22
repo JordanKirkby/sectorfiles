@@ -1,5 +1,5 @@
 // KPGV STARs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 // KPGV Approaches
 
@@ -12,8 +12,8 @@ AQE;AQE;@1262;
 KENIR;KENIR;
 
 KPGV;20;GA ILSY20;KPGV;KPGV;5;
-KENIR;KENIR;<br>;
-KENIR;KENIR;^2100;
+AQE;AQE;<br>;
+AQE;AQE;^1600;
 //// END ILSY20 ////
 
 //// ILSZ20 ////
@@ -28,8 +28,8 @@ AQE;AQE;^1600 @210K @210K @210K;
 KENIR;KENIR;
 
 KPGV;20;GA ILSZ20;KPGV;KPGV;5;
-KENIR;KENIR;<br>;
-KENIR;KENIR;^2100;
+AQE;AQE;<br>;
+AQE;AQE;^1600;
 //// END ILSZ20 ////
 
 //// RNV02 ////

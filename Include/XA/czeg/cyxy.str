@@ -1,5 +1,5 @@
 // CYXY STARs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 // CYXY Approaches
 
@@ -9,6 +9,9 @@ CYXY;32L;ILS32LY;CYXY;CYXY;3;
 VETVO;VETVO;<br>;
 VETVO;VETVO;^8100;
 UKTOV;UKTOV;@5570;
+RETEV;RETEV;<br>;
+PELBU;PELBU;^8300;
+VETVO;VETVO;
 TEXOT;TEXOT;<br>;
 TEXOT;TEXOT;@210K @210K @210K 
 YXY;YXY;

@@ -1,17 +1,17 @@
 // KOKM STARs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 // KOKM Approaches
 
 
 //// ILS18 ////
 KOKM;18;ILS18;KOKM;KOKM;3;
-CFNXR;CFNXR;<br>;
-CFNXR;CFNXR;^2400;
-PRESO;PRESO;@2318;
+CF18;CF18;<br>;
+CF18;CF18;^2400;
+JOSAF;JOSAF;@2400;
 OKM;OKM;<br>;
-PRESO;PRESO;^2500;
-CFNXR;CFNXR;
+JOSAF;JOSAF;^2400;
+CF18;CF18;
 
 KOKM;18;GA ILS18;KOKM;KOKM;5;
 OKM;OKM;<br>;

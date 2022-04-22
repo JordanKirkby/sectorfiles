@@ -1,18 +1,18 @@
 // CZML SIDs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 
-//// ALTAG2 ////
-CZML;15:33;ALTAG2;CZML;CZML;
+//// ALTAG3 ////
+CZML;15:33;ALTAG3;CZML;CZML;
 ALTAG;ALTAG;<br>;
 ALTAG;ALTAG;<br>;
 
-//// END ALTAG2 ////
+//// END ALTAG3 ////
 
-//// MIBTI2 ////
-CZML;15:33;MIBTI2;CZML;CZML;
+//// MIBTI3 ////
+CZML;15:33;MIBTI3;CZML;CZML;
 DEMDI;DEMDI;<br>;
 MIBTI;MIBTI;
 MIBTI;MIBTI;<br>;
 
-//// END MIBTI2 ////
+//// END MIBTI3 ////

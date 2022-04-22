@@ -1,5 +1,5 @@
 // KLGC STARs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 // KLGC Approaches
 
@@ -9,6 +9,9 @@ KLGC;31;ILS31;KLGC;KLGC;3;
 WAGUS;WAGUS;<br>;
 WAGUS;WAGUS;^3000;
 ARIVE;ARIVE;@2400;
+LGC;LGC;<br>;
+WIBUB;WIBUB;^3000;
+WAGUS;WAGUS;
 
 KLGC;31;GA ILS31;KLGC;KLGC;5;
 LGC;LGC;<br>;

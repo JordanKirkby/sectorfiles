@@ -1,5 +1,5 @@
 // KCLL STARs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 // KCLL Approaches
 
@@ -47,6 +47,8 @@ CLL;CLL;<br>;
 ROWDY;ROWDY;^2000 @210K @210K @210K 
 COUTH;COUTH;
 JERBA;JERBA;
+JERBA;JERBA;
+OSUME;OSUME;<br>;
 JERBA;JERBA;
 
 KCLL;35;GA ILS35;KCLL;KCLL;5;

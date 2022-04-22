@@ -1,5 +1,5 @@
 // KROA STARs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 // KROA Approaches
 
@@ -217,3 +217,19 @@ KROA;06;GA LDAY06;KROA;KROA;5;
 PARTE;PARTE;<br>;
 PARTE;PARTE;^5000;
 //// END LDAY06 ////
+
+//// LDAZ06 ////
+KROA;06;LDAZ06;KROA;KROA;3;
+EXUNE;EXUNE;<br>;
+EXUNE;EXUNE;^5300;
+RAMKE;RAMKE;@4300;
+ODR;ODR;<br>;
+EXUNE;EXUNE;^6200;
+EXUNE;EXUNE;
+PSK;PSK;<br>;
+EXUNE;EXUNE;
+
+KROA;06;GA LDAZ06;KROA;KROA;5;
+PARTE;PARTE;<br>;
+PARTE;PARTE;^5000;
+//// END LDAZ06 ////
