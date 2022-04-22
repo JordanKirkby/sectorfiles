@@ -1,5 +1,5 @@
 // CYYE STARs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 // CYYE Approaches
 
@@ -39,8 +39,8 @@ VERLA;VERLA;@3900;
 //// RNV22 ////
 CYYE;22;RNV22;CYYE;CYYE;3;
 KATAM;KATAM;<br>;
-KATAM;KATAM;^2900;
-MAXIP;MAXIP;@2900;
+KATAM;KATAM;^2600;
+MAXIP;MAXIP;@2600;
 AGLAR;AGLAR;<br>;
 AGLAR;AGLAR;@210K;
 KATAM;KATAM;

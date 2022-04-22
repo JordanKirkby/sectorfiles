@@ -1,12 +1,12 @@
 // KAIB SIDs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 
-//// NUCLA1 ////
-KAIB;05:23;NUCLA1;KAIB;KAIB;
-ZOXOX;ZOXOX;<br>;
-PAROX;PAROX;
-JEXOG;JEXOG;<br>;
-PAROX;PAROX;
+//// NUCLA2 ////
+KAIB;05:23;NUCLA2;KAIB;KAIB;
+PAROX;PAROX;<br>;
+PAROX;PAROX;^13300;
+PAROX;PAROX;<br>;
+PAROX;PAROX;^13300;
 
-//// END NUCLA1 ////
+//// END NUCLA2 ////

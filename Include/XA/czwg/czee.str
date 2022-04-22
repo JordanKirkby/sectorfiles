@@ -1,19 +1,8 @@
 // CZEE STARs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 // CZEE Approaches
 
-
-//// NDB30 ////
-CZEE;30;NDB30;CZEE;CZEE;3;
-FF30;FF30;<br>;
-FF30;FF30;@1900 @210K @210K @210K;
-FF30;FF30;
-
-CZEE;30;GA NDB30;CZEE;CZEE;5;
-4W;4W;<br>;
-4W;4W;@2400;
-//// END NDB30 ////
 
 //// RNV12 ////
 CZEE;12;RNV12;CZEE;CZEE;3;

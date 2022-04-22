@@ -1,5 +1,5 @@
 // KNFG STARs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 // KNFG Approaches
 
@@ -33,8 +33,8 @@ WIPAM;WIPAM;^2500;
 //// RNV21 ////
 KNFG;21;RNV21;KNFG;KNFG;3;
 AECIA;AECIA;<br>;
-AECIA;AECIA;^5000;
-JEMIS;JEMIS;^3000;
+AECIA;AECIA;@5000;
+JEMIS;JEMIS;@3000;
 JEMOD;JEMOD;@2400;
 CARVI;CARVI;^1080;
 OCN;OCN;<br>;

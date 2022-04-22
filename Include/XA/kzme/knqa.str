@@ -1,5 +1,5 @@
 // KNQA STARs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 // KNQA Approaches
 
@@ -75,3 +75,17 @@ KNQA;22;GA RNV22;KNQA;KNQA;5;
 ZIVNY;ZIVNY;<br>;
 ZIVNY;ZIVNY;^2500;
 //// END RNV22 ////
+
+//// TAC22 ////
+KNQA;22;TAC22;KNQA;KNQA;3;
+MNFRD;MNFRD;<br>;
+MNFRD;MNFRD;@2000;
+SHENT;SHENT;^1020;
+MEM;MEM;<br>;
+MNFRD;MNFRD;^2400 @210K @210K @210K;
+MNFRD;MNFRD;
+
+KNQA;22;GA TAC22;KNQA;KNQA;5;
+MNFRD;MNFRD;<br>;
+MNFRD;MNFRD;^2000;
+//// END TAC22 ////

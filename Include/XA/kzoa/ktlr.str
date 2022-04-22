@@ -1,25 +1,8 @@
 // KTLR STARs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 // KTLR Approaches
 
-
-//// VDM13 ////
-KTLR;13;VDM13;KTLR;KTLR;3;
-VIS;VIS;<br>;
-VIS;VIS;^2000;
-IPZEH;IPZEH;@1900;
-ALTTA;ALTTA;<br>;
-ZABED;ZABED;^3000;
-VIS;VIS;
-LATON;LATON;<br>;
-VIS;VIS;
-VIS;VIS;
-
-KTLR;13;GA VDM13;KTLR;KTLR;5;
-VIS;VIS;<br>;
-VIS;VIS;^2000;
-//// END VDM13 ////
 
 //// RNV13 ////
 KTLR;13;RNV13;KTLR;KTLR;3;

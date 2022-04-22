@@ -1,5 +1,5 @@
 // KCHA STARs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 // KCHA Approaches
 
@@ -10,7 +10,8 @@ QUIDS;QUIDS;<br>;
 QUIDS;QUIDS;^3900;
 MORRT;MORRT;@2227;
 CQN;CQN;<br>;
-MORRT;MORRT;^3900 @210K @210K @210K;
+MORRT;MORRT;^3900 @210K @210K @210K 
+ZIROB;ZIROB;
 QUIDS;QUIDS;
 
 KCHA;02;GA ILS02;KCHA;KCHA;5;

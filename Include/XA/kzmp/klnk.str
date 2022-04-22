@@ -1,5 +1,5 @@
 // KLNK STARs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 // KLNK Approaches
 
@@ -197,7 +197,7 @@ LNK;LNK;
 
 KLNK;17;GA VOR17;KLNK;KLNK;5;
 LNK;LNK;<br>;
-LNK;LNK;^3000;
+LNK;LNK;^3100;
 //// END VOR17 ////
 
 //// VORY18 ////
@@ -211,7 +211,7 @@ LNK;LNK;
 
 KLNK;18;GA VORY18;KLNK;KLNK;5;
 LNK;LNK;<br>;
-LNK;LNK;^3000;
+LNK;LNK;^3100;
 //// END VORY18 ////
 
 //// TAC18 ////

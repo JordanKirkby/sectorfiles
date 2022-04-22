@@ -1,5 +1,5 @@
 // CYLW STARs
-// Auto-generated 6/3/2022 by Wes Sleeman (XA)
+// Auto-generated 22/4/2022 by Wes Sleeman (XA)
 
 // CYLW Approaches
 
@@ -87,7 +87,6 @@ YDC;YDC;@9000;
 CYLW;16;NDBB16;CYLW;CYLW;3;
 LW;LW;<br>;
 LW;LW;@4500 @210K @210K @210K;
-LIVNA;LIVNA;<br>;
 LW;LW;
 
 CYLW;16;GA NDBB16;CYLW;CYLW;5;
@@ -99,7 +98,6 @@ YWB;YWB;@7400;
 CYLW;34;NDBB34;CYLW;CYLW;3;
 LW;LW;<br>;
 LW;LW;@4500 @210K @210K @210K;
-LIVNA;LIVNA;<br>;
 LW;LW;
 
 CYLW;34;GA NDBB34;CYLW;CYLW;5;
