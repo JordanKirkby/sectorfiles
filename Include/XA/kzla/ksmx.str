@@ -1,5 +1,5 @@
 // KSMX STARs
-// Auto-generated 22/4/2022 by Wes Sleeman (XA)
+// Auto-generated 9/5/2022 by Wes Sleeman (XA)
 
 // KSMX Approaches
 
@@ -134,22 +134,3 @@ KSMX;12;GA VOR12;KSMX;KSMX;5;
 MQO;MQO;<br>;
 MQO;MQO;^5000;
 //// END VOR12 ////
-
-//// CMA -> SMX (VTUP34) ////
-KSMX;02:20:12:30;KCMA.VTUP34;KSMX;KSMX;2;
-KCMA;KCMA;<br>;
-RZS;RZS;<br>;
-RZS;RZS;JMPQ80;
-KOAKS;KOAKS;JMPQ80;
-KSMX;KSMX;
-//// END VTUP34 (CMA -> SMX) ////
-
-
-//// OXR -> SMX (VTUP34) ////
-KSMX;02:20:12:30;KOXR.VTUP34;KSMX;KSMX;2;
-KOXR;KOXR;<br>;
-RZS;RZS;<br>;
-RZS;RZS;JMPQ80;
-KOAKS;KOAKS;JMPQ80;
-KSMX;KSMX;
-//// END VTUP34 (OXR -> SMX) ////
