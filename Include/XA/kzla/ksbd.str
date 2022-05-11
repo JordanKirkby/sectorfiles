@@ -1,5 +1,5 @@
 // KSBD STARs
-// Auto-generated 22/4/2022 by Wes Sleeman (XA)
+// Auto-generated 9/5/2022 by Wes Sleeman (XA)
 
 // KSBD Approaches
 
@@ -407,8 +407,7 @@ KSBD;KSBD;
 //// LAX -> SBD (LAXP36) ////
 KSBD;06:24;KLAX.LAXP36;KSBD;KSBD;2;
 KLAX;KLAX;<br>;
-SLI8;SLI8;<br>;
-SLI;SLI;M50;
+SLI;SLI;<br>;
 AHEIM;AHEIM;M50;
 OLLIE;OLLIE;M50;
 POXKU;POXKU;M50;
@@ -421,8 +420,7 @@ KSBD;KSBD;
 //// LAX -> SBD (LAXP57) ////
 KSBD;06:24;KLAX.LAXP57;KSBD;KSBD;2;
 KLAX;KLAX;<br>;
-SLI8;SLI8;<br>;
-SLI;SLI;PQ50;
+SLI;SLI;<br>;
 AHEIM;AHEIM;PQ50;
 OLLIE;OLLIE;PQ50;
 POXKU;POXKU;PQ50;

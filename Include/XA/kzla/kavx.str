@@ -1,5 +1,5 @@
 // KAVX STARs
-// Auto-generated 22/4/2022 by Wes Sleeman (XA)
+// Auto-generated 9/5/2022 by Wes Sleeman (XA)
 
 // KAVX Approaches
 
@@ -288,8 +288,7 @@ KAVX;KAVX;
 //// LAX -> AVX (LAXP33) ////
 KAVX;04:22;KLAX.LAXP33;KAVX;KAVX;2;
 KLAX;KLAX;<br>;
-SLI8;SLI8;<br>;
-SLI;SLI;M50;
+SLI;SLI;<br>;
 SXC;SXC;M50;
 KAVX;KAVX;
 //// END LAXP33 (LAX -> AVX) ////
@@ -298,8 +297,7 @@ KAVX;KAVX;
 //// LAX -> AVX (LAXP54) ////
 KAVX;04:22;KLAX.LAXP54;KAVX;KAVX;2;
 KLAX;KLAX;<br>;
-SLI8;SLI8;<br>;
-SLI;SLI;PQ40;
+SLI;SLI;<br>;
 SXC;SXC;PQ40;
 KAVX;KAVX;
 //// END LAXP54 (LAX -> AVX) ////

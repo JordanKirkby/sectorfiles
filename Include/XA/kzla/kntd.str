@@ -1,5 +1,5 @@
 // KNTD STARs
-// Auto-generated 22/4/2022 by Wes Sleeman (XA)
+// Auto-generated 9/5/2022 by Wes Sleeman (XA)
 
 // KNTD Approaches
 
@@ -741,8 +741,7 @@ KNTD;KNTD;
 //// LAX -> NTD (LAXP14) ////
 KNTD;03:21:09:27;KLAX.LAXP14;KNTD;KNTD;2;
 KLAX;KLAX;<br>;
-VTU8;VTU8;<br>;
-VTU;VTU;J60;
+VTU;VTU;<br>;
 KNTD;KNTD;
 //// END LAXP14 (LAX -> NTD) ////
 
@@ -750,8 +749,7 @@ KNTD;KNTD;
 //// LAX -> NTD (LAXP29) ////
 KNTD;03:21:09:27;KLAX.LAXP29;KNTD;KNTD;2;
 KLAX;KLAX;<br>;
-VTU8;VTU8;<br>;
-VTU;VTU;J60;
+VTU;VTU;<br>;
 KNTD;KNTD;
 //// END LAXP29 (LAX -> NTD) ////
 
@@ -759,8 +757,7 @@ KNTD;KNTD;
 //// LAX -> NTD (LAXP48) ////
 KNTD;03:21:09:27;KLAX.LAXP48;KNTD;KNTD;2;
 KLAX;KLAX;<br>;
-VTU8;VTU8;<br>;
-VTU;VTU;M60;
+VTU;VTU;<br>;
 KNTD;KNTD;
 //// END LAXP48 (LAX -> NTD) ////
 

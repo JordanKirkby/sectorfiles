@@ -1,5 +1,5 @@
 // KCCB STARs
-// Auto-generated 22/4/2022 by Wes Sleeman (XA)
+// Auto-generated 9/5/2022 by Wes Sleeman (XA)
 
 // KCCB Approaches
 
@@ -208,8 +208,7 @@ KCCB;KCCB;
 //// LAX -> CCB (LAXP35) ////
 KCCB;06:24;KLAX.LAXP35;KCCB;KCCB;2;
 KLAX;KLAX;<br>;
-SLI8;SLI8;<br>;
-SLI;SLI;M50;
+SLI;SLI;<br>;
 AHEIM;AHEIM;M50;
 OLLIE;OLLIE;M50;
 POXKU;POXKU;M50;
@@ -239,8 +238,7 @@ KCCB;KCCB;
 //// LAX -> CCB (LAXP56) ////
 KCCB;06:24;KLAX.LAXP56;KCCB;KCCB;2;
 KLAX;KLAX;<br>;
-SLI8;SLI8;<br>;
-SLI;SLI;PQ50;
+SLI;SLI;<br>;
 AHEIM;AHEIM;PQ50;
 OLLIE;OLLIE;PQ50;
 POXKU;POXKU;PQ50;

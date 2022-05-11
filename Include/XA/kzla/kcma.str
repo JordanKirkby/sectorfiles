@@ -1,5 +1,5 @@
 // KCMA STARs
-// Auto-generated 22/4/2022 by Wes Sleeman (XA)
+// Auto-generated 9/5/2022 by Wes Sleeman (XA)
 
 // KCMA Approaches
 
@@ -600,8 +600,7 @@ KCMA;KCMA;
 //// LAX -> CMA (LAXP14) ////
 KCMA;08:26;KLAX.LAXP14;KCMA;KCMA;2;
 KLAX;KLAX;<br>;
-VTU8;VTU8;<br>;
-VTU;VTU;J60;
+VTU;VTU;<br>;
 KCMA;KCMA;
 //// END LAXP14 (LAX -> CMA) ////
 
@@ -609,8 +608,7 @@ KCMA;KCMA;
 //// LAX -> CMA (LAXP29) ////
 KCMA;08:26;KLAX.LAXP29;KCMA;KCMA;2;
 KLAX;KLAX;<br>;
-VTU8;VTU8;<br>;
-VTU;VTU;J60;
+VTU;VTU;<br>;
 KCMA;KCMA;
 //// END LAXP29 (LAX -> CMA) ////
 
@@ -618,8 +616,7 @@ KCMA;KCMA;
 //// LAX -> CMA (LAXP48) ////
 KCMA;08:26;KLAX.LAXP48;KCMA;KCMA;2;
 KLAX;KLAX;<br>;
-VTU8;VTU8;<br>;
-VTU;VTU;M60;
+VTU;VTU;<br>;
 KCMA;KCMA;
 //// END LAXP48 (LAX -> CMA) ////
 

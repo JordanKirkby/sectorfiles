@@ -1,5 +1,5 @@
 // KEMT STARs
-// Auto-generated 22/4/2022 by Wes Sleeman (XA)
+// Auto-generated 9/5/2022 by Wes Sleeman (XA)
 
 // KEMT Approaches
 
@@ -458,8 +458,7 @@ KEMT;KEMT;
 //// LAX -> EMT (LAXP35) ////
 KEMT;01:19;KLAX.LAXP35;KEMT;KEMT;2;
 KLAX;KLAX;<br>;
-SLI8;SLI8;<br>;
-SLI;SLI;M50;
+SLI;SLI;<br>;
 AHEIM;AHEIM;M50;
 OLLIE;OLLIE;M50;
 POXKU;POXKU;M50;
@@ -489,8 +488,7 @@ KEMT;KEMT;
 //// LAX -> EMT (LAXP56) ////
 KEMT;01:19;KLAX.LAXP56;KEMT;KEMT;2;
 KLAX;KLAX;<br>;
-SLI8;SLI8;<br>;
-SLI;SLI;PQ50;
+SLI;SLI;<br>;
 AHEIM;AHEIM;PQ50;
 OLLIE;OLLIE;PQ50;
 POXKU;POXKU;PQ50;

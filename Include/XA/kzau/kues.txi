@@ -1,4 +1,4 @@
-Stein&apos;s Aircraft Services;KUES;N043.02.23.795;W088.14.31.195;
+Steins Aircraft Services;KUES;N043.02.23.795;W088.14.31.195;
 Atlantic Aviation;KUES;N043.02.20.893;W088.14.21.061;
 Terminal;KUES;N043.02.20.112;W088.14.15.906;
 Tower;KUES;N043.02.16.585;W088.13.53.027;

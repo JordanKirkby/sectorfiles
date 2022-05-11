@@ -1,5 +1,5 @@
 // KOXR STARs
-// Auto-generated 22/4/2022 by Wes Sleeman (XA)
+// Auto-generated 9/5/2022 by Wes Sleeman (XA)
 
 // KOXR Approaches
 
@@ -607,8 +607,7 @@ KOXR;KOXR;
 //// LAX -> OXR (LAXP14) ////
 KOXR;07:25;KLAX.LAXP14;KOXR;KOXR;2;
 KLAX;KLAX;<br>;
-VTU8;VTU8;<br>;
-VTU;VTU;J60;
+VTU;VTU;<br>;
 KOXR;KOXR;
 //// END LAXP14 (LAX -> OXR) ////
 
@@ -616,8 +615,7 @@ KOXR;KOXR;
 //// LAX -> OXR (LAXP29) ////
 KOXR;07:25;KLAX.LAXP29;KOXR;KOXR;2;
 KLAX;KLAX;<br>;
-VTU8;VTU8;<br>;
-VTU;VTU;J60;
+VTU;VTU;<br>;
 KOXR;KOXR;
 //// END LAXP29 (LAX -> OXR) ////
 
@@ -625,8 +623,7 @@ KOXR;KOXR;
 //// LAX -> OXR (LAXP48) ////
 KOXR;07:25;KLAX.LAXP48;KOXR;KOXR;2;
 KLAX;KLAX;<br>;
-VTU8;VTU8;<br>;
-VTU;VTU;M60;
+VTU;VTU;<br>;
 KOXR;KOXR;
 //// END LAXP48 (LAX -> OXR) ////
 
