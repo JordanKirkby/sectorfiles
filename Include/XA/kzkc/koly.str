@@ -1,5 +1,5 @@
 // KOLY STARs
-// Auto-generated 9/5/2022 by Wes Sleeman (XA)
+// Auto-generated 20/5/2022 by Wes Sleeman (XA)
 
 // KOLY Approaches
 
@@ -7,16 +7,12 @@
 //// LOC11 ////
 KOLY;11;LOC11;KOLY;KOLY;3;
 ALAKE;ALAKE;<br>;
-ALAKE;ALAKE;^2000;
+ALAKE;ALAKE;^2100;
 LYMON;LYMON;@2000;
+ALAKE;ALAKE;
 BIB;BIB;<br>;
 ALAKE;ALAKE;
 ENL;ENL;<br>;
-ENL;ENL;^2600;
-ENL;ENL;
-ALAKE;ALAKE;
-SAM;SAM;<br>;
-ALAKE;ALAKE;^2000;
 ALAKE;ALAKE;
 
 KOLY;11;GA LOC11;KOLY;KOLY;5;

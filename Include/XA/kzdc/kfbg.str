@@ -1,25 +1,8 @@
 // KFBG STARs
-// Auto-generated 9/5/2022 by Wes Sleeman (XA)
+// Auto-generated 20/5/2022 by Wes Sleeman (XA)
 
 // KFBG Approaches
 
-
-//// NDB27 ////
-KFBG;27;NDB27;KFBG;KFBG;3;
-FGP;FGP;<br>;
-FGP;FGP;@2000;
-DENIL;DENIL;<br>;
-FGP;FGP;^2000 @210K @210K @210K 
-FAY;FAY;
-FGP;FGP;^2000 @210K @210K @210K 
-ROZBO;ROZBO;
-FGP;FGP;^2000 @210K @210K @210K;
-FGP;FGP;
-
-KFBG;27;GA NDB27;KFBG;KFBG;5;
-FGP;FGP;<br>;
-FGP;FGP;^2100;
-//// END NDB27 ////
 
 //// RNV27 ////
 KFBG;27;RNV27;KFBG;KFBG;3;

@@ -1,19 +1,19 @@
 // KBTL STARs
-// Auto-generated 9/5/2022 by Wes Sleeman (XA)
+// Auto-generated 20/5/2022 by Wes Sleeman (XA)
 
 // KBTL Approaches
 
 
 //// ILS23R ////
 KBTL;23R;ILS23R;KBTL;KBTL;3;
-CFVNZ;CFVNZ;<br>;
-CFVNZ;CFVNZ;^2600;
+TEEDO;TEEDO;<br>;
+TEEDO;TEEDO;^2600;
 BATOL;BATOL;@2172 @210K @210K @210K;
-CFVNZ;CFVNZ;
+TEEDO;TEEDO;
 
 KBTL;23R;GA ILS23R;KBTL;KBTL;5;
-LEROY;LEROY;<br>;
-LEROY;LEROY;^3000;
+VVTEN;VVTEN;<br>;
+VVTEN;VVTEN;^3000;
 //// END ILS23R ////
 
 //// RNV05L ////
