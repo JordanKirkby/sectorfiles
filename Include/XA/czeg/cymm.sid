@@ -1,15 +1,17 @@
 // CYMM SIDs
-// Auto-generated 9/5/2022 by Wes Sleeman (XA)
+// Auto-generated 20/5/2022 by Wes Sleeman (XA)
 
 
-//// CACHO2 ////
-CYMM;08:26;CACHO2;CYMM;CYMM;
+
+
+//// TEXAL1 ////
+CYMM;08;TEXAL1;CYMM;CYMM;
 TEXAL;TEXAL;<br>;
-SEDUN;SEDUN;
-ONGUT;ONGUT;
-CACHO;CACHO;
+
+//// END TEXAL1 ////
+
+//// VIKTU1 ////
+CYMM;26;VIKTU1;CYMM;CYMM;
 VIKTU;VIKTU;<br>;
-CACHO;CACHO;
 
-//// END CACHO2 ////
-
+//// END VIKTU1 ////

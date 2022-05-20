@@ -1,5 +1,5 @@
 // KGGP STARs
-// Auto-generated 9/5/2022 by Wes Sleeman (XA)
+// Auto-generated 20/5/2022 by Wes Sleeman (XA)
 
 // KGGP Approaches
 
@@ -36,25 +36,3 @@ KGGP;27;GA RNV27;KGGP;KGGP;5;
 DATEC;DATEC;<br>;
 DATEC;DATEC;^2500;
 //// END RNV27 ////
-
-//// VORA09 ////
-KGGP;09;VORA09;KGGP;KGGP;3;
-OKK;OKK;<br>;
-OKK;OKK;^3000;
-TONAL;TONAL;@3000;
-OKK;OKK;
-
-KGGP;09;GA VORA09;KGGP;KGGP;5;
-OKK;OKK;<br>;
-//// END VORA09 ////
-
-//// VORA27 ////
-KGGP;27;VORA27;KGGP;KGGP;3;
-OKK;OKK;<br>;
-OKK;OKK;^3000;
-TONAL;TONAL;@3000;
-OKK;OKK;
-
-KGGP;27;GA VORA27;KGGP;KGGP;5;
-OKK;OKK;<br>;
-//// END VORA27 ////

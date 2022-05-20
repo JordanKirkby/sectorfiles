@@ -1,5 +1,5 @@
 // CYCA STARs
-// Auto-generated 9/5/2022 by Wes Sleeman (XA)
+// Auto-generated 20/5/2022 by Wes Sleeman (XA)
 
 // CYCA Approaches
 
@@ -7,7 +7,8 @@
 //// NDBA08 ////
 CYCA;08;NDBA08;CYCA;CYCA;3;
 CA;CA;<br>;
-CA;CA;@1300;
+CA;CA;@1300 @210K @210K @210K;
+CA;CA;
 
 CYCA;08;GA NDBA08;CYCA;CYCA;5;
 CA;CA;<br>;
@@ -17,7 +18,8 @@ CA;CA;@3600;
 //// NDBA26 ////
 CYCA;26;NDBA26;CYCA;CYCA;3;
 CA;CA;<br>;
-CA;CA;@1300;
+CA;CA;@1300 @210K @210K @210K;
+CA;CA;
 
 CYCA;26;GA NDBA26;CYCA;CYCA;5;
 CA;CA;<br>;

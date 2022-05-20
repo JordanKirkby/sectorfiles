@@ -1,8 +1,26 @@
 // KGEG STARs
-// Auto-generated 9/5/2022 by Wes Sleeman (XA)
+// Auto-generated 20/5/2022 by Wes Sleeman (XA)
 
 // KGEG Approaches
 
+
+//// VDM21 ////
+KGEG;21;VDM21;KGEG;KGEG;3;
+BIING;BIING;<br>;
+BIING;BIING;^5800;
+ANASN;ANASN;@3900;
+DAZIE;DAZIE;<br>;
+BIING;BIING;
+GEG;GEG;<br>;
+BIING;BIING;^5800;
+BIING;BIING;
+PYPER;PYPER;<br>;
+BIING;BIING;
+
+KGEG;21;GA VDM21;KGEG;KGEG;5;
+GEG;GEG;<br>;
+GEG;GEG;^4200;
+//// END VDM21 ////
 
 //// ILS03 ////
 KGEG;03;ILS03;KGEG;KGEG;3;
