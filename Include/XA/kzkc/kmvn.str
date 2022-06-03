@@ -1,5 +1,5 @@
 // KMVN STARs
-// Auto-generated 9/5/2022 by Wes Sleeman (XA)
+// Auto-generated 20/5/2022 by Wes Sleeman (XA)
 
 // KMVN Approaches
 
@@ -12,8 +12,7 @@ FAMTA;FAMTA;@2400;
 BIB;BIB;<br>;
 OFEND;OFEND;
 ENL;ENL;<br>;
-FAMTA;FAMTA;^2400 @210K @210K @210K 
-SAM;SAM;
+FAMTA;FAMTA;^2400 @210K @210K @210K;
 OFEND;OFEND;
 
 KMVN;23;GA ILS23;KMVN;KMVN;5;

@@ -1,5 +1,5 @@
 // KLAF STARs
-// Auto-generated 9/5/2022 by Wes Sleeman (XA)
+// Auto-generated 20/5/2022 by Wes Sleeman (XA)
 
 // KLAF Approaches
 
@@ -11,8 +11,6 @@ CF10;CF10;^2300;
 EARLE;EARLE;@2165;
 BVT;BVT;<br>;
 LA;LA;^2300 @210K @210K @210K 
-OKK;OKK;
-LA;LA;^2600 @210K @210K @210K 
 POTES;POTES;
 LA;LA;^2300 @210K @210K @210K 
 VAGES;VAGES;
@@ -20,7 +18,7 @@ CF10;CF10;
 
 KLAF;10;GA ILS10;KLAF;KLAF;5;
 BVT;BVT;<br>;
-BVT;BVT;^2300;
+BVT;BVT;^2400;
 //// END ILS10 ////
 
 //// RNV10 ////

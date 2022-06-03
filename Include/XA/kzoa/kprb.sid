@@ -1,5 +1,5 @@
 // KPRB SIDs
-// Auto-generated 9/5/2022 by Wes Sleeman (XA)
+// Auto-generated 20/5/2022 by Wes Sleeman (XA)
 
 
 //// BRALY1 ////
@@ -17,8 +17,8 @@ BRALY;BRALY;
 
 //// END BRALY1 ////
 
-//// JEDGI1 ////
-KPRB;01:13:19:31;JEDGI1;KPRB;KPRB;
+//// JEDGI2 ////
+KPRB;01:13:19:31;JEDGI2;KPRB;KPRB;
 PRB;PRB;<br>;
 PRB;PRB;
 JEDGI;JEDGI;
@@ -30,10 +30,10 @@ PRB;PRB;<br>;
 PRB;PRB;
 JEDGI;JEDGI;
 
-//// END JEDGI1 ////
+//// END JEDGI2 ////
 
-//// PRB1 ////
-KPRB;01:13:19:31;PRB1;KPRB;KPRB;
+//// PRB2 ////
+KPRB;01:13:19:31;PRB2;KPRB;KPRB;
 PRB;PRB;<br>;
 PRB;PRB;
 PRB;PRB;<br>;
@@ -43,4 +43,4 @@ PRB;PRB;
 PRB;PRB;<br>;
 PRB;PRB;
 
-//// END PRB1 ////
+//// END PRB2 ////

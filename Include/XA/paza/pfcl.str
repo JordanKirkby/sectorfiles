@@ -1,5 +1,5 @@
 // PFCL STARs
-// Auto-generated 9/5/2022 by Wes Sleeman (XA)
+// Auto-generated 20/5/2022 by Wes Sleeman (XA)
 
 // PFCL Approaches
 
@@ -29,10 +29,8 @@ HEGPI;HEGPI;^2900;
 GACCU;GACCU;@2000;
 HEGPI;HEGPI;
 IKULE;IKULE;<br>;
-IKULE;IKULE;^2900;
 HEGPI;HEGPI;
 JEGVO;JEGVO;<br>;
-JEGVO;JEGVO;^5000;
 HEGPI;HEGPI;
 
 PFCL;36;GA RNV36;PFCL;PFCL;5;

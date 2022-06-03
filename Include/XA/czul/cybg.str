@@ -1,8 +1,20 @@
 // CYBG STARs
-// Auto-generated 9/5/2022 by Wes Sleeman (XA)
+// Auto-generated 20/5/2022 by Wes Sleeman (XA)
 
 // CYBG Approaches
 
+
+//// ILSV11 ////
+CYBG;11;ILSV11;CYBG;CYBG;3;
+CF11;CF11;<br>;
+CF11;CF11;^2900;
+YBG;YBG;@2220 @210K @210K @210K;
+CF11;CF11;
+
+CYBG;11;GA ILSV11;CYBG;CYBG;5;
+YBG;YBG;<br>;
+YBG;YBG;@3200;
+//// END ILSV11 ////
 
 //// ILSW11 ////
 CYBG;11;ILSW11;CYBG;CYBG;3;

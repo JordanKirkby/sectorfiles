@@ -1,12 +1,12 @@
 // CYNR SIDs
-// Auto-generated 9/5/2022 by Wes Sleeman (XA)
+// Auto-generated 20/5/2022 by Wes Sleeman (XA)
 
 
 //// TAGIT3 ////
 CYNR;17:35;TAGIT3;CYNR;CYNR;
 OBNAV;OBNAV;<br>;
-TAGIT;TAGIT;^5000;
+TAGIT;TAGIT;@5000 @210K;
 TAGIT;TAGIT;<br>;
-TAGIT;TAGIT;^5000;
+TAGIT;TAGIT;@5000 @210K;
 
 //// END TAGIT3 ////

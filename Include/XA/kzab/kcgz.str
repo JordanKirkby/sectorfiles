@@ -1,5 +1,5 @@
 // KCGZ STARs
-// Auto-generated 9/5/2022 by Wes Sleeman (XA)
+// Auto-generated 20/5/2022 by Wes Sleeman (XA)
 
 // KCGZ Approaches
 
@@ -34,7 +34,7 @@ WENOR;WENOR;<br>;
 WENOR;WENOR;^5000;
 JOPAV;JOPAV;@3800;
 PROAS;PROAS;^2640;
-UYABU;UYABU;@1671;
+UYABU;UYABU;@1669;
 TFD;TFD;<br>;
 WENOR;WENOR;^5000;
 WENOR;WENOR;
@@ -43,8 +43,8 @@ WENOR;WENOR;^5000;
 WENOR;WENOR;
 
 KCGZ;23;GA RNV23;KCGZ;KCGZ;5;
-POTER;POTER;<br>;
-POTER;POTER;^5000;
+TFD;TFD;<br>;
+TFD;TFD;^3500;
 //// END RNV23 ////
 
 //// VOR05 ////

@@ -1,5 +1,5 @@
 // KSNS SIDs
-// Auto-generated 9/5/2022 by Wes Sleeman (XA)
+// Auto-generated 20/5/2022 by Wes Sleeman (XA)
 
 
 //// CHLN3 ////
@@ -14,9 +14,11 @@ SARDO;SARDO;
 
 //// END CHLN3 ////
 
-//// SNS2 ////
-KSNS;08:13:26:31;SNS2;KSNS;KSNS;
+//// SNS3 ////
+KSNS;08:13:26:31;SNS3;KSNS;KSNS;
 SNS;SNS;<br>;
+SNS;SNS;@210K;
 SNS;SNS;<br>;
+SNS;SNS;@210K;
 
-//// END SNS2 ////
+//// END SNS3 ////

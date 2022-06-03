@@ -1,24 +1,8 @@
 // KLCH STARs
-// Auto-generated 9/5/2022 by Wes Sleeman (XA)
+// Auto-generated 20/5/2022 by Wes Sleeman (XA)
 
 // KLCH Approaches
 
-
-//// LBC33 ////
-KLCH;33;LBC33;KLCH;KLCH;3;
-CFCFN;CFCFN;<br>;
-CFCFN;CFCFN;^2000;
-BROWN;BROWN;@1900;
-ZEGUP;ZEGUP;^640;
-HAGPO;HAGPO;@297;
-LCH;LCH;<br>;
-BROWN;BROWN;^2000 @210K @210K @210K;
-CFCFN;CFCFN;
-
-KLCH;33;GA LBC33;KLCH;KLCH;5;
-LCH;LCH;<br>;
-LCH;LCH;^2000;
-//// END LBC33 ////
 
 //// VDMB05 ////
 KLCH;05;VDMB05;KLCH;KLCH;3;

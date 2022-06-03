@@ -1,5 +1,5 @@
 // KCRS STARs
-// Auto-generated 9/5/2022 by Wes Sleeman (XA)
+// Auto-generated 20/5/2022 by Wes Sleeman (XA)
 
 // KCRS Approaches
 
@@ -51,23 +51,6 @@ KCRS;32;GA VDMA32;KCRS;KCRS;5;
 YEEST;YEEST;<br>;
 YEEST;YEEST;^2000;
 //// END VDMA32 ////
-
-//// NDB32 ////
-KCRS;32;NDB32;KCRS;KCRS;3;
-FF32;FF32;<br>;
-FF32;FF32;@2200;
-ACT;ACT;<br>;
-CRS;CRS;^3000 @210K @210K @210K 
-CQY;CQY;
-CRS;CRS;^3000 @210K @210K @210K 
-KISER;KISER;
-CRS;CRS;^3000 @210K @210K @210K;
-FF32;FF32;
-
-KCRS;32;GA NDB32;KCRS;KCRS;5;
-CRS;CRS;<br>;
-CRS;CRS;^2200;
-//// END NDB32 ////
 
 //// RNV14 ////
 KCRS;14;RNV14;KCRS;KCRS;3;
