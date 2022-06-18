@@ -1,5 +1,5 @@
 // KMGE STARs
-// Auto-generated 20/5/2022 by Wes Sleeman (XA)
+// Auto-generated 18/6/2022 by Wes Sleeman (XA)
 
 // KMGE Approaches
 
@@ -80,7 +80,7 @@ ZODMO;ZODMO;^3100;
 HOBMO;HOBMO;@2700;
 ACUVI;ACUVI;@1234;
 CYLON;CYLON;<br>;
-CYLON;CYLON;@4000;
+CYLON;CYLON;^4000;
 FINOM;FINOM;
 
 KMGE;29;GA TAC29;KMGE;KMGE;5;
