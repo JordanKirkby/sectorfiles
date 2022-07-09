@@ -1,5 +1,5 @@
 // KIZA STARs
-// Auto-generated 20/5/2022 by Wes Sleeman (XA)
+// Auto-generated 21/6/2022 by Wes Sleeman (XA)
 
 // KIZA Approaches
 
@@ -56,22 +56,3 @@ KIZA;08;GA VOR08;KIZA;KIZA;5;
 ORCUT;ORCUT;<br>;
 ORCUT;ORCUT;^6000;
 //// END VOR08 ////
-
-//// CMA -> IZA (VTUP35) ////
-KIZA;08:26;KCMA.VTUP35;KIZA;KIZA;2;
-KCMA;KCMA;<br>;
-RZS;RZS;<br>;
-RZS;RZS;JMPQ60;
-CALLI;CALLI;JMPQ60;
-KIZA;KIZA;
-//// END VTUP35 (CMA -> IZA) ////
-
-
-//// OXR -> IZA (VTUP35) ////
-KIZA;08:26;KOXR.VTUP35;KIZA;KIZA;2;
-KOXR;KOXR;<br>;
-RZS;RZS;<br>;
-RZS;RZS;JMPQ60;
-CALLI;CALLI;JMPQ60;
-KIZA;KIZA;
-//// END VTUP35 (OXR -> IZA) ////
