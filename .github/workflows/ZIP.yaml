@@ -36,7 +36,7 @@ jobs:
             args: zip -qq -r KZAB.zip . -i Include/XA/kzab/* "KZAB Albuquerque ARTCC.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r KZAK.zip . -i Include/XA/kzak/* "KZAK _W_CTR.isc" "KZAK_CW_CTR.isc" "KZAK_E_CTR.isc" "KZAK_N_CTR.isc" "KZAK_NW_CTR.isc" "KZAK_S_CTR.isc"
+            args: zip -qq -r KZAK.zip . -i Include/XA/kzak/* "KZAK Oakland Oceanic FIR.isc"
         - uses: montudor/action-zip@v1
           with:
             args: zip -qq -r KZAU.zip . -i Include/XA/kzau/* "KZAU Chicago ARTCC.isc"
@@ -114,7 +114,7 @@ jobs:
             args: zip -qq -r KZWY.zip . -i "KZWY New York Oceanic FIR.isc"    
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r ALL_SECTORS.zip . -i *.zip
+            args: zip -qq ALL_SECTORS.zip . -i *.zip
         - run: ls -la
         - run: export title="Automatic Release $(date -u +%F_%H:%M:%S)"
         - uses: "marvinpinto/action-automatic-releases@latest"
