@@ -1,0 +1,35 @@
+// IVAO Aurora Sectorfile KZAK_CTR OCEANIC  AIRAC 2103
+[INFO]
+N020.58.53.073
+W155.15.45.095
+60
+58.7
+4
+XA\KZAK
+[ATIS]
+F;default.atis
+[ATC]
+F;atc.atc
+[Airport]
+F;airac\airports.ap
+[Runway]
+F;airac\runways.rw
+[FIXES]
+F;airac\fixes.fix
+[NDB]
+F;airac\ndb.ndb
+[VOR]
+F;airac\vor.VOR
+[HIGH AIRWAY]
+F;airac\awhigh.awh
+[LOW AIRWAY]
+F;airac\awlow.awl
+[ARTCC]
+F;airspace\kzak.artcc
+[ARTCC HIGH]
+F;airspace\cenrap.artcc
+[ARTCC LOW]
+[GEO]
+F;geo\coast.geo
+
+F;geo\warning.geo
