@@ -1,22 +1,8 @@
 // CYBX STARs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 // CYBX Approaches
 
-
-//// LOC05 ////
-CYBX;05;LOC05;CYBX;CYBX;3;
-MUVUB;MUVUB;<br>;
-MUVUB;MUVUB;^1500;
-ITKUG;ITKUG;@1460;
-BX;BX;<br>;
-ITKUG;ITKUG;^1600 @210K @210K @210K;
-MUVUB;MUVUB;
-
-CYBX;05;GA LOC05;CYBX;CYBX;5;
-BX;BX;<br>;
-BX;BX;@2500;
-//// END LOC05 ////
 
 //// RNV05 ////
 CYBX;05;RNV05;CYBX;CYBX;3;

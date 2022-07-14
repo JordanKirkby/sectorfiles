@@ -1,19 +1,8 @@
 // CYSU STARs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 // CYSU Approaches
 
-
-//// NDB05 ////
-CYSU;05;NDB05;CYSU;CYSU;3;
-5B;5B;<br>;
-5B;5B;@940 @210K @210K @210K;
-5B;5B;
-
-CYSU;05;GA NDB05;CYSU;CYSU;5;
-5B;5B;<br>;
-5B;5B;@2100;
-//// END NDB05 ////
 
 //// RNV05 ////
 CYSU;05;RNV05;CYSU;CYSU;3;

@@ -1,5 +1,5 @@
 // CYVR STARs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 // CYVR Approaches
 
@@ -354,26 +354,6 @@ GOREG;GOREG;^3000;
 NALGI;NALGI;<br>;
 DUXUM;DUXUM;
 //// END DUXUM5.26R ////
-
-//// GOTOK4.08B ////
-CYVR;08R:08L;GOTOK4;CYVR;CYVR;
-YYJ;YYJ;<br>;
-GOTOK;GOTOK;
-MEPMU;MEPMU;
-TALPI;TALPI;
-HADER;HADER;
-
-//// END GOTOK4.08B ////
-
-//// GOTOK4.13 ////
-CYVR;13;GOTOK4;CYVR;CYVR;
-YYJ;YYJ;<br>;
-GOTOK;GOTOK;
-MEPMU;MEPMU;
-TALPI;TALPI;
-HADER;HADER;
-
-//// END GOTOK4.13 ////
 
 //// GRIZZ7.08B ////
 CYVR;08R:08L;GRIZZ7;CYVR;CYVR;

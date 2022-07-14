@@ -1,5 +1,5 @@
 // KESC STARs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 // KESC Approaches
 
@@ -30,8 +30,6 @@ ESC;ESC;<br>;
 PIKLE;PIKLE;^2500 @210K @210K @210K 
 MAARC;MAARC;
 VNZNT;VNZNT;
-VUKFI;VUKFI;
-CFBTX;CFBTX;^2500;
 REBON;REBON;
 
 KESC;09;GA ILS09;KESC;KESC;5;

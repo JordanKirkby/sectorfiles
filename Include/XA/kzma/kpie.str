@@ -1,5 +1,5 @@
 // KPIE STARs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 // KPIE Approaches
 
@@ -61,7 +61,7 @@ KPIE;18;RNV18;KPIE;KPIE;3;
 DETSE;DETSE;<br>;
 DETSE;DETSE;^2600;
 SAUND;SAUND;@1600;
-WIGUS;WIGUS;^560;
+WIGUS;WIGUS;^520;
 DONHU;DONHU;<br>;
 DETSE;DETSE;
 PIE;PIE;<br>;

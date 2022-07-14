@@ -1,5 +1,5 @@
 // KFWC STARs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 // KFWC Approaches
 
@@ -11,14 +11,11 @@ FF09;FF09;@2100;
 ENL;ENL;<br>;
 FWC;FWC;^2100 @210K @210K @210K 
 PXV;PXV;
-FWC;FWC;^2100 @210K @210K @210K 
-SAM;SAM;
 FWC;FWC;^2100 @210K @210K @210K;
 FF09;FF09;
 
 KFWC;09;GA NDB09;KFWC;KFWC;5;
 FWC;FWC;<br>;
-FWC;FWC;^840;
 //// END NDB09 ////
 
 //// RNV09 ////

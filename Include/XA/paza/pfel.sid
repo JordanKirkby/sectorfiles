@@ -1,11 +1,9 @@
 // PFEL SIDs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 
-//// MOS1 ////
-PFEL;19;MOS1;PFEL;PFEL;
-COGNI;COGNI;<br>;
-EJACI;EJACI;
-MOS;MOS;
+//// MOS2 ////
+PFEL;19;MOS2;PFEL;PFEL;
+MOS;MOS;<br>;
 
-//// END MOS1 ////
+//// END MOS2 ////

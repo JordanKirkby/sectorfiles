@@ -1,14 +1,18 @@
 // CYYY SIDs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 
-//// OLOKA2 ////
-CYYY;06:24:33;OLOKA2;CYYY;CYYY;
+//// AVIDA1 ////
+CYYY;06;AVIDA1;CYYY;CYYY;
+AVIDA;AVIDA;<br>;
+
+//// END AVIDA1 ////
+
+//// OLOKA3 ////
+CYYY;24:33;OLOKA3;CYYY;CYYY;
 OLOKA;OLOKA;<br>;
 OLOKA;OLOKA;
 OLOKA;OLOKA;<br>;
 OLOKA;OLOKA;
-OLOKA;OLOKA;<br>;
-OLOKA;OLOKA;
 
-//// END OLOKA2 ////
+//// END OLOKA3 ////

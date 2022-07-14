@@ -1,0 +1,18 @@
+// CYXQ SIDs
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
+
+
+//// KEKDO1 ////
+CYXQ;32;KEKDO1;CYXQ;CYXQ;
+KEKDO;KEKDO;<br>;
+KEKDO;KEKDO;^8500;
+
+//// END KEKDO1 ////
+
+//// PIDBU1 ////
+CYXQ;14;PIDBU1;CYXQ;CYXQ;
+SERSU;SERSU;<br>;
+PIDBU;PIDBU;
+KEKDO;KEKDO;^8500;
+
+//// END PIDBU1 ////

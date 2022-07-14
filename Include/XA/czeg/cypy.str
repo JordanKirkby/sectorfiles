@@ -1,21 +1,8 @@
 // CYPY STARs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 // CYPY Approaches
 
-
-//// NDB04 ////
-CYPY;04;NDB04;CYPY;CYPY;3;
-FF04;FF04;<br>;
-FF04;FF04;@2300;
-EP04;EP04;@754;
-PY;PY;^1170 @210K @210K @210K;
-FF04;FF04;
-
-CYPY;04;GA NDB04;CYPY;CYPY;5;
-PY;PY;<br>;
-PY;PY;@2300;
-//// END NDB04 ////
 
 //// RNV04 ////
 CYPY;04;RNV04;CYPY;CYPY;3;
