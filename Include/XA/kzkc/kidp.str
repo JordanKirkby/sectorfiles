@@ -1,5 +1,5 @@
 // KIDP STARs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 // KIDP Approaches
 
@@ -8,14 +8,8 @@
 KIDP;35;ILS35;KIDP;KIDP;3;
 VOVRY;VOVRY;<br>;
 VOVRY;VOVRY;^3000;
-JEFFE;JEFFE;@2483;
+JEFFE;JEFFE;@2461;
 BVO;BVO;<br>;
-VOVRY;VOVRY;
-OSW;OSW;<br>;
-VOVRY;VOVRY;^3000;
-VOVRY;VOVRY;
-TYROE;TYROE;<br>;
-VOVRY;VOVRY;^3000;
 VOVRY;VOVRY;
 
 KIDP;35;GA ILS35;KIDP;KIDP;5;

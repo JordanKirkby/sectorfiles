@@ -1,5 +1,5 @@
 // KSNS STARs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 // KSNS Approaches
 
@@ -86,7 +86,6 @@ KSNS;13;RNV13;KSNS;KSNS;3;
 EWTOF;EWTOF;<br>;
 EWTOF;EWTOF;^3200;
 UBBEP;UBBEP;@1700;
-GUHWO;GUHWO;@393;
 ISIFU;ISIFU;<br>;
 MOVER;MOVER;^5000;
 EWTOF;EWTOF;
@@ -96,7 +95,7 @@ EWTOF;EWTOF;
 
 KSNS;13;GA RNV13;KSNS;KSNS;5;
 MARNA;MARNA;<br>;
-MARNA;MARNA;^3000;
+MARNA;MARNA;^4800 @185K;
 //// END RNV13 ////
 
 //// RNVY31 ////

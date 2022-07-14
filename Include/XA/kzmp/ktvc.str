@@ -1,5 +1,5 @@
 // KTVC STARs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 // KTVC Approaches
 
@@ -38,11 +38,11 @@ LADIN;LADIN;^4000;
 
 //// RNV18 ////
 KTVC;18;RNV18;KTVC;KTVC;3;
-FEGED;FEGED;<br>;
-FEGED;FEGED;^3500;
+DUNZE;DUNZE;<br>;
+DUNZE;DUNZE;^3500;
 HISOV;HISOV;@2500;
 YISUR;YISUR;^1260;
-FEGED;FEGED;
+DUNZE;DUNZE;
 
 KTVC;18;GA RNV18;KTVC;KTVC;5;
 PUMRE;PUMRE;<br>;

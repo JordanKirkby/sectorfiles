@@ -1,5 +1,5 @@
 // PASM STARs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 // PASM Approaches
 
@@ -28,10 +28,8 @@ YOZMO;YOZMO;<br>;
 YOZMO;YOZMO;^2600;
 SAWNY;SAWNY;@2000;
 CEVUD;CEVUD;<br>;
-CEVUD;CEVUD;^2600;
 YOZMO;YOZMO;
 WOMEV;WOMEV;<br>;
-WOMEV;WOMEV;^3900;
 YOZMO;YOZMO;
 YOZMO;YOZMO;
 

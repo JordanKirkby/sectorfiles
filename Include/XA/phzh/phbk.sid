@@ -1,18 +1,18 @@
 // PHBK SIDs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 
-//// KEKAH4 ////
-PHBK;16:34;KEKAH4;PHBK;PHBK;
+//// KEKAH5 ////
+PHBK;16:34;KEKAH5;PHBK;PHBK;
 SOK;SOK;<br>;
 SOK;SOK;^5000;
 NAUTI;NAUTI;<br>;
 SOK;SOK;^5000;
 
-//// END KEKAH4 ////
+//// END KEKAH5 ////
 
-//// SOK5 ////
-PHBK;16:34;SOK5;PHBK;PHBK;
+//// SOK6 ////
+PHBK;16:34;SOK6;PHBK;PHBK;
 SOK;SOK;<br>;
 SOK;SOK;^5000;
 NAUTI;NAUTI;<br>;
@@ -20,4 +20,4 @@ NAUTI;NAUTI;
 NAUTI;NAUTI;<br>;
 NAUTI;NAUTI;
 
-//// END SOK5 ////
+//// END SOK6 ////

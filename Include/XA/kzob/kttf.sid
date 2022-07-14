@@ -1,5 +1,5 @@
 // KTTF SIDs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 
 //// BARII2 ////
@@ -124,6 +124,16 @@ KAYLN;KAYLN;<br>;
 IIICE;IIICE;
 SMUUV;SMUUV;
 //// END KAYLN2 ////
+
+//// KZLOV1 ////
+KTTF;03:21;KZLOV1;KTTF;KTTF;
+WINNZ;WINNZ;<br>;
+KZLOV;KZLOV;<br>;
+KZLOV;KZLOV;v10000 ^4000;
+KZLOV;KZLOV;<br>;
+KZLOV;KZLOV;v10000 ^4000;
+
+//// END KZLOV1 ////
 
 //// LIDDS2 ////
 KTTF;03:21;LIDDS2;KTTF;KTTF;

@@ -1,5 +1,5 @@
 // CYGP STARs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 // CYGP Approaches
 
@@ -22,18 +22,6 @@ CYGP;10;GA LOC10;CYGP;CYGP;5;
 YGP;YGP;<br>;
 YGP;YGP;@3600;
 //// END LOC10 ////
-
-//// NDB28 ////
-CYGP;28;NDB28;CYGP;CYGP;3;
-GP;GP;<br>;
-GP;GP;@1300;
-MA28;MA28;@621 @210K @210K @210K;
-GP;GP;
-
-CYGP;28;GA NDB28;CYGP;CYGP;5;
-GP;GP;<br>;
-GP;GP;@3500;
-//// END NDB28 ////
 
 //// RNV10 ////
 CYGP;10;RNV10;CYGP;CYGP;3;

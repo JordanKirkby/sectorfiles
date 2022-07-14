@@ -1,21 +1,8 @@
 // KCNI STARs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 // KCNI Approaches
 
-
-//// NDB05 ////
-KCNI;05;NDB05;KCNI;KCNI;3;
-DJD;DJD;<br>;
-DJD;DJD;@2700;
-NELLO;NELLO;<br>;
-DJD;DJD;^5000 @210K @210K @210K;
-DJD;DJD;
-
-KCNI;05;GA NDB05;KCNI;KCNI;5;
-DJD;DJD;<br>;
-DJD;DJD;^3300;
-//// END NDB05 ////
 
 //// RNV05 ////
 KCNI;05;RNV05;KCNI;KCNI;3;
@@ -67,17 +54,6 @@ KENZI;KENZI;
 KEEPS;KEEPS;<br>;
 BOKRT;BOKRT;
 //// END BOKRT3 ////
-
-//// DIFFI4 ////
-KCNI;05:23;DIFFI4;KCNI;KCNI;
-LGC;LGC;<br>;
-BUUZZ;BUUZZ;
-NANNC;NANNC;
-TEMPO;TEMPO;
-TIINI;TIINI;
-DIFFI;DIFFI;
-
-//// END DIFFI4 ////
 
 //// WRGNZ3 ////
 KCNI;05:23;WRGNZ3;KCNI;KCNI;

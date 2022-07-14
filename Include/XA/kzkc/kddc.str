@@ -1,5 +1,5 @@
 // KDDC STARs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 // KDDC Approaches
 
@@ -11,9 +11,7 @@ KEYLE;KEYLE;^4300;
 MODGE;MODGE;@3900;
 DDC;DDC;<br>;
 MODGE;MODGE;^4200 @210K @210K @210K 
-KRIER;KRIER;
-KEYLE;KEYLE;
-KUDDO;KUDDO;<br>;
+KUDDO;KUDDO;
 KEYLE;KEYLE;
 KUDIC;KUDIC;<br>;
 KEYLE;KEYLE;

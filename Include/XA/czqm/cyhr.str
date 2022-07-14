@@ -1,32 +1,8 @@
 // CYHR STARs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 // CYHR Approaches
 
-
-//// NDB07 ////
-CYHR;07;NDB07;CYHR;CYHR;3;
-FN07;FN07;<br>;
-FN07;FN07;@1600;
-EP07;EP07;@80;
-YHR;YHR;^440 @210K @210K @210K;
-FN07;FN07;
-
-CYHR;07;GA NDB07;CYHR;CYHR;5;
-YHR;YHR;<br>;
-YHR;YHR;@2300;
-//// END NDB07 ////
-
-//// NDB25 ////
-CYHR;25;NDB25;CYHR;CYHR;3;
-FN25;FN25;<br>;
-FN25;FN25;@1700 @210K @210K @210K;
-FN25;FN25;
-
-CYHR;25;GA NDB25;CYHR;CYHR;5;
-YHR;YHR;<br>;
-YHR;YHR;@2300;
-//// END NDB25 ////
 
 //// RNV07 ////
 CYHR;07;RNV07;CYHR;CYHR;3;

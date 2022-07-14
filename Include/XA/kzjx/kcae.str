@@ -1,5 +1,5 @@
 // KCAE STARs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 // KCAE Approaches
 
@@ -74,7 +74,7 @@ BACRY;BACRY;
 
 KCAE;11;GA RNV11;KCAE;KCAE;5;
 CABKO;CABKO;<br>;
-CABKO;CABKO;^3000;
+CABKO;CABKO;^2500;
 //// END RNV11 ////
 
 //// RNV23 ////

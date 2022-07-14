@@ -1,5 +1,5 @@
 // KJAX STARs
-// Auto-generated 18/6/2022 by Wes Sleeman (XA)
+// Auto-generated 7/14/2022 by Wes Sleeman (XA)
 
 // KJAX Approaches
 
@@ -33,16 +33,16 @@ MONIA;MONIA;<br>;
 MONIA;MONIA;^3000;
 //// END ILS08 ////
 
-//// ILS14 ////
-KJAX;14;ILS14;KJAX;KJAX;3;
+//// ILSY14 ////
+KJAX;14;ILSY14;KJAX;KJAX;3;
 ORTAR;ORTAR;<br>;
 ORTAR;ORTAR;^2000;
 SONIA;SONIA;@1628;
 
-KJAX;14;GA ILS14;KJAX;KJAX;5;
+KJAX;14;GA ILSY14;KJAX;KJAX;5;
 CRG;CRG;<br>;
 CRG;CRG;^3000;
-//// END ILS14 ////
+//// END ILSY14 ////
 
 //// ILS26 ////
 KJAX;26;ILS26;KJAX;KJAX;3;
