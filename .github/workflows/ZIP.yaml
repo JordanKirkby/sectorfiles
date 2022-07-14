@@ -114,7 +114,7 @@ jobs:
             args: zip -qq -r KZWY.zip . -i "KZWY New York Oceanic FIR.isc"    
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq ALL_SECTORS.zip . -i *.zip
+            args: zip -qq -r ALL_SECTORS.zip . -i *.zip
         - run: ls -la
         - run: export title="Automatic Release $(date -u +%F_%H:%M:%S)"
         - uses: "marvinpinto/action-automatic-releases@latest"
