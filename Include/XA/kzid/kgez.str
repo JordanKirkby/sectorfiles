@@ -1,5 +1,5 @@
 // KGEZ STARs
-// Auto-generated 7/14/2022 by Wes Sleeman (XA)
+// Auto-generated 8/11/2022 by Wes Sleeman (XA)
 
 // KGEZ Approaches
 
@@ -42,7 +42,9 @@ WAGSE;WAGSE;^3000;
 //// VOR19 ////
 KGEZ;19;VOR19;KGEZ;KGEZ;3;
 SHB;SHB;<br>;
-SHB;SHB;@1700 @210K @210K @210K;
+SHB;SHB;@1700;
+SHB;SHB;<br>;
+SHB;SHB;^2400 @210K @210K @210K;
 SHB;SHB;
 
 KGEZ;19;GA VOR19;KGEZ;KGEZ;5;

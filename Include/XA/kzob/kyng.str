@@ -1,5 +1,5 @@
 // KYNG STARs
-// Auto-generated 7/14/2022 by Wes Sleeman (XA)
+// Auto-generated 8/11/2022 by Wes Sleeman (XA)
 
 // KYNG Approaches
 
@@ -20,12 +20,12 @@ CAMES;CAMES;^3600;
 
 //// ILS32 ////
 KYNG;32;ILS32;KYNG;KYNG;3;
-PFDND;PFDND;<br>;
-PFDND;PFDND;^2900;
+CF32;CF32;<br>;
+CF32;CF32;^2900;
 FETCH;FETCH;@2726;
 ACO;ACO;<br>;
 FETCH;FETCH;^2900 @210K @210K @210K;
-PFDND;PFDND;
+CF32;CF32;
 
 KYNG;32;GA ILS32;KYNG;KYNG;5;
 YNG;YNG;<br>;
