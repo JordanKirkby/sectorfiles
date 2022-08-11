@@ -1,5 +1,5 @@
 // KSLC STARs
-// Auto-generated 7/14/2022 by Wes Sleeman (XA)
+// Auto-generated 8/11/2022 by Wes Sleeman (XA)
 
 // KSLC Approaches
 
@@ -9,6 +9,10 @@ KSLC;16L;ILS16L;KSLC;KSLC;3;
 LGOON;LGOON;<br>;
 LGOON;LGOON;^7500;
 YYIPP;YYIPP;@6000;
+IRRON;IRRON;<br>;
+IRRON;IRRON;^11000;
+TOOME;TOOME;^9000;
+LGOON;LGOON;
 OGD;OGD;<br>;
 IRRON;IRRON;^11000;
 TOOME;TOOME;^9000;

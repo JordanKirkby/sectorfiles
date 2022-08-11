@@ -1,8 +1,19 @@
 // KEWR STARs
-// Auto-generated 7/14/2022 by Wes Sleeman (XA)
+// Auto-generated 8/11/2022 by Wes Sleeman (XA)
 
 // KEWR Approaches
 
+
+//// VDM11 ////
+KEWR;11;VDM11;KEWR;KEWR;3;
+PINEZ;PINEZ;<br>;
+PINEZ;PINEZ;^2000;
+LOCKI;LOCKI;@1500;
+
+KEWR;11;GA VDM11;KEWR;KEWR;5;
+SAX;SAX;<br>;
+SAX;SAX;^3000;
+//// END VDM11 ////
 
 //// ILS04L ////
 KEWR;04L;ILS04L;KEWR;KEWR;3;
@@ -283,17 +294,6 @@ JETVY;JETVY;<br>;
 FIRSI;FIRSI;
 DIRMY;DIRMY;^3000;
 //// END RNVZ29 ////
-
-//// VOR11 ////
-KEWR;11;VOR11;KEWR;KEWR;3;
-PINEZ;PINEZ;<br>;
-PINEZ;PINEZ;^2000;
-LOCKI;LOCKI;@1500;
-
-KEWR;11;GA VOR11;KEWR;KEWR;5;
-SAX;SAX;<br>;
-SAX;SAX;^3000;
-//// END VOR11 ////
 
 // KEWR Arrivals
 

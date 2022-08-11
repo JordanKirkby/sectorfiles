@@ -1,5 +1,5 @@
 // KSYI STARs
-// Auto-generated 7/14/2022 by Wes Sleeman (XA)
+// Auto-generated 8/11/2022 by Wes Sleeman (XA)
 
 // KSYI Approaches
 
@@ -83,10 +83,10 @@ IBCUM;IBCUM;^3000;
 //// VOR18 ////
 KSYI;18;VOR18;KSYI;KSYI;3;
 FS18;FS18;<br>;
-FS18;FS18;@2800 @210K @210K @210K;
+FS18;FS18;@3000 @210K @210K @210K;
 FS18;FS18;
 
 KSYI;18;GA VOR18;KSYI;KSYI;5;
 SYI;SYI;<br>;
-SYI;SYI;^1201;
+SYI;SYI;^3000;
 //// END VOR18 ////
