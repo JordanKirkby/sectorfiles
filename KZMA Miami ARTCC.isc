@@ -13,17 +13,17 @@ APRON;#090909;
 OUTLINE;#151515;
 BUILDING;#030303;
 RUNWAY;#090909;
-//MIAMI TRACON (EAST OPS);#363636;
-//MIAMI TRACON (WEST OPS);#363636;
-//TAMPA TRACON (NORTH OPS);#363636;
-//TAMPA TRACON (SOUTH OPS);#363636;
-//PALM BEACH TRACON (EAST OPS);#363636;
-//PALM BEACH TRACON (WEST OPS);#363636;
-//FT MYERS TRACON (EAST OPS);#363636;
-//FT MYERS TRACON (WEST OPS);#363636;
-//ORLANDO TRACON;#363636;
-//NAVY KEY WEST TRACON;#363636;
-//HOMESTEAD APPROACH;#363636;
+MIAMI TRACON (EAST OPS);#363636;
+MIAMI TRACON (WEST OPS);#363636;
+TAMPA TRACON (NORTH OPS);#363636;
+TAMPA TRACON (SOUTH OPS);#363636;
+PALM BEACH TRACON (EAST OPS);#363636;
+PALM BEACH TRACON (WEST OPS);#363636;
+FT MYERS TRACON (EAST OPS);#363636;
+FT MYERS TRACON (WEST OPS);#363636;
+ORLANDO TRACON;#363636;
+NAVY KEY WEST TRACON;#363636;
+HOMESTEAD APPROACH;#363636;
 
 [ATC]
 F;atc.atc
@@ -79,14 +79,14 @@ F;ad\kmia_centerlines.geo
 F;geo\restrict.geo
 F;geo\warning.geo
 F;geo\moa.geo
-F;geo\ftmyers_tracon_east.geo
-F;geo\ftmyers_tracon_west.geo
-F;geo\homestead_approach.geo
-F;geo\miami_tracon_east.geo
-F;geo\miami_tracon_west.geo
-F;geo\navykeywest_tracon.geo
-F;geo\orlando_tracon.geo
-F;geo\palmbeach_tracon_east.geo
-F;geo\palmbeach_tracon_west.geo
-F;geo\tampa_tracon_north.geo
-F;geo\tampa_tracon_south.geo
+F;app\ftmyers_tracon_east.geo
+F;app\ftmyers_tracon_west.geo
+F;app\homestead_approach.geo
+F;app\miami_tracon_east.geo
+F;app\miami_tracon_west.geo
+F;app\navykeywest_tracon.geo
+F;app\orlando_tracon.geo
+F;app\palmbeach_tracon_east.geo
+F;app\palmbeach_tracon_west.geo
+F;app\tampa_tracon_north.geo
+F;app\tampa_tracon_south.geo
