@@ -1,5 +1,5 @@
 // KCOS STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KCOS Approaches
 
@@ -238,6 +238,20 @@ HONPI;HONPI;<br>;
 COTLA;COTLA;
 ADANE;ADANE;^9000;
 //// END RNV35RZ ////
+
+//// VOR17L ////
+KCOS;17L;VOR17L;KCOS;KCOS;3;
+AFOGO;AFOGO;<br>;
+AFOGO;AFOGO;^9000;
+BRK;BRK;@8900;
+AFDUC;AFDUC;<br>;
+AFOGO;AFOGO;@210K @210K @210K;
+AFOGO;AFOGO;
+
+KCOS;17L;GA VOR17L;KCOS;KCOS;5;
+ADANE;ADANE;<br>;
+ADANE;ADANE;^9000;
+//// END VOR17L ////
 
 // KCOS Arrivals
 

@@ -1,5 +1,5 @@
 // KMGM STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KMGM Approaches
 
@@ -7,7 +7,7 @@
 //// ILS10 ////
 KMGM;10;ILS10;KMGM;KMGM;3;
 WULNI;WULNI;<br>;
-WULNI;WULNI;^2000;
+WULNI;WULNI;^2200;
 MARRA;MARRA;@1931;
 ALOON;ALOON;<br>;
 MARRA;MARRA;^2000 @210K @210K @210K 

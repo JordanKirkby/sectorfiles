@@ -1,5 +1,5 @@
 // KELA STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KELA Approaches
 
@@ -33,13 +33,3 @@ KELA;35;GA RNV35;KELA;KELA;5;
 HIDIM;HIDIM;<br>;
 HIDIM;HIDIM;^2000;
 //// END RNV35 ////
-
-//// VOR17 ////
-KELA;17;VOR17;KELA;KELA;3;
-ELA;ELA;<br>;
-ELA;ELA;@1400 @210K @210K @210K;
-ELA;ELA;
-
-KELA;17;GA VOR17;KELA;KELA;5;
-ELA;ELA;<br>;
-//// END VOR17 ////

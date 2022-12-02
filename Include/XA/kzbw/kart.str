@@ -1,5 +1,5 @@
 // KART STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KART Approaches
 
@@ -67,9 +67,7 @@ TAREE;TAREE;^2400;
 //// VOR07 ////
 KART;07;VOR07;KART;KART;3;
 ART;ART;<br>;
-ART;ART;@1300 @210K @210K @210K 
-SYR;SYR;<br>;
-WUMSO;WUMSO;^3000;
+ART;ART;@1300 @210K @210K @210K;
 ART;ART;
 
 KART;07;GA VOR07;KART;KART;5;

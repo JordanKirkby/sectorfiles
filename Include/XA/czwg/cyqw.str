@@ -1,5 +1,5 @@
 // CYQW STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // CYQW Approaches
 
@@ -18,7 +18,7 @@ NOVIT;NOVIT;
 
 CYQW;12;GA RNV12;CYQW;CYQW;5;
 UKSOG;UKSOG;<br>;
-UKSOG;UKSOG;@3900;
+UKSOG;UKSOG;@3800;
 //// END RNV12 ////
 
 //// RNV30 ////
@@ -35,5 +35,5 @@ DUSOL;DUSOL;
 
 CYQW;30;GA RNV30;CYQW;CYQW;5;
 BENOM;BENOM;<br>;
-BENOM;BENOM;@3900;
+BENOM;BENOM;@3600;
 //// END RNV30 ////

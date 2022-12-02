@@ -1,5 +1,5 @@
 // PADK STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // PADK Approaches
 
@@ -71,3 +71,17 @@ XERIC;XERIC;<br>;
 XERIC;XERIC;^6600;
 DEJJE;DEJJE;
 //// END RNV23 ////
+
+//// TAC23 ////
+PADK;23;TAC23;PADK;PADK;3;
+DUKKO;DUKKO;<br>;
+DUKKO;DUKKO;^3500;
+SIPPI;SIPPI;@2900;
+NOVUE;NOVUE;@435;
+GLINE;GLINE;<br>;
+DUKKO;DUKKO;
+
+PADK;23;GA TAC23;PADK;PADK;5;
+BER;BER;<br>;
+XERIC;XERIC;^4300;
+//// END TAC23 ////

@@ -1,5 +1,5 @@
 // KINK STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KINK Approaches
 
@@ -32,8 +32,7 @@ AHASS;AHASS;^5000;
 //// VOR13 ////
 KINK;13;VOR13;KINK;KINK;3;
 INK;INK;<br>;
-INK;INK;@4700;
-DSHRT;DSHRT;^3340 @210K @210K @210K;
+INK;INK;@4700 @210K @210K @210K;
 INK;INK;
 
 KINK;13;GA VOR13;KINK;KINK;5;

@@ -1,5 +1,5 @@
 // KRFD STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KRFD Approaches
 
@@ -48,9 +48,6 @@ FOORD;FOORD;
 SOSSO;SOSSO;<br>;
 FOORD;FOORD;
 
-KRFD;07;GA ILS07;KRFD;KRFD;5;
-JVL;JVL;<br>;
-JVL;JVL;^3100;
 //// END ILS07 ////
 
 //// RNV01 ////
