@@ -1,5 +1,5 @@
 // KALN STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KALN Approaches
 
@@ -17,20 +17,6 @@ KALN;29;GA ILS29;KALN;KALN;5;
 TOPAZ;TOPAZ;<br>;
 TOPAZ;TOPAZ;^2200;
 //// END ILS29 ////
-
-//// NDB17 ////
-KALN;17;NDB17;KALN;KALN;3;
-DORSY;DORSY;<br>;
-DORSY;DORSY;@1380;
-PRAYS;PRAYS;<br>;
-CVM;CVM;^2200 @210K @210K @210K 
-TOY;TOY;
-CVM;CVM;^2200 @210K @210K @210K;
-DORSY;DORSY;
-
-KALN;17;GA NDB17;KALN;KALN;5;
-CVM;CVM;<br>;
-//// END NDB17 ////
 
 //// RNV11 ////
 KALN;11;RNV11;KALN;KALN;3;

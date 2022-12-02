@@ -1,19 +1,8 @@
 // KPOH STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KPOH Approaches
 
-
-//// VDM30 ////
-KPOH;30;VDM30;KPOH;KPOH;3;
-FOD;FOD;<br>;
-FOD;FOD;^2800;
-WILES;WILES;@2800;
-FOD;FOD;
-
-KPOH;30;GA VDM30;KPOH;KPOH;5;
-WILES;WILES;<br>;
-//// END VDM30 ////
 
 //// RNV12 ////
 KPOH;12;RNV12;KPOH;KPOH;3;

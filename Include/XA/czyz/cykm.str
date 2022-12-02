@@ -1,30 +1,8 @@
 // CYKM STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // CYKM Approaches
 
-
-//// NDB13 ////
-CYKM;13;NDB13;CYKM;CYKM;3;
-FF13;FF13;<br>;
-FF13;FF13;@2400 @210K @210K @210K;
-FF13;FF13;
-
-CYKM;13;GA NDB13;CYKM;CYKM;5;
-D7;D7;<br>;
-D7;D7;@2500;
-//// END NDB13 ////
-
-//// NDB31 ////
-CYKM;31;NDB31;CYKM;CYKM;3;
-FF31;FF31;<br>;
-FF31;FF31;@2500 @210K @210K @210K;
-FF31;FF31;
-
-CYKM;31;GA NDB31;CYKM;CYKM;5;
-D7;D7;<br>;
-D7;D7;@2800;
-//// END NDB31 ////
 
 //// RNVY13 ////
 CYKM;13;RNVY13;CYKM;CYKM;3;

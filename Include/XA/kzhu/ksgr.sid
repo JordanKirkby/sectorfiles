@@ -1,5 +1,5 @@
 // KSGR SIDs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 
 //// AEX3 ////
@@ -493,8 +493,8 @@ SBI;SBI;
 LLA;LLA;
 //// END MMALT5 ////
 
-//// PSX2 ////
-KSGR;17:35;PSX2;KSGR;KSGR;
+//// PSX3 ////
+KSGR;17:35;PSX3;KSGR;KSGR;
 SKUBA;SKUBA;<br>;
 PSX;PSX;
 PSX;PSX;<br>;
@@ -506,19 +506,19 @@ PSX;PSX;<br>;
 THX;THX;
 SAT;SAT;
 
-KSGR;17:35;PSX2.FST;KSGR;KSGR;1;
+KSGR;17:35;PSX3.FST;KSGR;KSGR;1;
 SKUBA;SKUBA;<br>;
 PSX;PSX;
 THX;THX;
 COT;COT;
 RSG;RSG;
 FST;FST;
-KSGR;17:35;PSX2.SAT;KSGR;KSGR;1;
+KSGR;17:35;PSX3.SAT;KSGR;KSGR;1;
 SKUBA;SKUBA;<br>;
 PSX;PSX;
 THX;THX;
 SAT;SAT;
-//// END PSX2 ////
+//// END PSX3 ////
 
 //// STRYA8 ////
 KSGR;17:35;STRYA8;KSGR;KSGR;

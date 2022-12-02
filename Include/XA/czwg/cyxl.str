@@ -1,5 +1,5 @@
 // CYXL STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // CYXL Approaches
 
@@ -22,7 +22,7 @@ CYXL;16;NDM16;CYXL;CYXL;3;
 MASOK;MASOK;<br>;
 MASOK;MASOK;^2800;
 URTUP;URTUP;@2500;
-MA16;MA16;@1284 @210K @210K @210K;
+MA16;MA16;@1286 @210K @210K @210K;
 MASOK;MASOK;
 
 CYXL;16;GA NDM16;CYXL;CYXL;5;

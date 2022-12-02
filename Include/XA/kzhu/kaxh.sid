@@ -1,5 +1,5 @@
 // KAXH SIDs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 
 //// AEX3 ////
@@ -493,8 +493,8 @@ SBI;SBI;
 LLA;LLA;
 //// END MMALT5 ////
 
-//// PSX2 ////
-KAXH;09:27;PSX2;KAXH;KAXH;
+//// PSX3 ////
+KAXH;09:27;PSX3;KAXH;KAXH;
 SKUBA;SKUBA;<br>;
 PSX;PSX;
 PSX;PSX;<br>;
@@ -506,19 +506,19 @@ PSX;PSX;<br>;
 THX;THX;
 SAT;SAT;
 
-KAXH;09:27;PSX2.FST;KAXH;KAXH;1;
+KAXH;09:27;PSX3.FST;KAXH;KAXH;1;
 SKUBA;SKUBA;<br>;
 PSX;PSX;
 THX;THX;
 COT;COT;
 RSG;RSG;
 FST;FST;
-KAXH;09:27;PSX2.SAT;KAXH;KAXH;1;
+KAXH;09:27;PSX3.SAT;KAXH;KAXH;1;
 SKUBA;SKUBA;<br>;
 PSX;PSX;
 THX;THX;
 SAT;SAT;
-//// END PSX2 ////
+//// END PSX3 ////
 
 //// STRYA8 ////
 KAXH;09:27;STRYA8;KAXH;KAXH;

@@ -1,5 +1,5 @@
 // KPDT STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KPDT Approaches
 
@@ -20,7 +20,7 @@ ZUTED;ZUTED;^5600;
 GARYC;GARYC;^5600;
 REYOT;REYOT;
 HEKPI;HEKPI;<br>;
-EYUYA;EYUYA;^5900;
+EYUYA;EYUYA;^6000;
 GARYC;GARYC;^5600;
 REYOT;REYOT;
 LACIB;LACIB;<br>;
@@ -34,7 +34,7 @@ REYOT;REYOT;
 
 KPDT;26;GA ILS26;KPDT;KPDT;5;
 PDT;PDT;<br>;
-PDT;PDT;^4000;
+PDT;PDT;^4200;
 //// END ILS26 ////
 
 //// RNV08 ////

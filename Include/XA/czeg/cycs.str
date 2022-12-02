@@ -1,5 +1,5 @@
 // CYCS STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // CYCS Approaches
 
@@ -7,7 +7,7 @@
 //// RNV12 ////
 CYCS;12;RNV12;CYCS;CYCS;3;
 UDPIS;UDPIS;<br>;
-UDPIS;UDPIS;^1500;
+UDPIS;UDPIS;^1600;
 IGVID;IGVID;@1400;
 AXESO;AXESO;<br>;
 AXESO;AXESO;@210K;
@@ -18,7 +18,7 @@ UDPIS;UDPIS;
 
 CYCS;12;GA RNV12;CYCS;CYCS;5;
 KIPOV;KIPOV;<br>;
-KIPOV;KIPOV;@2100;
+KIPOV;KIPOV;@1400;
 //// END RNV12 ////
 
 //// RNV30 ////
@@ -35,5 +35,5 @@ IRGEM;IRGEM;
 
 CYCS;30;GA RNV30;CYCS;CYCS;5;
 MISUN;MISUN;<br>;
-MISUN;MISUN;@2100;
+MISUN;MISUN;@1400;
 //// END RNV30 ////

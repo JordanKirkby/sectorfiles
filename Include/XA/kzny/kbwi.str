@@ -1,5 +1,5 @@
 // KBWI STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KBWI Approaches
 
@@ -35,8 +35,6 @@ BMORE;BMORE;<br>;
 BMORE;BMORE;^2500;
 KEVVN;KEVVN;@2100;
 EMI;EMI;<br>;
-EMI;EMI;^2500;
-EMI;EMI;
 BMORE;BMORE;
 
 KBWI;15R;GA ILS15R;KBWI;KBWI;5;
@@ -51,8 +49,8 @@ HURTZ;HURTZ;^2000;
 JURTI;JURTI;@2000;
 
 KBWI;28;GA ILS28;KBWI;KBWI;5;
-COLUM;COLUM;<br>;
-COLUM;COLUM;^2500;
+EMI;EMI;<br>;
+EMI;EMI;^2600;
 //// END ILS28 ////
 
 //// ILS33L ////

@@ -1,5 +1,5 @@
 // KTNX SIDs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 
 //// ESSAA1 ////
@@ -56,12 +56,3 @@ KTNX;14;TPH3;KTNX;KTNX;
 TPH;TPH;<br>;
 
 //// END TPH3 ////
-
-//// TUMBE1 ////
-KTNX;14:32;TUMBE1;KTNX;KTNX;
-HOSER;HOSER;<br>;
-HOSER;HOSER;^6225;
-TUMBE;TUMBE;
-TUMBE;TUMBE;<br>;
-
-//// END TUMBE1 ////

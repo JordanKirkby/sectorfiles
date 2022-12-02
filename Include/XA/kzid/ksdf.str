@@ -1,5 +1,5 @@
 // KSDF STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KSDF Approaches
 
@@ -27,9 +27,6 @@ SPYRS;SPYRS;<br>;
 SPYRS;SPYRS;^4000;
 BLGRS;BLGRS;
 
-KSDF;17R;GA ILS17R;KSDF;KSDF;5;
-NADDI;NADDI;<br>;
-NADDI;NADDI;^3000;
 //// END ILS17R ////
 
 //// ILS35L ////
@@ -41,9 +38,6 @@ BRBON;BRBON;<br>;
 RDBRD;RDBRD;^5000;
 AWLEE;AWLEE;
 
-KSDF;35L;GA ILS35L;KSDF;KSDF;5;
-DAMEN;DAMEN;<br>;
-DAMEN;DAMEN;^3000;
 //// END ILS35L ////
 
 //// ILS35R ////

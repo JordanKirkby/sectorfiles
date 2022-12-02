@@ -1,5 +1,5 @@
 // KBNO STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KBNO Approaches
 
@@ -32,5 +32,5 @@ FF30;FF30;
 
 KBNO;30;GA VOR30;KBNO;KBNO;5;
 ILR;ILR;<br>;
-ILR;ILR;^4548;
+ILR;ILR;^4560;
 //// END VOR30 ////

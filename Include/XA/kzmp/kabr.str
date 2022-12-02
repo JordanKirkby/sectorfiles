@@ -1,5 +1,5 @@
 // KABR STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KABR Approaches
 
@@ -31,8 +31,7 @@ RENEY;RENEY;@2908;
 ABR;ABR;<br>;
 RENEY;RENEY;^3000 @210K @210K @210K 
 OPLOW;OPLOW;
-JUSEN;JUSEN;
-OPNAH;OPNAH;<br>;
+OPNAH;OPNAH;
 JUSEN;JUSEN;
 
 KABR;31;GA ILS31;KABR;KABR;5;

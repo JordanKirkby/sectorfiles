@@ -1,5 +1,5 @@
 // KEND SIDs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 
 //// BOZCO1 ////
@@ -30,23 +30,6 @@ JENOS;JENOS;
 BOZCO;BOZCO;
 ALCEM;ALCEM;v13000;
 //// END BOZCO1 ////
-
-//// JHK2 ////
-KEND;17C:17R:35C:35L;JHK2;KEND;KEND;
-END;END;<br>;
-IFI;IFI;
-IFI;IFI;
-END;END;<br>;
-IFI;IFI;
-IFI;IFI;
-END;END;<br>;
-IFI;IFI;
-IFI;IFI;
-END;END;<br>;
-IFI;IFI;
-IFI;IFI;
-
-//// END JHK2 ////
 
 //// SAPEE1 ////
 KEND;17C:17R:35C:35L;SAPEE1;KEND;KEND;

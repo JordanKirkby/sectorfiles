@@ -1,22 +1,8 @@
 // KHQG STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KHQG Approaches
 
-
-//// NDB02 ////
-KHQG;02;NDB02;KHQG;KHQG;3;
-FF02;FF02;<br>;
-FF02;FF02;@4800;
-LBL;LBL;<br>;
-HQG;HQG;^4800 @210K @210K @210K;
-FF02;FF02;
-
-KHQG;02;GA NDB02;KHQG;KHQG;5;
-HQG;HQG;<br>;
-HQG;HQG;^3534;
-HQG;HQG;^4800;
-//// END NDB02 ////
 
 //// RNV02 ////
 KHQG;02;RNV02;KHQG;KHQG;3;

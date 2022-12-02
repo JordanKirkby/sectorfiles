@@ -1,5 +1,5 @@
 // KBOS SIDs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 
 //// BLZZR5 ////
@@ -233,8 +233,8 @@ LBSTA;LBSTA;
 
 //// END LBSTA7 ////
 
-//// LOGAN3 ////
-KBOS;04L:04R:09:14:15R:22L:22R:27:33L;LOGAN3;KBOS;KBOS;
+//// LOGAN4 ////
+KBOS;04L:04R:09:14:15R:22L:22R:27:33L;LOGAN4;KBOS;KBOS;
 BOS;BOS;<br>;
 BOS;BOS;<br>;
 BOS;BOS;<br>;
@@ -242,7 +242,7 @@ BOS;BOS;<br>;
 BOS;BOS;<br>;
 BOS;BOS;<br>;
 
-//// END LOGAN3 ////
+//// END LOGAN4 ////
 
 //// PATSS6 ////
 KBOS;04R:09:15R:22L:22R:27:33L;PATSS6;KBOS;KBOS;
@@ -393,10 +393,10 @@ SSOXS;SSOXS;
 
 //// END SSOXS6 ////
 
-//// WYLYY4 ////
-KBOS;27;WYLYY4;KBOS;KBOS;
+//// WYLYY5 ////
+KBOS;27;WYLYY5;KBOS;KBOS;
 WYLYY;WYLYY;<br>;
 WYLYY;WYLYY;^2300;
 CYOTI;CYOTI;
 
-//// END WYLYY4 ////
+//// END WYLYY5 ////

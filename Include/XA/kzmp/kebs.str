@@ -1,20 +1,8 @@
 // KEBS STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KEBS Approaches
 
-
-//// VDM14 ////
-KEBS;14;VDM14;KEBS;KEBS;3;
-ILUYI;ILUYI;<br>;
-ILUYI;ILUYI;^2800;
-MERYM;MERYM;@2800;
-MAFED;MAFED;@1151;
-ILUYI;ILUYI;
-
-KEBS;14;GA VDM14;KEBS;KEBS;5;
-MERYM;MERYM;<br>;
-//// END VDM14 ////
 
 //// RNV14 ////
 KEBS;14;RNV14;KEBS;KEBS;3;
