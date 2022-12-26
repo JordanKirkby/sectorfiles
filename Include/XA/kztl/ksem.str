@@ -1,5 +1,5 @@
 // KSEM STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KSEM Approaches
 
@@ -23,8 +23,6 @@ CADIP;CADIP;^3100;
 POLLK;POLLK;@1750;
 CADIP;CADIP;
 MGM;MGM;<br>;
-MGM;MGM;^3100;
-MGM;MGM;
 CADIP;CADIP;
 
 KSEM;33;GA ILSZ33;KSEM;KSEM;5;

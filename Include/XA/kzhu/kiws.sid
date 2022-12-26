@@ -1,5 +1,5 @@
 // KIWS SIDs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 
 //// AEX3 ////
@@ -493,8 +493,8 @@ SBI;SBI;
 LLA;LLA;
 //// END MMALT5 ////
 
-//// PSX2 ////
-KIWS;15:33;PSX2;KIWS;KIWS;
+//// PSX3 ////
+KIWS;15:33;PSX3;KIWS;KIWS;
 SKUBA;SKUBA;<br>;
 PSX;PSX;
 PSX;PSX;<br>;
@@ -506,19 +506,19 @@ PSX;PSX;<br>;
 THX;THX;
 SAT;SAT;
 
-KIWS;15:33;PSX2.FST;KIWS;KIWS;1;
+KIWS;15:33;PSX3.FST;KIWS;KIWS;1;
 SKUBA;SKUBA;<br>;
 PSX;PSX;
 THX;THX;
 COT;COT;
 RSG;RSG;
 FST;FST;
-KIWS;15:33;PSX2.SAT;KIWS;KIWS;1;
+KIWS;15:33;PSX3.SAT;KIWS;KIWS;1;
 SKUBA;SKUBA;<br>;
 PSX;PSX;
 THX;THX;
 SAT;SAT;
-//// END PSX2 ////
+//// END PSX3 ////
 
 //// STRYA8 ////
 KIWS;15:33;STRYA8;KIWS;KIWS;

@@ -1,5 +1,5 @@
 // KRIC STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KRIC Approaches
 
@@ -39,7 +39,7 @@ HPW;HPW;^2000;
 KRIC;34;ILS34;KRIC;KRIC;3;
 JUVPO;JUVPO;<br>;
 JUVPO;JUVPO;^1700;
-KAFKA;KAFKA;@1694;
+JOMUS;JOMUS;@1700;
 
 KRIC;34;GA ILS34;KRIC;KRIC;5;
 EPICS;EPICS;<br>;

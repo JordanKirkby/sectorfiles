@@ -1,5 +1,5 @@
 // KLBX SIDs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 
 //// AEX3 ////
@@ -493,8 +493,8 @@ SBI;SBI;
 LLA;LLA;
 //// END MMALT5 ////
 
-//// PSX2 ////
-KLBX;17:35;PSX2;KLBX;KLBX;
+//// PSX3 ////
+KLBX;17:35;PSX3;KLBX;KLBX;
 SKUBA;SKUBA;<br>;
 PSX;PSX;
 PSX;PSX;<br>;
@@ -506,19 +506,19 @@ PSX;PSX;<br>;
 THX;THX;
 SAT;SAT;
 
-KLBX;17:35;PSX2.FST;KLBX;KLBX;1;
+KLBX;17:35;PSX3.FST;KLBX;KLBX;1;
 SKUBA;SKUBA;<br>;
 PSX;PSX;
 THX;THX;
 COT;COT;
 RSG;RSG;
 FST;FST;
-KLBX;17:35;PSX2.SAT;KLBX;KLBX;1;
+KLBX;17:35;PSX3.SAT;KLBX;KLBX;1;
 SKUBA;SKUBA;<br>;
 PSX;PSX;
 THX;THX;
 SAT;SAT;
-//// END PSX2 ////
+//// END PSX3 ////
 
 //// STRYA8 ////
 KLBX;17:35;STRYA8;KLBX;KLBX;

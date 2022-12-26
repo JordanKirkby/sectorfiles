@@ -1,5 +1,5 @@
 // KJFK STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KJFK Approaches
 
@@ -462,8 +462,8 @@ LGA;LGA;
 
 //// END IGN1 ////
 
-//// LENDY7 ////
-KJFK;04L:04R:13L:13R:22L:22R:31L:31R;LENDY7;KJFK;KJFK;
+//// LENDY8 ////
+KJFK;04L:04R:13L:13R:22L:22R:31L:31R;LENDY8;KJFK;KJFK;
 LVZ;LVZ;<br>;
 JENNO;JENNO;
 HARTY;HARTY;
@@ -471,7 +471,7 @@ STW;STW;
 LENDY;LENDY;
 LGA;LGA;
 
-//// END LENDY7 ////
+//// END LENDY8 ////
 
 //// PARCH3.04B ////
 KJFK;04R:04L;PARCH3;KJFK;KJFK;

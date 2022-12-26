@@ -1,5 +1,5 @@
 // KFRG STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KFRG Approaches
 
@@ -126,8 +126,8 @@ LGA;LGA;
 
 //// END IGN1 ////
 
-//// LENDY7 ////
-KFRG;01:14:19:32;LENDY7;KFRG;KFRG;
+//// LENDY8 ////
+KFRG;01:14:19:32;LENDY8;KFRG;KFRG;
 LVZ;LVZ;<br>;
 JENNO;JENNO;
 HARTY;HARTY;
@@ -135,7 +135,7 @@ STW;STW;
 LENDY;LENDY;
 LGA;LGA;
 
-//// END LENDY7 ////
+//// END LENDY8 ////
 
 //// PARCH3 ////
 KFRG;01:14:19:32;PARCH3;KFRG;KFRG;

@@ -1,5 +1,5 @@
 // KMOP STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // KMOP Approaches
 
@@ -45,7 +45,9 @@ ELMME;ELMME;^3000;
 //// VOR27 ////
 KMOP;27;VOR27;KMOP;KMOP;3;
 FF27;FF27;<br>;
-FF27;FF27;@2400 @210K @210K @210K;
+FF27;FF27;@2500;
+MOP;MOP;<br>;
+MOP;MOP;v6000 @210K @210K @210K;
 FF27;FF27;
 
 KMOP;27;GA VOR27;KMOP;KMOP;5;

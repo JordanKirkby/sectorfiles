@@ -1,5 +1,5 @@
 // CYZT STARs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 // CYZT Approaches
 
@@ -12,14 +12,12 @@ UDGIB;UDGIB;@1500;
 BINDI;BINDI;<br>;
 BINDI;BINDI;
 YZT;YZT;
-UDGIB;UDGIB;^2700 @210K @210K @210K 
-ZT;ZT;
-UDGIB;UDGIB;^2700 @210K @210K @210K;
+UDGIB;UDGIB;^3000 @210K @210K @210K;
 AVIPA;AVIPA;
 
 CYZT;11;GA ILS11;CYZT;CYZT;5;
-ZT;ZT;<br>;
-ZT;ZT;@2800;
+YZT;YZT;<br>;
+YZT;YZT;@3000;
 //// END ILS11 ////
 
 //// RNVY08 ////

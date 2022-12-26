@@ -42,6 +42,7 @@ F;airac\awl.awl
 
 [ARTCC]
 F;airspace\czyz.artcc
+F;airspace\cyow app.artcc
 
 [ARTCC HIGH]
 F;airspace\app.artcc

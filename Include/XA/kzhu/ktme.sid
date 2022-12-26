@@ -1,5 +1,5 @@
 // KTME SIDs
-// Auto-generated 8/11/2022 by Wes Sleeman (XA)
+// Auto-generated 12/1/2022 by Wes Sleeman (XA)
 
 
 //// AEX3 ////
@@ -493,8 +493,8 @@ SBI;SBI;
 LLA;LLA;
 //// END MMALT5 ////
 
-//// PSX2 ////
-KTME;18:36;PSX2;KTME;KTME;
+//// PSX3 ////
+KTME;18:36;PSX3;KTME;KTME;
 SKUBA;SKUBA;<br>;
 PSX;PSX;
 PSX;PSX;<br>;
@@ -506,19 +506,19 @@ PSX;PSX;<br>;
 THX;THX;
 SAT;SAT;
 
-KTME;18:36;PSX2.FST;KTME;KTME;1;
+KTME;18:36;PSX3.FST;KTME;KTME;1;
 SKUBA;SKUBA;<br>;
 PSX;PSX;
 THX;THX;
 COT;COT;
 RSG;RSG;
 FST;FST;
-KTME;18:36;PSX2.SAT;KTME;KTME;1;
+KTME;18:36;PSX3.SAT;KTME;KTME;1;
 SKUBA;SKUBA;<br>;
 PSX;PSX;
 THX;THX;
 SAT;SAT;
-//// END PSX2 ////
+//// END PSX3 ////
 
 //// STRYA8 ////
 KTME;18:36;STRYA8;KTME;KTME;
