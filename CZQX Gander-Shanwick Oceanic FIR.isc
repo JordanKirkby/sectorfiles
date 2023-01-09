@@ -6,6 +6,12 @@ W030.00.00.000
 0
 XA\CZQX
 
+[CPDLCNAMES]
+F;groupnames.cpdlcnames
+
+[CPDLC]
+F;test.cpdlc
+
 [NDB]
 JH;265.0;N060.43.24.000;W046.01.46.000;
 NA;359.0;N061.10.14.680;W045.24.46.620;
