@@ -72,6 +72,7 @@ F;airspace\airspace-altitude-labels.artcc
 
 [GEO]
 F;klax.geo
+F;klax_stoplines.geo
 F;geo\coast.geo
 F;app\moa.geo
 F;app\restrict.geo
