@@ -1,5 +1,5 @@
 // KCCO STARs
-// Auto-generated 12/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/28/2023 by Wes Sleeman (XA)
 
 // KCCO Approaches
 
@@ -8,14 +8,14 @@
 KCCO;33;ILS33;KCCO;KCCO;3;
 CFBLN;CFBLN;<br>;
 CFBLN;CFBLN;^2500;
-EQQ;EQQ;@2221;
+EQQ;EQQ;@2208;
 TIROE;TIROE;<br>;
 EQQ;EQQ;^2500 @210K @210K @210K;
 CFBLN;CFBLN;
 
 KCCO;33;GA ILS33;KCCO;KCCO;5;
-HONIE;HONIE;<br>;
-HONIE;HONIE;^4000;
+EQQ;EQQ;<br>;
+EQQ;EQQ;^2500;
 //// END ILS33 ////
 
 //// RNV15 ////

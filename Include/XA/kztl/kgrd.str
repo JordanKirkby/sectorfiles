@@ -1,5 +1,5 @@
 // KGRD STARs
-// Auto-generated 12/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/28/2023 by Wes Sleeman (XA)
 
 // KGRD Approaches
 
@@ -27,16 +27,3 @@ KGRD;27;GA RNV27;KGRD;KGRD;5;
 MACER;MACER;<br>;
 MACER;MACER;^2500;
 //// END RNV27 ////
-
-//// VOR09 ////
-KGRD;09;VOR09;KGRD;KGRD;3;
-FF09;FF09;<br>;
-FF09;FF09;@2300;
-WORUD;WORUD;^1100 @210K @210K @210K;
-FF09;FF09;
-
-KGRD;09;GA VOR09;KGRD;KGRD;5;
-GRD;GRD;<br>;
-GRD;GRD;^1040;
-GRD;GRD;^2300;
-//// END VOR09 ////

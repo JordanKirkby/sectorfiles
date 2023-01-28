@@ -1,5 +1,5 @@
 // KHEF STARs
-// Auto-generated 12/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/28/2023 by Wes Sleeman (XA)
 
 // KHEF Approaches
 
@@ -30,8 +30,6 @@ SAVVV;SAVVV;^3000;
 GIGEY;GIGEY;
 MANNE;MANNE;<br>;
 GIGEY;GIGEY;
-SHYLO;SHYLO;<br>;
-GIGEY;GIGEY;
 
 KHEF;16L;GA RNV16L;KHEF;KHEF;5;
 CSN;CSN;<br>;
@@ -49,8 +47,6 @@ CSN;CSN;<br>;
 SAVVV;SAVVV;^3000;
 ANECU;ANECU;
 MANNE;MANNE;<br>;
-ANECU;ANECU;
-SHYLO;SHYLO;<br>;
 ANECU;ANECU;
 
 KHEF;16R;GA RNV16R;KHEF;KHEF;5;

@@ -1,5 +1,5 @@
 // KMYR STARs
-// Auto-generated 12/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/28/2023 by Wes Sleeman (XA)
 
 // KMYR Approaches
 
@@ -14,8 +14,8 @@ UXDEP;UXDEP;^2000;
 UXDEP;UXDEP;
 
 KMYR;18;GA ILS18;KMYR;KMYR;5;
-PLANN;PLANN;<br>;
-PLANN;PLANN;^3000;
+CRE;CRE;<br>;
+CRE;CRE;^3000;
 //// END ILS18 ////
 
 //// ILS36 ////

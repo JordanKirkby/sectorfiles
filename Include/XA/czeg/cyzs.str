@@ -1,5 +1,5 @@
 // CYZS STARs
-// Auto-generated 12/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/28/2023 by Wes Sleeman (XA)
 
 // CYZS Approaches
 
@@ -19,7 +19,7 @@ YZS;YZS;@2900;
 //// RNV16 ////
 CYZS;16;RNV16;CYZS;CYZS;3;
 AGMIP;AGMIP;<br>;
-AGMIP;AGMIP;^1900;
+AGMIP;AGMIP;^2000;
 GOXOR;GOXOR;@1600;
 XETIM;XETIM;^830;
 IKMEN;IKMEN;<br>;
