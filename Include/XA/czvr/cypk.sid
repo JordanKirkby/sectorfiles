@@ -1,14 +1,12 @@
 // CYPK SIDs
-// Auto-generated 12/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/28/2023 by Wes Sleeman (XA)
 
 
-//// CYPK2 ////
-CYPK;08R:26L;CYPK2;CYPK;CYPK;
+//// CYPK3 ////
+CYPK;08R:26L;CYPK3;CYPK;CYPK;
 KEPVI;KEPVI;<br>;
 KEPVI;KEPVI;@200K;
-ATUSA;ATUSA;<br>;
-PETMI;PETMI;
-KELMA;KELMA;<br>;
-PETMI;PETMI;
+PETMI;PETMI;<br>;
+PETMI;PETMI;<br>;
 
-//// END CYPK2 ////
+//// END CYPK3 ////

@@ -1,5 +1,5 @@
 // KRNO SIDs
-// Auto-generated 12/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/28/2023 by Wes Sleeman (XA)
 
 
 //// ALPYN1 ////
@@ -58,6 +58,20 @@ PYGOW;PYGOW;^17000;
 //// END PVINE4 ////
 
 
+
+//// SPRKS1 ////
+KRNO;17L:17R:26:35L:35R;SPRKS1;KRNO;KRNO;
+FMG;FMG;<br>;
+FMG;FMG;
+FMG;FMG;<br>;
+FMG;FMG;
+FMG;FMG;<br>;
+FMG;FMG;<br>;
+FMG;FMG;
+FMG;FMG;<br>;
+FMG;FMG;
+
+//// END SPRKS1 ////
 
 //// WAGGE7 ////
 KRNO;17L:17R;WAGGE7;KRNO;KRNO;

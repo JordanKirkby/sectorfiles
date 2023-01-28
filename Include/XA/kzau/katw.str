@@ -1,5 +1,5 @@
 // KATW STARs
-// Auto-generated 12/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/28/2023 by Wes Sleeman (XA)
 
 // KATW Approaches
 
@@ -78,11 +78,10 @@ ASIGE;ASIGE;^2700;
 SEMOE;SEMOE;@2700;
 TUCNY;TUCNY;^1440;
 ASIGE;ASIGE;
-AUW;AUW;<br>;
-TIDME;TIDME;^2900;
-ASIGE;ASIGE;
 RABEE;RABEE;<br>;
 WUPON;WUPON;^3100;
+ASIGE;ASIGE;
+TIDME;TIDME;<br>;
 ASIGE;ASIGE;
 
 KATW;21;GA RNV21;KATW;KATW;5;

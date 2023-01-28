@@ -1,5 +1,5 @@
 // KBFR STARs
-// Auto-generated 12/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/28/2023 by Wes Sleeman (XA)
 
 // KBFR Approaches
 
@@ -8,7 +8,11 @@
 KBFR;13;VDM13;KBFR;KBFR;3;
 HELOW;HELOW;<br>;
 HELOW;HELOW;^2500;
-PERLE;PERLE;@2500 
+PERLE;PERLE;@2500;
+WABLA;WABLA;^1380;
+FANAB;FANAB;@755;
+DOLAC;DOLAC;<br>;
+HELOW;HELOW;
 OOM;OOM;<br>;
 HELOW;HELOW;
 

@@ -1,5 +1,5 @@
 // KDNN STARs
-// Auto-generated 12/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/28/2023 by Wes Sleeman (XA)
 
 // KDNN Approaches
 
@@ -9,15 +9,12 @@ KDNN;14;ILS14;KDNN;KDNN;3;
 ROLTE;ROLTE;<br>;
 ROLTE;ROLTE;^2900;
 EWADA;EWADA;@2600;
-COMAR;COMAR;<br>;
-ADETE;ADETE;^3800;
-ROLTE;ROLTE;
-GQO;GQO;<br>;
+JILIS;JILIS;<br>;
 ROLTE;ROLTE;
 
 KDNN;14;GA ILS14;KDNN;KDNN;5;
-GQO;GQO;<br>;
-GQO;GQO;^3100;
+JILIS;JILIS;<br>;
+JILIS;JILIS;^3000;
 //// END ILS14 ////
 
 //// RNV14 ////

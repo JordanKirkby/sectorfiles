@@ -1,5 +1,5 @@
 // CYQT STARs
-// Auto-generated 12/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/28/2023 by Wes Sleeman (XA)
 
 // CYQT Approaches
 
@@ -29,19 +29,6 @@ CYQT;07;GA NDB07;CYQT;CYQT;5;
 QT;QT;<br>;
 QT;QT;@3400;
 //// END NDB07 ////
-
-//// NDB25 ////
-CYQT;25;NDB25;CYQT;CYQT;3;
-ZQT;ZQT;<br>;
-ZQT;ZQT;@1770;
-YQT;YQT;<br>;
-ZQT;ZQT;^3000 @210K @210K @210K;
-ZQT;ZQT;
-
-CYQT;25;GA NDB25;CYQT;CYQT;5;
-ZQT;ZQT;<br>;
-ZQT;ZQT;@3400;
-//// END NDB25 ////
 
 //// RNVY07 ////
 CYQT;07;RNVY07;CYQT;CYQT;3;

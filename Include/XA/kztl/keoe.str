@@ -1,5 +1,5 @@
 // KEOE STARs
-// Auto-generated 12/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/28/2023 by Wes Sleeman (XA)
 
 // KEOE Approaches
 
@@ -8,12 +8,8 @@
 KEOE;22;NDB22;KEOE;KEOE;3;
 FF22;FF22;<br>;
 FF22;FF22;@2500;
-EOE;EOE;@615;
+EOE;EOE;@572;
 BUBBA;BUBBA;<br>;
-EOE;EOE;^3000 @210K @210K @210K 
-CHATT;CHATT;
-EOE;EOE;^3000 @210K @210K @210K 
-GRD;GRD;
 EOE;EOE;^3000 @210K @210K @210K 
 WILLS;WILLS;
 EOE;EOE;^3000 @210K @210K @210K;

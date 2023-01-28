@@ -1,22 +1,8 @@
 // KARV STARs
-// Auto-generated 12/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/28/2023 by Wes Sleeman (XA)
 
 // KARV Approaches
 
-
-//// LOC36 ////
-KARV;36;LOC36;KARV;KARV;3;
-KAPNE;KAPNE;<br>;
-KAPNE;KAPNE;^3400;
-DOUGY;DOUGY;@3400;
-KRSMS;KRSMS;<br>;
-DOUGY;DOUGY;^3400 @210K @210K @210K 
-RHI;RHI;
-KAPNE;KAPNE;
-
-KARV;36;GA LOC36;KARV;KARV;5;
-DOUGY;DOUGY;<br>;
-//// END LOC36 ////
 
 //// RNV18 ////
 KARV;18;RNV18;KARV;KARV;3;

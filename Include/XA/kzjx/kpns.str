@@ -1,5 +1,5 @@
 // KPNS STARs
-// Auto-generated 12/1/2022 by Wes Sleeman (XA)
+// Auto-generated 1/28/2023 by Wes Sleeman (XA)
 
 // KPNS Approaches
 
@@ -100,7 +100,7 @@ WABEN;WABEN;^2700;
 //// VOR08 ////
 KPNS;08;VOR08;KPNS;KPNS;3;
 NUN;NUN;<br>;
-NUN;NUN;@2000;
+NUN;NUN;@2500;
 PENSI;PENSI;<br>;
 NUN;NUN;^3000 @210K @210K @210K;
 NUN;NUN;
