@@ -1,3 +1,6 @@
+// File not used.  Can we delete it?
+// Data NOT used
+//
 //***Parking Lines***
 //Untitled Path
 N033.56.42.877;W118.25.44.845;N033.56.43.181;W118.25.42.286;TAXI_CENTER;
