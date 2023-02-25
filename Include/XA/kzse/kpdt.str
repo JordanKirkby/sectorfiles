@@ -1,5 +1,5 @@
 // KPDT STARs
-// Auto-generated 1/28/2023 by Wes Sleeman (XA)
+// Auto-generated 2/25/2023 by Wes Sleeman (XA)
 
 // KPDT Approaches
 
@@ -103,8 +103,9 @@ PDT;PDT;^4300;
 KPDT;29;RNV29;KPDT;KPDT;3;
 SERDY;SERDY;<br>;
 SERDY;SERDY;^6400;
-CUPOK;CUPOK;@4800;
-ADXAB;ADXAB;^3160;
+JABNO;JABNO;^5300;
+CUPOK;CUPOK;@4700;
+ADXAB;ADXAB;^3140;
 HAGRD;HAGRD;<br>;
 SERDY;SERDY;
 LACED;LACED;<br>;

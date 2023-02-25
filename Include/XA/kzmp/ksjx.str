@@ -1,8 +1,24 @@
 // KSJX STARs
-// Auto-generated 1/28/2023 by Wes Sleeman (XA)
+// Auto-generated 2/25/2023 by Wes Sleeman (XA)
 
 // KSJX Approaches
 
+
+//// RNV09 ////
+KSJX;09;RNV09;KSJX;KSJX;3;
+JUPEL;JUPEL;<br>;
+JUPEL;JUPEL;^2600;
+ADLEY;ADLEY;@2300;
+CEVEK;CEVEK;^1220;
+CABAR;CABAR;<br>;
+JUPEL;JUPEL;
+WIKIX;WIKIX;<br>;
+JUPEL;JUPEL;
+
+KSJX;09;GA RNV09;KSJX;KSJX;5;
+BRAMB;BRAMB;<br>;
+BRAMB;BRAMB;^2600;
+//// END RNV09 ////
 
 //// RNV27 ////
 KSJX;27;RNV27;KSJX;KSJX;3;

@@ -1,5 +1,5 @@
 // KPRX STARs
-// Auto-generated 1/28/2023 by Wes Sleeman (XA)
+// Auto-generated 2/25/2023 by Wes Sleeman (XA)
 
 // KPRX Approaches
 
@@ -47,14 +47,11 @@ PRX;PRX;@2200 @210K @210K @210K
 RAKOC;RAKOC;<br>;
 ZOMEG;ZOMEG;^2200;
 PRX;PRX;
-SLR;SLR;<br>;
-ZOMEG;ZOMEG;^2200;
-PRX;PRX;
 YOTUB;YOTUB;<br>;
 ZOMEG;ZOMEG;^2200;
 PRX;PRX;
 
 KPRX;35;GA VOR35;KPRX;KPRX;5;
 PRX;PRX;<br>;
-PRX;PRX;^2200;
+PRX;PRX;^2300;
 //// END VOR35 ////

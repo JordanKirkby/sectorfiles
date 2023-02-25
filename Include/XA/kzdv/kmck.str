@@ -1,5 +1,5 @@
 // KMCK STARs
-// Auto-generated 1/28/2023 by Wes Sleeman (XA)
+// Auto-generated 2/25/2023 by Wes Sleeman (XA)
 
 // KMCK Approaches
 
@@ -80,7 +80,7 @@ KMCK;30;VOR30;KMCK;KMCK;3;
 FF30;FF30;<br>;
 FF30;FF30;@4200;
 ETUYE;ETUYE;^3160;
-EP30;EP30;@2598;
+EP30;EP30;@2596;
 MCK;MCK;^2990 @210K @210K @210K;
 FF30;FF30;
 

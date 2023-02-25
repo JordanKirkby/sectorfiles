@@ -1,23 +1,8 @@
 // KLKR STARs
-// Auto-generated 1/28/2023 by Wes Sleeman (XA)
+// Auto-generated 2/25/2023 by Wes Sleeman (XA)
 
 // KLKR Approaches
 
-
-//// NDB24 ////
-KLKR;24;NDB24;KLKR;KLKR;3;
-FF24;FF24;<br>;
-FF24;FF24;@2500;
-CTF;CTF;<br>;
-LKR;LKR;^2500 @210K @210K @210K 
-RICHE;RICHE;
-LKR;LKR;^2500 @210K @210K @210K;
-FF24;FF24;
-
-KLKR;24;GA NDB24;KLKR;KLKR;5;
-LKR;LKR;<br>;
-LKR;LKR;^2500;
-//// END NDB24 ////
 
 //// RNV06 ////
 KLKR;06;RNV06;KLKR;KLKR;3;

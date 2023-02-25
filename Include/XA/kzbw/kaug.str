@@ -1,5 +1,5 @@
 // KAUG STARs
-// Auto-generated 1/28/2023 by Wes Sleeman (XA)
+// Auto-generated 2/25/2023 by Wes Sleeman (XA)
 
 // KAUG Approaches
 
@@ -17,18 +17,6 @@ KAUG;17;GA ILS17;KAUG;KAUG;5;
 DUNNS;DUNNS;<br>;
 DUNNS;DUNNS;^2500;
 //// END ILS17 ////
-
-//// RNV08 ////
-KAUG;08;RNV08;KAUG;KAUG;3;
-ESIRE;ESIRE;<br>;
-ESIRE;ESIRE;^3000;
-ANIZI;ANIZI;@2000;
-ESIRE;ESIRE;
-
-KAUG;08;GA RNV08;KAUG;KAUG;5;
-JOKDO;JOKDO;<br>;
-YOSTT;YOSTT;^3000;
-//// END RNV08 ////
 
 //// RNV17 ////
 KAUG;17;RNV17;KAUG;KAUG;3;
