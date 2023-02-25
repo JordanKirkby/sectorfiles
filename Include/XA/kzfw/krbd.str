@@ -1,5 +1,5 @@
 // KRBD STARs
-// Auto-generated 1/28/2023 by Wes Sleeman (XA)
+// Auto-generated 2/25/2023 by Wes Sleeman (XA)
 
 // KRBD Approaches
 
@@ -26,6 +26,19 @@ KRBD;31;GA ILS31;KRBD;KRBD;5;
 FLIPP;FLIPP;<br>;
 FLIPP;FLIPP;^2500;
 //// END ILS31 ////
+
+//// RNV13 ////
+KRBD;13;RNV13;KRBD;KRBD;3;
+BOHBA;BOHBA;<br>;
+BOHBA;BOHBA;^2100;
+FETTT;FETTT;@1700;
+JNNGO;JNNGO;<br>;
+BOHBA;BOHBA;
+
+KRBD;13;GA RNV13;KRBD;KRBD;5;
+FIKTI;FIKTI;<br>;
+FIKTI;FIKTI;^3000;
+//// END RNV13 ////
 
 //// RNV17 ////
 KRBD;17;RNV17;KRBD;KRBD;3;

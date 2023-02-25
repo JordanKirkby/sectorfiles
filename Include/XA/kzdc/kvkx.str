@@ -1,6 +1,22 @@
 // KVKX STARs
-// Auto-generated 1/28/2023 by Wes Sleeman (XA)
+// Auto-generated 2/25/2023 by Wes Sleeman (XA)
 
+// KVKX Approaches
+
+
+//// RNV06 ////
+KVKX;06;RNV06;KVKX;KVKX;3;
+WOBUB;WOBUB;<br>;
+WOBUB;WOBUB;^1700;
+CRROL;CRROL;@1500;
+IRONS;IRONS;<br>;
+WOBUB;WOBUB;
+WOBUB;WOBUB;
+
+KVKX;06;GA RNV06;KVKX;KVKX;5;
+WOBUB;WOBUB;<br>;
+WOBUB;WOBUB;^1700;
+//// END RNV06 ////
 
 // KVKX Arrivals
 

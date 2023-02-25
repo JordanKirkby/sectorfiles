@@ -1,5 +1,5 @@
 // CYEG SIDs
-// Auto-generated 1/28/2023 by Wes Sleeman (XA)
+// Auto-generated 2/25/2023 by Wes Sleeman (XA)
 
 
 
@@ -11,12 +11,12 @@ GABET;GABET;
 
 //// END GABET1 ////
 
-//// HAMPO1 ////
-CYEG;20;HAMPO1;CYEG;CYEG;
-IPTID;IPTID;<br>;
+//// HAMPO2 ////
+CYEG;20;HAMPO2;CYEG;CYEG;
+OBMOX;OBMOX;<br>;
 HAMPO;HAMPO;
 
-//// END HAMPO1 ////
+//// END HAMPO2 ////
 
 //// JEVON1 ////
 CYEG;12;JEVON1;CYEG;CYEG;

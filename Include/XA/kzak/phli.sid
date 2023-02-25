@@ -1,11 +1,17 @@
 // PHLI SIDs
-// Auto-generated 1/28/2023 by Wes Sleeman (XA)
+// Auto-generated 2/25/2023 by Wes Sleeman (XA)
 
 
+//// LIHUE6 ////
+PHLI;03:35;LIHUE6;PHLI;PHLI;
+BOOKE;BOOKE;<br>;
+BOOKE;BOOKE;<br>;
 
+//// END LIHUE6 ////
 
-//// RICHE2 ////
-PHLI;17:21;RICHE2;PHLI;PHLI;
-LIH;LIH;<br>;
+//// RICHE3 ////
+PHLI;17:21;RICHE3;PHLI;PHLI;
+BOOKE;BOOKE;<br>;
+BOOKE;BOOKE;<br>;
 
-//// END RICHE2 ////
+//// END RICHE3 ////

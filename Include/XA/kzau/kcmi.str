@@ -1,5 +1,5 @@
 // KCMI STARs
-// Auto-generated 1/28/2023 by Wes Sleeman (XA)
+// Auto-generated 2/25/2023 by Wes Sleeman (XA)
 
 // KCMI Approaches
 
@@ -49,7 +49,7 @@ LODGE;LODGE;
 KCMI;32R;ILS32R;KCMI;KCMI;3;
 JAVOM;JAVOM;<br>;
 JAVOM;JAVOM;^2600;
-VEALS;VEALS;@2572;
+VEALS;VEALS;@2545;
 CMI;CMI;<br>;
 VEALS;VEALS;^2600 @210K @210K @210K 
 NEWMY;NEWMY;

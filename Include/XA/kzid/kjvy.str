@@ -1,5 +1,5 @@
 // KJVY STARs
-// Auto-generated 1/28/2023 by Wes Sleeman (XA)
+// Auto-generated 2/25/2023 by Wes Sleeman (XA)
 
 // KJVY Approaches
 
@@ -45,6 +45,22 @@ KJVY;18;GA RNV18;KJVY;KJVY;5;
 EATTN;EATTN;<br>;
 EATTN;EATTN;^3100;
 //// END RNV18 ////
+
+//// RNV36 ////
+KJVY;36;RNV36;KJVY;KJVY;3;
+ITSUW;ITSUW;<br>;
+ITSUW;ITSUW;^2300 @180K;
+VOCRU;VOCRU;^1600;
+ROSYO;ROSYO;@1500;
+UJXIC;UJXIC;@671;
+NUNYA;NUNYA;<br>;
+NUNYA;NUNYA;^3000 @210K;
+ITSUW;ITSUW;
+
+KJVY;36;GA RNV36;KJVY;KJVY;5;
+JKUKA;JKUKA;<br>;
+JKUKA;JKUKA;^3000;
+//// END RNV36 ////
 
 // KJVY Arrivals
 

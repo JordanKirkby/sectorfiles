@@ -1,5 +1,5 @@
 // KBFM STARs
-// Auto-generated 1/28/2023 by Wes Sleeman (XA)
+// Auto-generated 2/25/2023 by Wes Sleeman (XA)
 
 // KBFM Approaches
 
@@ -49,6 +49,7 @@ KBFM;32;RNV32;KBFM;KBFM;3;
 ROKGO;ROKGO;<br>;
 ROKGO;ROKGO;^1700;
 LURDE;LURDE;@1700;
+DEXOW;DEXOW;^580;
 ROKGO;ROKGO;
 
 KBFM;32;GA RNV32;KBFM;KBFM;5;
@@ -66,7 +67,7 @@ POCIP;POCIP;
 
 KBFM;36;GA RNV36;KBFM;KBFM;5;
 WORIR;WORIR;<br>;
-WORIR;WORIR;^2100;
+WORIR;WORIR;^2300;
 //// END RNV36 ////
 
 //// VOR14 ////
