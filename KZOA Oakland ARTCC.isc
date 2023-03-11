@@ -71,5 +71,8 @@ F;app\ksuu sfoe.geo
 F;app\ksuu sfow.geo
 
 F;ad\ksfo.geo
+F;ad\ksfo_ctrlines.geo
+F;ad\ksfo_stopbar.geo
+F;ad\ksfo_labels.geo
 
 F;airspace\nct_mva.geo
