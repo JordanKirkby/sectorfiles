@@ -1,5 +1,5 @@
 // KHOP STARs
-// Auto-generated 2/25/2023 by Wes Sleeman (XA)
+// Auto-generated 3/23/2023 by Wes Sleeman (XA)
 
 // KHOP Approaches
 
@@ -60,6 +60,7 @@ ZIKIG;ZIKIG;^2500;
 WOWED;WOWED;@2500;
 VAYUY;VAYUY;@626;
 BNA;BNA;<br>;
+BNA;BNA;^3100;
 HXW;HXW;^3100;
 ZIKIG;ZIKIG;^2500;
 ZIKIG;ZIKIG;
