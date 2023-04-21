@@ -1,5 +1,5 @@
 // KDDC STARs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 // KDDC Approaches
 
@@ -8,9 +8,9 @@
 KDDC;32;VDM32;KDDC;KDDC;3;
 KEYLE;KEYLE;<br>;
 KEYLE;KEYLE;^4300;
-MODGE;MODGE;@3900;
+MODGE;MODGE;@4000;
 DDC;DDC;<br>;
-MODGE;MODGE;^4200 @210K @210K @210K 
+MODGE;MODGE;^4300 @210K @210K @210K 
 KUDDO;KUDDO;
 KEYLE;KEYLE;
 KUDIC;KUDIC;<br>;
@@ -18,7 +18,7 @@ KEYLE;KEYLE;
 
 KDDC;32;GA VDM32;KDDC;KDDC;5;
 DDC;DDC;<br>;
-DDC;DDC;^4200;
+DDC;DDC;^4300;
 //// END VDM32 ////
 
 //// ILS14 ////

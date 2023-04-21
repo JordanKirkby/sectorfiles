@@ -1,5 +1,5 @@
 // CYEV STARs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 // CYEV Approaches
 
@@ -21,6 +21,23 @@ CYEV;24;GA VDM24;CYEV;CYEV;5;
 YEV;YEV;<br>;
 YEV;YEV;@2200;
 //// END VDM24 ////
+
+//// ILS06 ////
+CYEV;06;ILS06;CYEV;CYEV;3;
+IGTUM;IGTUM;<br>;
+IGTUM;IGTUM;^2200;
+EBDOS;EBDOS;@1480;
+IPSUN;IPSUN;<br>;
+IPSUN;IPSUN;
+LEPOB;LEPOB;
+YEV;YEV;
+EBDOS;EBDOS;^2200 @210K @210K @210K;
+IGTUM;IGTUM;
+
+CYEV;06;GA ILS06;CYEV;CYEV;5;
+YEV;YEV;<br>;
+YEV;YEV;@2200;
+//// END ILS06 ////
 
 //// RNV06 ////
 CYEV;06;RNV06;CYEV;CYEV;3;

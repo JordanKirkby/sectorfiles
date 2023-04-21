@@ -1,5 +1,5 @@
 // MDSD STARs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 // MDSD Approaches
 
@@ -322,7 +322,7 @@ KODIX;KODIX;vF200 @250K;
 //// KODI2H ////
 MDSD;35;KODI2H;MDSD;MDSD;
 KODIX;KODIX;<br>;
-KODIX;KODIX;vF200 @250K;
+KODIX;KODIX;^16000 @280K;
 VINRO;VINRO;^3000 @210K;
 
 //// END KODI2H ////
@@ -337,7 +337,7 @@ KODIX;KODIX;vF200 @250K;
 //// KODI3H ////
 MDSD;35;KODI3H;MDSD;MDSD;
 KODIX;KODIX;<br>;
-KODIX;KODIX;vF200 @250K;
+KODIX;KODIX;^16000 @280K;
 
 //// END KODI3H ////
 

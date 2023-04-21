@@ -1,20 +1,8 @@
 // KASD STARs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 // KASD Approaches
 
-
-//// VDM18 ////
-KASD;18;VDM18;KASD;KASD;3;
-PCU;PCU;<br>;
-PCU;PCU;^2000;
-CESOS;CESOS;@1600;
-PCU;PCU;
-
-KASD;18;GA VDM18;KASD;KASD;5;
-PCU;PCU;<br>;
-PCU;PCU;^2000;
-//// END VDM18 ////
 
 //// RNV18 ////
 KASD;18;RNV18;KASD;KASD;3;

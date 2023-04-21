@@ -1,5 +1,5 @@
 // KPBI SIDs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 
 //// MIXAE3 ////
@@ -262,8 +262,8 @@ PANNT;PANNT;
 MATLK;MATLK;
 //// END TBIRD5 ////
 
-//// WELLY2 ////
-KPBI;10L:14:28R:32;WELLY2;KPBI;KPBI;
+//// WELLY3 ////
+KPBI;10L:14:28R:32;WELLY3;KPBI;KPBI;
 WELLY;WELLY;<br>;
 CRRMN;CRRMN;<br>;
 SLAAM;SLAAM;<br>;
@@ -276,4 +276,4 @@ CRYER;CRYER;
 MYZNR;MYZNR;
 SLAAM;SLAAM;
 
-//// END WELLY2 ////
+//// END WELLY3 ////
