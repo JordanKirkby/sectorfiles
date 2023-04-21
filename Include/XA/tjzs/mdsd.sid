@@ -1,5 +1,5 @@
 // MDSD SIDs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 
 //// BERO2J ////
@@ -141,6 +141,7 @@ RETAK;RETAK;
 //// RETA2L ////
 MDSD;35;RETA2L;MDSD;MDSD;
 KNAPS;KNAPS;<br>;
+SGO;SGO;
 RETAK;RETAK;
 
 //// END RETA2L ////

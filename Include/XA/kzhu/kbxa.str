@@ -1,28 +1,8 @@
 // KBXA STARs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 // KBXA Approaches
 
-
-//// VDMA18 ////
-KBXA;18;VDMA18;KBXA;KBXA;3;
-MCB;MCB;<br>;
-PCU;PCU;<br>;
-PCU;PCU;@210K @210K @210K;
-
-KBXA;18;GA VDMA18;KBXA;KBXA;5;
-PCU;PCU;<br>;
-//// END VDMA18 ////
-
-//// VDMA36 ////
-KBXA;36;VDMA36;KBXA;KBXA;3;
-MCB;MCB;<br>;
-PCU;PCU;<br>;
-PCU;PCU;@210K @210K @210K;
-
-KBXA;36;GA VDMA36;KBXA;KBXA;5;
-PCU;PCU;<br>;
-//// END VDMA36 ////
 
 //// LOC18 ////
 KBXA;18;LOC18;KBXA;KBXA;3;

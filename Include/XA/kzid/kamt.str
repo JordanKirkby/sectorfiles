@@ -1,5 +1,5 @@
 // KAMT STARs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 // KAMT Approaches
 
@@ -26,11 +26,10 @@ KAMT;23;RNV23;KAMT;KAMT;3;
 FENLA;FENLA;<br>;
 FENLA;FENLA;^2800;
 BESPE;BESPE;@2800;
+DETKE;DETKE;<br>;
+FENLA;FENLA;
 MXQ;MXQ;<br>;
 GATVE;GATVE;^3000;
-FENLA;FENLA;
-YRK;YRK;<br>;
-DETKE;DETKE;^3300;
 FENLA;FENLA;
 
 KAMT;23;GA RNV23;KAMT;KAMT;5;

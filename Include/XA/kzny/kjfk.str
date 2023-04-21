@@ -1,5 +1,5 @@
 // KJFK STARs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 // KJFK Approaches
 
@@ -378,19 +378,6 @@ KJFK;31R;GA RNV31RZ;KJFK;KJFK;5;
 COL;COL;<br>;
 COL;COL;^4000;
 //// END RNV31RZ ////
-
-//// VOR04L ////
-KJFK;04L;VOR04L;KJFK;KJFK;3;
-KTAIT;KTAIT;<br>;
-KTAIT;KTAIT;@1500;
-JFK;JFK;<br>;
-KTAIT;KTAIT;^1500;
-KTAIT;KTAIT;
-
-KJFK;04L;GA VOR04L;KJFK;KJFK;5;
-DUFFY;DUFFY;<br>;
-DUFFY;DUFFY;^3000;
-//// END VOR04L ////
 
 //// VOR04R ////
 KJFK;04R;VOR04R;KJFK;KJFK;3;

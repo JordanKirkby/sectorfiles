@@ -1,5 +1,5 @@
 // KCTZ STARs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 // KCTZ Approaches
 
@@ -41,18 +41,6 @@ KCTZ;24;GA VDMA24;KCTZ;KCTZ;5;
 ALEXA;ALEXA;<br>;
 ALEXA;ALEXA;^2200;
 //// END VDMA24 ////
-
-//// LOC06 ////
-KCTZ;06;LOC06;KCTZ;KCTZ;3;
-ZUNIT;ZUNIT;<br>;
-ZUNIT;ZUNIT;^3000;
-NAYLR;NAYLR;@2000;
-UHBEK;UHBEK;@552;
-
-KCTZ;06;GA LOC06;KCTZ;KCTZ;5;
-CTZ;CTZ;<br>;
-CTZ;CTZ;^2000;
-//// END LOC06 ////
 
 //// RNV06 ////
 KCTZ;06;RNV06;KCTZ;KCTZ;3;

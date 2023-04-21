@@ -1,5 +1,5 @@
 // CYDN STARs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 // CYDN Approaches
 
@@ -15,19 +15,6 @@ CYDN;14;GA VDM14;CYDN;CYDN;5;
 YDN;YDN;<br>;
 YDN;YDN;@3000;
 //// END VDM14 ////
-
-//// NDB14 ////
-CYDN;14;NDB14;CYDN;CYDN;3;
-FN14;FN14;<br>;
-FN14;FN14;@2500;
-EP14;EP14;@1039;
-DN;DN;^1400 @210K @210K @210K;
-FN14;FN14;
-
-CYDN;14;GA NDB14;CYDN;CYDN;5;
-DN;DN;<br>;
-DN;DN;@2900;
-//// END NDB14 ////
 
 //// RNV14 ////
 CYDN;14;RNV14;CYDN;CYDN;3;

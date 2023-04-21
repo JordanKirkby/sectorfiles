@@ -1,5 +1,5 @@
 // CYCH STARs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 // CYCH Approaches
 
@@ -42,7 +42,7 @@ SEKIP;SEKIP;
 
 CYCH;09;GA RNV09;CYCH;CYCH;5;
 PIGDI;PIGDI;<br>;
-PIGDI;PIGDI;@2000;
+PIGDI;PIGDI;@1700;
 //// END RNV09 ////
 
 //// RNV27 ////
@@ -59,5 +59,5 @@ SASOV;SASOV;
 
 CYCH;27;GA RNV27;CYCH;CYCH;5;
 EBDAV;EBDAV;<br>;
-EBDAV;EBDAV;@2000;
+EBDAV;EBDAV;@1800;
 //// END RNV27 ////

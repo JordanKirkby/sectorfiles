@@ -1,5 +1,5 @@
 // KSPI STARs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 // KSPI Approaches
 
@@ -107,8 +107,8 @@ CALDE;CALDE;^2600 @210K @210K @210K;
 CF31;CF31;
 
 KSPI;31;GA ILS31;KSPI;KSPI;5;
-CALDE;CALDE;<br>;
-CALDE;CALDE;^3100;
+GINIA;GINIA;<br>;
+GINIA;GINIA;^3200;
 //// END ILS31 ////
 
 //// RNV04 ////

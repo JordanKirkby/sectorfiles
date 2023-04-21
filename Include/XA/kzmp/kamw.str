@@ -1,5 +1,5 @@
 // KAMW STARs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 // KAMW Approaches
 
@@ -8,11 +8,11 @@
 KAMW;01;ILS01;KAMW;KAMW;3;
 ZISTA;ZISTA;<br>;
 ZISTA;ZISTA;^4000;
-MERLE;MERLE;@2700;
+MERLE;MERLE;@3200;
 
 KAMW;01;GA ILS01;KAMW;KAMW;5;
-WURPU;WURPU;<br>;
-WURPU;WURPU;^4000;
+HANSD;HANSD;<br>;
+HANSD;HANSD;^4000;
 //// END ILS01 ////
 
 //// RNV01 ////
