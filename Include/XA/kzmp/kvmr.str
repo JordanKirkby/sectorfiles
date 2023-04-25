@@ -1,5 +1,5 @@
 // KVMR STARs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 // KVMR Approaches
 
@@ -10,12 +10,12 @@ WAPIR;WAPIR;<br>;
 WAPIR;WAPIR;^3500;
 ZUGPI;ZUGPI;@3000;
 YOVUP;YOVUP;^2040;
+FIITS;FIITS;<br>;
+WAPIR;WAPIR;
 HURLI;HURLI;<br>;
 WAPIR;WAPIR;^3500;
 WAPIR;WAPIR;
 JAKDI;JAKDI;<br>;
-WAPIR;WAPIR;
-YKN;YKN;<br>;
 WAPIR;WAPIR;
 
 KVMR;12;GA RNV12;KVMR;KVMR;5;

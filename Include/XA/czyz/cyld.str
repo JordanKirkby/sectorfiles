@@ -1,19 +1,8 @@
 // CYLD STARs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 // CYLD Approaches
 
-
-//// NDB05 ////
-CYLD;05;NDB05;CYLD;CYLD;3;
-YLD;YLD;<br>;
-YLD;YLD;@2860 @210K @210K @210K;
-YLD;YLD;
-
-CYLD;05;GA NDB05;CYLD;CYLD;5;
-YLD;YLD;<br>;
-YLD;YLD;@3200;
-//// END NDB05 ////
 
 //// RNV10 ////
 CYLD;10;RNV10;CYLD;CYLD;3;

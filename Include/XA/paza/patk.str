@@ -1,5 +1,5 @@
 // PATK STARs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 // PATK Approaches
 
@@ -18,20 +18,6 @@ PATK;01;GA VDM01;PATK;PATK;5;
 TKA;TKA;<br>;
 TKA;TKA;^3200;
 //// END VDM01 ////
-
-//// NDB01 ////
-PATK;01;NDB01;PATK;PATK;3;
-FN01;FN01;<br>;
-FN01;FN01;@2800;
-URTOW;URTOW;<br>;
-PEE;PEE;^4100 @210K @210K @210K;
-FN01;FN01;
-
-PATK;01;GA NDB01;PATK;PATK;5;
-PEE;PEE;<br>;
-PEE;PEE;^770;
-PEE;PEE;^2900;
-//// END NDB01 ////
 
 //// RNV01 ////
 PATK;01;RNV01;PATK;PATK;3;

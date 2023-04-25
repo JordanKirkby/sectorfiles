@@ -1,5 +1,5 @@
 // KROC STARs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 // KROC Approaches
 
@@ -21,7 +21,7 @@ BREIT;BREIT;^3000;
 KROC;22;ILS22;KROC;KROC;3;
 KECKE;KECKE;<br>;
 KECKE;KECKE;^2500;
-MAPES;MAPES;@2427;
+CALRU;CALRU;@2500;
 ROC;ROC;<br>;
 KECKE;KECKE;^3000;
 KECKE;KECKE;

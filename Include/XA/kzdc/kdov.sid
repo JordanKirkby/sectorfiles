@@ -1,5 +1,5 @@
 // KDOV SIDs
-// Auto-generated 3/23/2023 by Wes Sleeman (XA)
+// Auto-generated 4/21/2023 by Wes Sleeman (XA)
 
 
 //// CANNY1 ////
@@ -182,36 +182,3 @@ TYPNZ;TYPNZ;
 SCORN;SCORN;
 RRSIN;RRSIN;
 //// END CANNY1 ////
-
-//// SIE5 ////
-KDOV;01:14:19:32;SIE5;KDOV;KDOV;
-SIE;SIE;<br>;
-SIE;SIE;<br>;
-SIE;SIE;<br>;
-SIE;SIE;<br>;
-SIE;SIE;<br>;
-MANTA;MANTA;
-SHLEP;SHLEP;
-ACK;ACK;
-SIE;SIE;<br>;
-MANTA;MANTA;
-SHLEP;SHLEP;
-HTO;HTO;
-
-KDOV;01:14:19:32;SIE5.ACK;KDOV;KDOV;1;
-SIE;SIE;<br>;
-SIE;SIE;<br>;
-SIE;SIE;<br>;
-SIE;SIE;<br>;
-MANTA;MANTA;
-SHLEP;SHLEP;
-ACK;ACK;
-KDOV;01:14:19:32;SIE5.HTO;KDOV;KDOV;1;
-SIE;SIE;<br>;
-SIE;SIE;<br>;
-SIE;SIE;<br>;
-SIE;SIE;<br>;
-MANTA;MANTA;
-SHLEP;SHLEP;
-HTO;HTO;
-//// END SIE5 ////
