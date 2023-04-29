@@ -69,11 +69,9 @@ F;airspace\class b.artcc
 F;airspace\class c.artcc
 F;airspace\class d.artcc
 F;airspace\trsa.artcc
-//F;airspace\airspace-altitude-labels.artcc - data moved to class.b
 
 [GEO]
 F;klax.geo
-//F;klax_stoplines.geo - data moved to klax.geo
 F;ksan.geo
 F;klas.geo
 F;kbur.geo
