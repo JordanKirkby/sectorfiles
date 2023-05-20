@@ -1,5 +1,5 @@
 // KHOP STARs
-// Auto-generated 4/21/2023 by Wes Sleeman (XA)
+// Auto-generated 5/20/2023 by Wes Sleeman (XA)
 
 // KHOP Approaches
 
@@ -23,8 +23,8 @@ FK;FK;@2100 @210K @210K @210K;
 FK;FK;
 
 KHOP;23;GA NDB23;KHOP;KHOP;5;
-FK;FK;<br>;
-FK;FK;^2500;
+AIRBE;AIRBE;<br>;
+AIRBE;AIRBE;^2500;
 //// END NDB23 ////
 
 //// RNV18 ////
@@ -43,7 +43,7 @@ SHRMN;SHRMN;^3000;
 //// RNV23 ////
 KHOP;23;RNV23;KHOP;KHOP;3;
 CHNUK;CHNUK;<br>;
-CHNUK;CHNUK;^3000;
+CHNUK;CHNUK;@3000;
 JOSAL;JOSAL;@2200;
 HUXEP;HUXEP;^1500;
 CHNUK;CHNUK;
