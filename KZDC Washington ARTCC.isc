@@ -54,7 +54,9 @@ F;airspace\class d.artcc
 F;airspace\trsa.artcc
 
 [GEO]
+F;geo\bridges.geo
 F;geo\us-coast.geo
+F;geo\potomac-river.geo
 F;pier\korf_parking.geo
 F;pier\krdu_parking.geo
 F;pier\kric_parking.geo
@@ -64,3 +66,7 @@ F;airspace\restrict.geo
 F;airspace\warning.geo
 F;airspace\moa.geo
 F;airspace\prohibit.geo
+
+[VFRFIX]
+
+F;vfr\kdca.vfi
