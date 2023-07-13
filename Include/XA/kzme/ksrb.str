@@ -1,5 +1,5 @@
 // KSRB STARs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 // KSRB Approaches
 
@@ -10,8 +10,6 @@ CF04;CF04;<br>;
 CF04;CF04;^3000;
 HEM;HEM;@2486;
 GRILL;GRILL;<br>;
-HEM;HEM;^3600 @210K @210K @210K 
-MCMIN;MCMIN;
 HEM;HEM;^3600 @210K @210K @210K;
 CF04;CF04;
 
@@ -25,8 +23,6 @@ KSRB;04;NDB04;KSRB;KSRB;3;
 HEM;HEM;<br>;
 HEM;HEM;@2500;
 GRILL;GRILL;<br>;
-HEM;HEM;^3600 @210K @210K @210K 
-MCMIN;MCMIN;
 HEM;HEM;^3600 @210K @210K @210K;
 HEM;HEM;
 

@@ -1,5 +1,5 @@
 // KCSV STARs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 // KCSV Approaches
 
@@ -58,10 +58,11 @@ HCH;HCH;^5000;
 
 //// RNV26 ////
 KCSV;26;RNV26;KCSV;KCSV;3;
-SAYCO;SAYCO;<br>;
+SALTZ;SALTZ;<br>;
+SALTZ;SALTZ;^4700;
 SAYCO;SAYCO;^4100;
 BUMSE;BUMSE;@3600;
-SAYCO;SAYCO;
+SALTZ;SALTZ;
 
 KCSV;26;GA RNV26;KCSV;KCSV;5;
 ADNOY;ADNOY;<br>;

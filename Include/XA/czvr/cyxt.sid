@@ -1,5 +1,5 @@
 // CYXT SIDs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 
 //// MEDLI1 ////
@@ -19,9 +19,9 @@ RESIN;RESIN;@265K;
 
 //// END RESI2 ////
 
-//// ZKID1 ////
-CYXT;15;ZKID1;CYXT;CYXT;
+//// ZKID2 ////
+CYXT;15;ZKID2;CYXT;CYXT;
 EPTAV;EPTAV;<br>;
 ZKI;ZKI;
 
-//// END ZKID1 ////
+//// END ZKID2 ////

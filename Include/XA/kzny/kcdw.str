@@ -1,5 +1,5 @@
 // KCDW STARs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 // KCDW Approaches
 
@@ -21,8 +21,8 @@ APART;APART;^3000;
 DOWDY;DOWDY;
 
 KCDW;22;GA LOC22;KCDW;KCDW;5;
-CAT;CAT;<br>;
-CAT;CAT;^2000;
+SBJ;SBJ;<br>;
+SBJ;SBJ;^2200;
 //// END LOC22 ////
 
 //// RNV04 ////

@@ -1,5 +1,5 @@
 // LFVP STARs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 // LFVP Approaches
 
@@ -43,7 +43,7 @@ LFVP;26;NDM26;LFVP;LFVP;3;
 FN26;FN26;<br>;
 FN26;FN26;@1600;
 IMOSA;IMOSA;<br>;
-IMOSA;IMOSA;
+IMOSA;IMOSA;^2000 
 SP;SP;^2000;
 SP;SP;
 FN26;FN26;

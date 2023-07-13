@@ -1,5 +1,5 @@
 // CYRQ STARs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 // CYRQ Approaches
 
@@ -19,10 +19,9 @@ YRQ;YRQ;@2700;
 //// RNV05 ////
 CYRQ;05;RNV05;CYRQ;CYRQ;3;
 IKNIK;IKNIK;<br>;
-IKNIK;IKNIK;^1300;
+IKNIK;IKNIK;^1500;
 KAXAT;KAXAT;@1100;
 APDUL;APDUL;<br>;
-ONGOV;ONGOV;^1400;
 IKNIK;IKNIK;
 
 CYRQ;05;GA RNV05;CYRQ;CYRQ;5;

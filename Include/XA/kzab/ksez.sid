@@ -1,12 +1,13 @@
 // KSEZ SIDs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 
-//// OATES1 ////
-KSEZ;21;OATES1;KSEZ;KSEZ;
-FETIN;FETIN;<br>;
-HEMUT;HEMUT;
-ZABUS;ZABUS;
-OATES;OATES;
+//// BYTER1 ////
+KSEZ;21;BYTER1;KSEZ;KSEZ;
+JEXXI;JEXXI;<br>;
+GATTS;GATTS;
+PIPOE;PIPOE;
+SIDTY;SIDTY;
+BYTER;BYTER;
 
-//// END OATES1 ////
+//// END BYTER1 ////

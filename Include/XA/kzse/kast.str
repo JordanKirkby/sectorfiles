@@ -1,5 +1,5 @@
 // KAST STARs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 // KAST Approaches
 
@@ -65,11 +65,13 @@ KULOA;KULOA;^5000;
 //// VOR08 ////
 KAST;08;VOR08;KAST;KAST;3;
 FF08;FF08;<br>;
-FF08;FF08;@1800 @210K @210K @210K;
+FF08;FF08;@2000;
+AST;AST;<br>;
+AST;AST;^2600 @210K @210K @210K;
 FF08;FF08;
 
 KAST;08;GA VOR08;KAST;KAST;5;
 AST;AST;<br>;
-AST;AST;^414;
-AST;AST;^3000;
+AST;AST;^420;
+AST;AST;^4800;
 //// END VOR08 ////

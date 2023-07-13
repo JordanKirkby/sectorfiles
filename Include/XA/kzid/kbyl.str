@@ -1,21 +1,8 @@
 // KBYL STARs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 // KBYL Approaches
 
-
-//// VDM20 ////
-KBYL;20;VDM20;KBYL;KBYL;3;
-LOZ;LOZ;<br>;
-LOZ;LOZ;^3300;
-SHADD;SHADD;@3100;
-HOLLO;HOLLO;^2000;
-LOZ;LOZ;
-
-KBYL;20;GA VDM20;KBYL;KBYL;5;
-LOZ;LOZ;<br>;
-LOZ;LOZ;^4000;
-//// END VDM20 ////
 
 //// LOC20 ////
 KBYL;20;LOC20;KBYL;KBYL;3;

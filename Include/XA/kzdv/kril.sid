@@ -1,5 +1,5 @@
 // KRIL SIDs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 
 //// EDUKY5 ////
@@ -10,13 +10,13 @@ EDUKY;EDUKY;
 
 //// END EDUKY5 ////
 
-//// SQUAT4 ////
-KRIL;26;SQUAT4;KRIL;KRIL;
-YIRDU;YIRDU;<br>;
+//// SQUAT5 ////
+KRIL;26;SQUAT5;KRIL;KRIL;
+GNBRL;GNBRL;<br>;
 YIRDU;YIRDU;
 SQUAT;SQUAT;
 
-//// END SQUAT4 ////
+//// END SQUAT5 ////
 
 //// UYRIG5 ////
 KRIL;08;UYRIG5;KRIL;KRIL;

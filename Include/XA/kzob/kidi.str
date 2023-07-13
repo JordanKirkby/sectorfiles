@@ -1,5 +1,5 @@
 // KIDI STARs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 // KIDI Approaches
 
@@ -24,9 +24,9 @@ UHGUS;UHGUS;^4800;
 //// RNV29 ////
 KIDI;29;RNV29;KIDI;KIDI;3;
 UHGUS;UHGUS;<br>;
-UHGUS;UHGUS;^4800;
+UHGUS;UHGUS;^4400;
 HARBI;HARBI;@3100;
-WATAR;WATAR;^2380;
+WATAR;WATAR;^2280;
 CEBOX;CEBOX;<br>;
 UHGUS;UHGUS;
 JEVRT;JEVRT;<br>;

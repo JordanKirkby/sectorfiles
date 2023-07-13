@@ -1,5 +1,5 @@
 // KPPQ STARs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 // KPPQ Approaches
 
@@ -35,17 +35,3 @@ KPPQ;31;GA RNV31;KPPQ;KPPQ;5;
 GABDY;GABDY;<br>;
 GABDY;GABDY;^2600;
 //// END RNV31 ////
-
-//// VOR13 ////
-KPPQ;13;VOR13;KPPQ;KPPQ;3;
-KIRTT;KIRTT;<br>;
-KIRTT;KIRTT;^2400;
-MANCE;MANCE;@2400;
-UIN;UIN;<br>;
-UIN;UIN;^2400;
-KIRTT;KIRTT;
-
-KPPQ;13;GA VOR13;KPPQ;KPPQ;5;
-MANCE;MANCE;<br>;
-MANCE;MANCE;^2400;
-//// END VOR13 ////

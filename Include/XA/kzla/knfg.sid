@@ -1,13 +1,6 @@
 // KNFG SIDs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
-
-//// BEACH9 ////
-KNFG;21;BEACH9;KNFG;KNFG;
-OCN;OCN;<br>;
-QUNTN;QUNTN;
-
-//// END BEACH9 ////
 
 //// BLDG2 ////
 KNFG;03:21;BLDG2;KNFG;KNFG;
@@ -37,3 +30,10 @@ ROBNN;ROBNN;@250K;
 ROBNN;ROBNN;
 
 //// END MUNN3 ////
+
+//// QUNTN1 ////
+KNFG;21;QUNTN1;KNFG;KNFG;
+OCN;OCN;<br>;
+QUNTN;QUNTN;
+
+//// END QUNTN1 ////

@@ -1,34 +1,8 @@
 // KPNA STARs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 // KPNA Approaches
 
-
-//// NDBA11 ////
-KPNA;11;NDBA11;KPNA;KPNA;3;
-PNA;PNA;<br>;
-PNA;PNA;@8260;
-BPI;BPI;<br>;
-PNA;PNA;^10000 @210K @210K @210K;
-PNA;PNA;
-
-KPNA;11;GA NDBA11;KPNA;KPNA;5;
-BPI;BPI;<br>;
-BPI;BPI;^10000;
-//// END NDBA11 ////
-
-//// NDBA29 ////
-KPNA;29;NDBA29;KPNA;KPNA;3;
-PNA;PNA;<br>;
-PNA;PNA;@8260;
-BPI;BPI;<br>;
-PNA;PNA;^10000 @210K @210K @210K;
-PNA;PNA;
-
-KPNA;29;GA NDBA29;KPNA;KPNA;5;
-BPI;BPI;<br>;
-BPI;BPI;^10000;
-//// END NDBA29 ////
 
 //// RNV11 ////
 KPNA;11;RNV11;KPNA;KPNA;3;
