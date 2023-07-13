@@ -1,5 +1,5 @@
 // KSMO SIDs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 
 //// CHOII3 ////
@@ -451,11 +451,11 @@ SSETH;SSETH;
 HEC;HEC;
 //// END SMO3 ////
 
-//// TPNGA2 ////
-KSMO;03:21;TPNGA2;KSMO;KSMO;
+//// TPNGA3 ////
+KSMO;03:21;TPNGA3;KSMO;KSMO;
 SADDE;SADDE;<br>;
 SADDE;SADDE;@5000;
 SADDE;SADDE;<br>;
 SADDE;SADDE;@5000;
 
-//// END TPNGA2 ////
+//// END TPNGA3 ////

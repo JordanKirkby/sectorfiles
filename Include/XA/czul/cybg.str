@@ -1,5 +1,5 @@
 // CYBG STARs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 // CYBG Approaches
 
@@ -160,6 +160,19 @@ CYBG;29;GA ILSZ29;CYBG;CYBG;5;
 MUSAX;MUSAX;<br>;
 MUSAX;MUSAX;@4800;
 //// END ILSZ29 ////
+
+//// NDB11 ////
+CYBG;11;NDB11;CYBG;CYBG;3;
+YBG;YBG;<br>;
+YBG;YBG;@2210;
+YBG;YBG;<br>;
+YBG;YBG;^2900 @210K @210K @210K;
+YBG;YBG;
+
+CYBG;11;GA NDB11;CYBG;CYBG;5;
+YBG;YBG;<br>;
+YBG;YBG;@3200;
+//// END NDB11 ////
 
 //// RNVX11 ////
 CYBG;11;RNVX11;CYBG;CYBG;3;

@@ -1,34 +1,8 @@
 // KHAE STARs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 // KHAE Approaches
 
-
-//// VDMA17 ////
-KHAE;17;VDMA17;KHAE;KHAE;3;
-UIN;UIN;<br>;
-UIN;UIN;^2300;
-EDTEB;EDTEB;@2300;
-MAGYA;MAGYA;@1640;
-UIN;UIN;
-
-KHAE;17;GA VDMA17;KHAE;KHAE;5;
-UIN;UIN;<br>;
-UIN;UIN;^2300;
-//// END VDMA17 ////
-
-//// VDMA35 ////
-KHAE;35;VDMA35;KHAE;KHAE;3;
-UIN;UIN;<br>;
-UIN;UIN;^2300;
-EDTEB;EDTEB;@2300;
-MAGYA;MAGYA;@1640;
-UIN;UIN;
-
-KHAE;35;GA VDMA35;KHAE;KHAE;5;
-UIN;UIN;<br>;
-UIN;UIN;^2300;
-//// END VDMA35 ////
 
 //// RNV17 ////
 KHAE;17;RNV17;KHAE;KHAE;3;

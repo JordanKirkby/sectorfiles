@@ -1,5 +1,5 @@
 // KBPI STARs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 // KBPI Approaches
 
@@ -24,11 +24,12 @@ JITJU;JITJU;^9000;
 //// VOR31 ////
 KBPI;31;VOR31;KBPI;KBPI;3;
 FF31;FF31;<br>;
-FF31;FF31;@8500 @210K @210K @210K;
+FF31;FF31;@8700;
+BPI;BPI;<br>;
+BPI;BPI;^8800 @210K @210K @210K;
 FF31;FF31;
 
 KBPI;31;GA VOR31;KBPI;KBPI;5;
 BPI;BPI;<br>;
-BPI;BPI;^7390;
-BPI;BPI;
+BPI;BPI;^7400;
 //// END VOR31 ////

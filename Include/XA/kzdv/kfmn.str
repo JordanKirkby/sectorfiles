@@ -1,5 +1,5 @@
 // KFMN STARs
-// Auto-generated 5/20/2023 by Wes Sleeman (XA)
+// Auto-generated 7/13/2023 by Wes Sleeman (XA)
 
 // KFMN Approaches
 
@@ -45,6 +45,21 @@ KFMN;07;GA VDM07;KFMN;KFMN;5;
 RSK;RSK;<br>;
 RSK;RSK;^8300;
 //// END VDM07 ////
+
+//// VDM25 ////
+KFMN;25;VDM25;KFMN;KFMN;3;
+CROMM;CROMM;<br>;
+CROMM;CROMM;^8400;
+RSK;RSK;@7500;
+BOFRO;BOFRO;^6500;
+CROMM;CROMM;
+TURLY;TURLY;<br>;
+CROMM;CROMM;
+
+KFMN;25;GA VDM25;KFMN;KFMN;5;
+CROMM;CROMM;<br>;
+CROMM;CROMM;^8400;
+//// END VDM25 ////
 
 //// ILS25 ////
 KFMN;25;ILS25;KFMN;KFMN;3;
