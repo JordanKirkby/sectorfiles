@@ -73,12 +73,12 @@ F;airspace\Class D.artcc
 F;airspace\Mode C Veil.artcc
 
 [GEO]
-//F;geo\coast.geo
-//F;ad\kmco.geo
-//F;ad\kmia_centerlines.geo
-//F;geo\restrict.geo
-//F;geo\warning.geo
-//F;geo\moa.geo
+F;geo\coast.geo
+F;ad\kmco.geo
+F;ad\kmia_centerlines.geo
+F;geo\restrict.geo
+F;geo\warning.geo
+F;geo\moa.geo
 //F;app\ftmyers_tracon_east.geo
 //F;app\ftmyers_tracon_west.geo
 //F;app\homestead_approach.geo
