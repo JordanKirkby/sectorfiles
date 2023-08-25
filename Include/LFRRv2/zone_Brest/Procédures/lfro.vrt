@@ -1,0 +1,8 @@
+//LFRJ VFR routes
+//Coordinates so as to avoid draw "bug" when same IDs exist
+
+VRN1;N048.43.01.000;W003.30.19.000; //OL
+VRN1;N048.45.16.000;W003.28.19.000; //LFRO
+
+VRS1;N048.47.44.000;W003.26.35.000; //OP
+VRS1;N048.45.16.000;W003.28.19.000; //LFRO

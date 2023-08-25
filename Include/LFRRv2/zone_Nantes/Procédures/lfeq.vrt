@@ -1,0 +1,5 @@
+//Itinéraire LFEA-LFEQ
+//Coordinates so as to avoid draw "bug" when same IDs exist
+
+ITI;N047.28.53.000;W003.06.06.000;LFEQ
+ITIN047.19.34.000;W003.11.56.000;LFEA
