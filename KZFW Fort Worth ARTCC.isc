@@ -12,9 +12,11 @@ APRON;#494949;
 OUTLINE;#2f2f2f;
 BUILDING;#646464;
 RUNWAY;#000000;
+FORTWORTH;#363636;
 
 [ATIS]
 F;default.atis
+
 [ATC]
 F;atc.atc
 
@@ -49,3 +51,11 @@ F;airspace\kzfw_app.artcc
 F;airspace\class b.artcc
 F;airspace\class c.artcc
 F;airspace\class d.artcc
+
+[GEO]
+F;geo\moa.geo
+F;geo\prohibit.geo
+F;geo\restrict.geo
+F;geo\warning.geo
+F;geo\Baseline.geo
+F;geo\Approaches.geo
