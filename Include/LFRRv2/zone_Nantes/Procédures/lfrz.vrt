@@ -1,7 +1,0 @@
-//LFRZ VFR routes
-//Coordinates so as to avoid draw "bug" when same IDs exist
-
-VRZ1;N047.14.03.000;W002.17.55.000; //W
-VRZ1;N047.17.08.000;W002.15.04.000; //W1
-VRZ1;N047.18.38.000;W002.09.24.000; //LFRZ
-VRZ1;N047.26.47.000;W002.05.25.000; //N
